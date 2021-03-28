@@ -7,8 +7,8 @@ import pandas as pd
 import plotly.express as px
 import json
 
-df = pd.read_json("../data/keywords.json")
-f = open("../data/custom.geo.json")
+df = pd.read_json("data/keywords.json")
+f = open("data/custom.geo.json")
 geojson = json.load(f)
 
 countries = df.explode("type")[df.explode("type")["type"] == "country"]
