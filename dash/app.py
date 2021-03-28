@@ -1,11 +1,13 @@
 import dash 
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
-import configparser
+import os
 
-c = configparser.ConfigParser()
-c.read("config.ini")
-uri = c.get("Postgres", "URI")
+
+uri = os.environ.get("DATABASE_URL")  # or other relevant config var
+if uri.startswith("postgres://"):
+    uri = uri.replace("postgres://", "postgresql://", 1)
+
 
 server = Flask(__name__)
 
