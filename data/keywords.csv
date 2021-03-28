@@ -1,0 +1,1430 @@
+,id,keyword,score,lat,lon,name,type,country_code,iso_3
+0,mecklenburg-vorpommerns,Mecklenburg-Vorpommern,61,53.61667,12.7,"Mecklenburg-Vorpommern, Deutschland",['region'],de,DEU
+1,grossbritanniens,Großbritannien,98,,,,,,
+2,tiflis,Tiflis,6,41.71667,44.78333,"Tiflis, Georgien","['region', 'place']",ge,GEO
+3,eriwan,Eriwan,0,28.4825,82.5087,"Eriwang, Rapti, Nepal",['place'],np,NPL
+4,adschabija,Adschdabija,2,,,,,,
+5,schwarzafrika,Afrika,96,-28.3782721907,23.9137106762,Südafrika,['country'],za,ZAF
+6,asiens,Asien,92,22.23972,-102.08889,"Asientos, Aguascalientes, Mexiko",['place'],mx,MEX
+7,athens,Athen,83,33.9596,-83.3767,"Athens, Georgia, Vereinigte Staaten",['place'],us,USA
+8,baden--wuerttemberg,Baden-Württemberg,89,48.53778,9.04111,"Baden-Württemberg, Deutschland",['region'],de,DEU
+9,bangla-desh,Bangladesch,58,24.3476077999,90.0779740421,Bangladesch,['country'],bd,BGD
+10,west-berlin,Berlin,99,52.51667,13.38333,"Berlin, Deutschland","['region', 'place']",de,DEU
+11,brecht,Bertolt Brecht,48,51.3495582,4.6393435,"Brecht, Provinz Antwerpen, Belgien",['place'],be,BEL
+12,myanmar-birma,Birma,37,36.5337922539,44.1221744288,"Birmarwan, Arbil, Irak",['place'],iq,IRQ
+13,blackstone,Blackstone Group,2,37.0804,-77.9972,"Blackstone, Virginia, Vereinigte Staaten",['place'],us,USA
+14,bogota,Bogotá,18,4.59889,-74.08083,"Bogotá, Kolumbien","['region', 'place']",co,COL
+15,bosnien,Bosnien und Herzegowina,60,44.1681150604,17.7865310091,Bosnien und Herzegowina,['country'],ba,BIH
+16,bosnien-herzegowina,Bosnien und Herzegowina,60,44.1681150604,17.7865310091,Bosnien und Herzegowina,['country'],ba,BIH
+17,botswana,Botsuana,12,-22.2129427789,24.316264769100002,Botswana,['country'],bw,BWA
+18,brasilia,Brasília,15,-15.7934,-47.8823,"Brasília, Bundesdistrikt von Brasilien, Brasilien",['place'],br,BRA
+19,briissel,Brüssel,93,50.8467,4.3547,"Brüssel, Region Brüssel-Hauptstadt, Belgien",['place'],be,BEL
+20,cancun,Cancún,7,21.16056,-86.8475,"Cancún, Quintana Roo, Mexiko",['place'],mx,MEX
+21,chamonix,Chamonix-Mont-Blanc,5,45.92222,6.86889,"Chamonix-Mont-Blanc, Département Haute-Savoie, Frankreich",['place'],fr,FRA
+22,chikago,Chicago,77,41.8756,-87.6244,"Chicago, Illinois, Vereinigte Staaten",['place'],us,USA
+23,chinas,China,98,35.5693,-80.5817,"China Grove, North Carolina, Vereinigte Staaten",['place'],us,USA
+24,volksrepublik-china,China,98,35.5693,-80.5817,"China Grove, North Carolina, Vereinigte Staaten",['place'],us,USA
+25,columbus,Christoph Columbus,5,39.9623,-83.0007,"Columbus, Ohio, Vereinigte Staaten",['place'],us,USA
+26,kongo%2C-demokratische-republik,Demokratische Republik Kongo,4,-1.1729185015,23.1668993659,Demokratische Republik Kongo,['country'],cd,COD
+27,jenin,Dschenin,3,32.46667,35.3,"Dschenin, Dschenin, Palästina",['place'],ps,PSE
+28,dusseldorf,Düsseldorf,93,51.21667,6.81667,"Düsseldorf, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+29,edinburg,Edinburgh,33,55.95,-3.19889,"Edinburgh, City of Edinburgh, Schottland, Vereinigtes Königreich",['place'],gb,GBR
+30,eilat,Elat,4,38.26667,25.98333,"Elata, Nördliche Ägäis, Griechenland",['place'],gr,GRC
+31,falkland,Falkland Inseln,3,-17.5333,-149.833,"Inseln über dem Winde, Französisch-Polynesien",['region'],pf,PYF
+32,frankfurt-main,Frankfurt am Main,90,50.11361,8.67972,"Frankfurt am Main, Hessen, Deutschland",['place'],de,DEU
+33,frankfurt-a.-m.,Frankfurt am Main,90,50.11361,8.67972,"Frankfurt am Main, Hessen, Deutschland",['place'],de,DEU
+34,frankfurt-m,Frankfurt am Main,90,50.11361,8.67972,"Frankfurt am Main, Hessen, Deutschland",['place'],de,DEU
+35,frankfurtmain,Frankfurt am Main,90,50.11361,8.67972,"Frankfurt am Main, Hessen, Deutschland",['place'],de,DEU
+36,frankfurt-oder,Frankfurt an der Oder,21,52.35,14.55,"Frankfurt, Brandenburg, Deutschland",['place'],de,DEU
+37,frankfurt-%28oder%29-,Frankfurt an der Oder,21,52.35,14.55,"Frankfurt, Brandenburg, Deutschland",['place'],de,DEU
+38,freiburg-im-breisgau,Freiburg,85,47.99472,7.84972,"Freiburg im Breisgau, Baden-Württemberg, Deutschland",['place'],de,DEU
+39,garmisch,Garmisch-Partenkirchen,37,47.5,11.08333,"Garmisch-Partenkirchen, Bayern, Deutschland",['place'],de,DEU
+40,partenkirchen,Garmisch-Partenkirchen,37,47.5,11.08333,"Garmisch-Partenkirchen, Bayern, Deutschland",['place'],de,DEU
+41,ghanas,Ghana,44,6.8808542691,-1.1675944276,Ghana,['country'],gh,GHA
+42,griechenlands,Griechenland,97,38.5890212896,23.8285537395,Griechenland,['country'],gr,GRC
+43,halle,Halle an der Saale,38,51.48306,11.97194,"Halle, Sachsen-Anhalt, Deutschland",['place'],de,DEU
+44,hannovers,Hannover,94,52.37444,9.73861,"Hannover, Niedersachsen, Deutschland",['place'],de,DEU
+45,hessens,Hessen,90,50.66611,8.59111,"Hessen, Deutschland",['region'],de,DEU
+46,indiens,Indien,94,22.1991660761,78.4766810272,Indien,['country'],in,IND
+47,iraks,Irak,95,33.0480556444,43.4047161632,Irak,['country'],iq,IRQ
+48,irlands,Irland,85,53.3054943871,-7.737648888,Irland,['country'],ie,IRL
+49,israels,Israel,97,31.8472608145,34.8419985254,Israel,['country'],il,ISR
+50,italiens,Italien,98,42.5041539171,12.6463610364,Italien,['country'],it,ITA
+51,jamaica,Jamaika,34,18.1512945138,-77.3192220135,Jamaika,['country'],jm,JAM
+52,jerusalems,Jerusalem,83,31.77331512,35.18679028,"Jerusalem, Bezirk Jerusalem, Israel",['place'],il,ISR
+53,jugoslawiens,Jugoslawien,85,,,,,,
+54,california,Kalifornien,79,37.0743595873,-119.6993751531,"Kalifornien, Vereinigte Staaten",['region'],us,USA
+55,kanadas,Kanada,91,55.5859012852,-105.7505958565,Kanada,['country'],ca,CAN
+56,karachi,Karatschi,16,24.870862,67.114544,"Karatschi, Sindh, Pakistan",['place'],pk,PAK
+57,qatar,Katar,60,25.3150785009,51.191200997,Katar,['country'],qa,QAT
+58,kirgisien,Kirgisistan,2,41.4650539554,74.5555962804,Kirgisistan,['country'],kg,KGZ
+59,kalkutta,Kolkata,15,22.56972,88.36972,"Kolkata, Westbengalen, Indien",['district'],in,IND
+60,koelns,Köln,98,50.94222,6.95778,"Köln, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+61,kolumbiens,Kolumbien,69,3.065088,-73.129056,Kolumbien,['country'],co,COL
+62,kubas,Kuba,80,21.9468717022,-79.2366720528,Kuba,['country'],cu,CUB
+63,lateinamerikas,Lateinamerika,64,,,,,,
+64,leningrader,Leningrad,37,46.31667,39.36667,"Leningradski rajon, Region Krasnodar, Russland",['district'],ru,RUS
+65,londons,London,97,51.50722,-0.1275,"London, Greater London, England, Vereinigtes Königreich",['place'],gb,GBR
+66,manhattans,Manhattan,62,40.7903,-73.9597,"Manhattan, New York City, New York, Vereinigte Staaten",['locality'],us,USA
+67,marokkos,Marokko,69,32.350751313,-6.0170727273,Marokko,['country'],ma,MAR
+68,gorki,Maxim Gorkij,3,33.7932,-82.3407,"Maxim, Georgia, Vereinigte Staaten",['place'],us,USA
+69,mexikos,Mexiko,89,23.9504642311,-102.5328674481,Mexiko,['country'],mx,MEX
+70,mittelamerikas,Mittelamerika,34,,,,,,
+71,mitteleuropas,Mitteleuropa,65,,,,,,
+72,moskaus,Moskau,96,55.75583,37.61778,"Moskau, Moskau, Russland",['place'],ru,RUS
+73,muenchens,München,99,48.13333,11.56667,"München, Bayern, Deutschland",['place'],de,DEU
+74,neuseelands,Neuseeland,76,-41.8388752215,171.7799001959,Neuseeland,['country'],nz,NZL
+75,new-yorks,New York,97,40.7648,-73.9808,"New York City, New York, Vereinigte Staaten",['place'],us,USA
+76,holland,Niederlande,94,51.9724664895,5.6134906117,Niederlande,['country'],nl,NLD
+77,niederlanden,Niederlande,94,51.9724664895,5.6134906117,Niederlande,['country'],nl,NLD
+78,hollands,Niederlande,94,51.9724664895,5.6134906117,Niederlande,['country'],nl,NLD
+79,niedersachsens,Niedersachsen,90,52.75611,9.39306,"Niedersachsen, Deutschland",['region'],de,DEU
+80,roettgen,Norbert Röttgen,36,50.6761,7.06927,"Röttgen, Bonn, Nordrhein-Westfalen, Deutschland",['locality'],de,DEU
+81,nordamerikas,Nordamerika,73,,,,,,
+82,nrw,Nordrhein-Westfalen,93,51.46667,7.55,"Nordrhein-Westfalen, Deutschland",['region'],de,DEU
+83,nordrhein-westfalens,Nordrhein-Westfalen,93,51.46667,7.55,"Nordrhein-Westfalen, Deutschland",['region'],de,DEU
+84,nordrheinwestfalen,Nordrhein-Westfalen,93,51.46667,7.55,"Nordrhein-Westfalen, Deutschland",['region'],de,DEU
+85,norwegens,Norwegen,88,61.2483331493,8.804820739,Norwegen,['country'],no,NOR
+86,oesterreichs,Österreich,95,47.6077978293,14.3001435908,Österreich,['country'],at,AUT
+87,osterreich,Österreich,95,47.6077978293,14.3001435908,Österreich,['country'],at,AUT
+88,osteuropas,Osteuropa,85,,,,,,
+89,pakistans,Pakistan,90,28.1863846712,67.6952367279,Pakistan,['country'],pk,PAK
+90,palaestinas,Palästina,64,31.88333,35.2,Palästina,['country'],ps,PSE
+91,palma,Palma de Mallorca,11,39.56667,2.6497200000000003,"Palma, Balearische Inseln, Spanien",['place'],es,ESP
+92,panam,Pan Am,7,50.44806,3.42694,"Saint-Amand-les-Eaux, Département Nord, Frankreich",['place'],fr,FRA
+93,hindenburg,Paul von Hindenburg,28,38.50194,43.41667,"Van, Van, Türkei",['place'],tr,TUR
+94,pekings,Peking,88,39.905,116.39139,"Peking, Volksrepublik China",['place'],cn,CHN
+95,beijing,Peking,88,39.905,116.39139,"Peking, Volksrepublik China",['place'],cn,CHN
+96,cardin,Pierre Cardin,5,44.3683,-100.3512,"Pierre, South Dakota, Vereinigte Staaten",['place'],us,USA
+97,pinneberg,Pinneberg,8,53.63333,9.8,"Pinneberg, Schleswig-Holstein, Deutschland",['place'],de,DEU
+98,polens,Polen,94,52.1246099075,19.3006363056,Polen,['country'],pl,POL
+99,volksrepublik-polen,Polen,94,52.1246099075,19.3006363056,Polen,['country'],pl,POL
+100,portugals,Portugal,88,39.6009946583,-8.5627305964,Portugal,['country'],pt,PRT
+101,pristina,Priština,2,42.66667,21.16667,"Pristina, Grad Priština, Kosovo",['place'],rs,SRB
+102,st.-tropez,Saint-Tropez,9,43.26972,6.63861,"Saint-Tropez, Département Var, Frankreich",['place'],fr,FRA
+103,sarajewo,Sarajevo,37,43.86667,18.41667,"Sarajevo, Sarajevo, Bosnien und Herzegowina",['place'],ba,BIH
+104,schleswig-holsteins,Schleswig-Holstein,87,54.47004,9.51416,"Schleswig-Holstein, Deutschland",['region'],de,DEU
+105,schleswigholstein,Schleswig-Holstein,87,54.47004,9.51416,"Schleswig-Holstein, Deutschland",['region'],de,DEU
+106,schwarzen-meer,Schwarzes Meer,29,51.4427,5.411,"Meerhoven, Eindhoven, Provinz Nordbrabant, Niederlande",['locality'],nl,NLD
+107,schwarze-meer,Schwarzes Meer,29,51.4427,5.411,"Meerhoven, Eindhoven, Provinz Nordbrabant, Niederlande",['locality'],nl,NLD
+108,schwedens,Schweden,92,64.9648751622,17.6754094331,Schweden,['country'],se,SWE
+109,serbiens,Serbien,76,44.2267366369,20.7952998133,Serbien,['country'],rs,SRB
+110,singapore,Singapur,74,1.3516161224,103.8080525863,Singapur,['country'],sg,SGP
+111,somalias,Somalia,69,5.7863962522,47.3258529831,Somalia,['country'],so,SOM
+112,udssr,Sowjetunion,97,,,,,,
+113,spaniens,Spanien,97,41.2948556296,-4.0556850153,Spanien,['country'],es,ESP
+114,ceylon,Sri Lanka,35,7.608085219,80.7047272491,Sri Lanka,['country'],lk,LKA
+115,sankt-petersburg,St. Petersburg,58,59.95,30.31667,"Sankt Petersburg, Sankt Petersburg, Russland",['place'],ru,RUS
+116,suedamerikas,Südamerika,81,,,,,,
+117,teherans,Teheran,76,35.696,51.401,"Teheran, Teheran, Iran",['place'],ir,IRN
+118,tokyo,Tokio,67,35.68,139.77,"Präfektur Tokio, Präfektur Tokio, Japan",['place'],jp,JPN
+119,toten-meer,Totes Meer,5,51.4427,5.411,"Meerhoven, Eindhoven, Provinz Nordbrabant, Niederlande",['locality'],nl,NLD
+120,tschechien,Tschechische Republik,51,23.777977995,120.9302293785,Republik China,['country'],tw,TWN
+121,tschechischen-republik,Tschechische Republik,51,23.777977995,120.9302293785,Republik China,['country'],tw,TWN
+122,ungarns,Ungarn,91,47.0602667472,19.4993490091,Ungarn,['country'],hu,HUN
+123,amerika,USA,99,39.3812661306,-97.9222112121,Vereinigte Staaten,['country'],us,USA
+124,vereinigten-staaten-von-amerika,USA,100,39.3812661306,-97.9222112121,Vereinigte Staaten,['country'],us,USA
+125,vatikans,Vatikan,87,41.903878,12.452818,Heiliger Stuhl,"['country', 'region', 'place']",va,VAT
+126,vereinigten-arabischen-emiraten,Vereinigte Arabische Emirate,23,23.8520599824,54.2561723714,Vereinigte Arabische Emirate,['country'],ae,ARE
+127,vereinigten-arabischen-emirate,Vereinigte Arabische Emirate,23,23.8520599824,54.2561723714,Vereinigte Arabische Emirate,['country'],ae,ARE
+128,wilna,Vilnius,16,54.68333,25.28333,"Vilnius, Bezirk Vilnius, Litauen",['place'],lt,LTU
+129,washingtons,Washington,97,48.0250054263,-120.0942925065,"Washington, Vereinigte Staaten",['region'],us,USA
+130,washington,Washington D.C.,97,38.895,-77.0366,"Washington, District of Columbia, Vereinigte Staaten",['place'],us,USA
+131,westberlin,West-Berlin,4,39.8087,-74.9413,"West Berlin, New Jersey, Vereinigte Staaten",['place'],us,USA
+132,westberlins,West-Berlin,4,39.8087,-74.9413,"West Berlin, New Jersey, Vereinigte Staaten",['place'],us,USA
+133,westeuropas,Westeuropa,84,,,,,,
+134,wiens,Wien,93,48.20833,16.37306,"Wien, Österreich","['region', 'place']",at,AUT
+135,lenin,Wladimir Iljitsch Lenin,22,56.13333,40.41667,"Wladimir, Oblast Wladimir, Russland",['place'],ru,RUS
+136,wuerttembergs,Württemberg,36,,,,,,
+137,aachen,Aachen,71,50.77417,6.0825,"Aachen, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+138,aalen,Aalen,13,48.83722,10.09361,"Aalen, Baden-Württemberg, Deutschland",['place'],de,DEU
+139,abchasien,Abchasien,8,43.0,40.98333,"Abchasien, Georgien",['region'],ge,GEO
+140,abu-dhabi,Abu Dhabi,41,24.4748,54.3706,"Abu Dhabi, Abu Dhabi, Vereinigte Arabische Emirate",['place'],ae,ARE
+141,abu-ghraib,Abu Ghraib,7,33.3070310149,44.1869449988,"Abu Ghraib Farms, al-Anbar, Irak",['place'],iq,IRQ
+142,acapulco,Acapulco,11,16.86287,-99.88701,"Acapulco, Guerrero, Mexiko",['place'],mx,MEX
+143,accra,Accra,9,5.661083,-0.202815,"Accra, Greater Accra Region, Ghana",['place'],gh,GHA
+144,aceh,Aceh,2,5.55,95.31667,"Aceh, Indonesien",['region'],id,IDN
+145,addis-abeba,Addis Abeba,18,9.02722,38.73694,"Addis Abeba, Äthiopien","['region', 'place']",et,ETH
+146,adelaide,Adelaide,6,-34.9274,138.5999,"Adelaide, South Australia, Australien",['place'],au,AUS
+147,adria,Adria,24,41.8975,-84.0372,"Adrian, Michigan, Vereinigte Staaten",['place'],us,USA
+148,adschdabija,Adschdabija,2,,,,,,
+149,afghanistan,Afghanistan,94,33.8388058603,66.0264709818,Afghanistan,['country'],af,AFG
+150,afrika,Afrika,96,-28.3782721907,23.9137106762,Südafrika,['country'],za,ZAF
+151,agadez,Agadez,0,17.0,8.0,"Agadez, Niger",['region'],ne,NER
+152,agadir,Agadir,4,30.41667,-9.58333,"Agadir, Souss-Massa, Marokko",['place'],ma,MAR
+153,aegaeis,Ägäis,13,22.498603,87.385936,"Agaisol, Medinipur, Pashchim Medinipur, Westbengalen, Indien",['locality'],in,IND
+154,aegypten,Ägypten,95,26.49418383,29.8719034524,Ägypten,['country'],eg,EGY
+155,ahrenshoop,Ahrenshoop,0,54.38139,12.42,"Ahrenshoop, Mecklenburg-Vorpommern, Deutschland",['place'],de,DEU
+156,ajami,Ajami,0,31.739071049,44.5614449959,"Ajami Al Muhammad, al-Qadisiyya, Irak",['place'],iq,IRQ
+157,alabama,Alabama,25,32.828865808,-86.7892920871,"Alabama, Vereinigte Staaten",['region'],us,USA
+158,alaska,Alaska,48,64.6358675746,-153.1809966656,"Alaska, Vereinigte Staaten",['region'],us,USA
+159,albanien,Albanien,53,40.6410895559,20.1566908111,Albanien,['country'],al,ALB
+160,alberta,Alberta,5,54.6426717391,-114.757175843,"Alberta, Kanada",['region'],ca,CAN
+161,albuquerque,Albuquerque,2,35.0841,-106.651,"Albuquerque, New Mexico, Vereinigte Staaten",['place'],us,USA
+162,aleppo,Aleppo,25,36.24,37.6,"Gouvernement Aleppo, Syrien",['region'],sy,SYR
+163,alexanderplatz,Alexanderplatz,17,,,,,,
+164,alexandria,Alexandria,25,38.8051,-77.047,"Alexandria, Virginia, Vereinigte Staaten",['place'],us,USA
+165,alfa,Alfa,15,39.42222,-0.38972,"Alfafar, Provinz Valencia, Spanien",['place'],es,ESP
+166,algerien,Algerien,76,28.1632395923,2.6323881334,Algerien,['country'],dz,DZA
+167,algier,Algier,1,36.7,3.21667,"Algier, Algerien","['region', 'place']",dz,DZA
+168,alicante,Alicante,4,38.34528,-0.48306000000000004,"Alicante, Provinz Alicante, Spanien",['place'],es,ESP
+169,allensbach,Allensbach,17,47.71528,9.07139,"Allensbach, Baden-Württemberg, Deutschland",['place'],de,DEU
+170,allergien,Allergien,2,,,,,,
+171,allgaeu,Allgäu,36,27.178574,79.126898,"Allau, Bhogaon, Mainpuri, Uttar Pradesh, Indien",['locality'],in,IND
+172,alpbachtal,Alpbachtal,0,,,,,,
+173,alpen,Alpen,77,45.0617,-83.4328,"Alpena, Michigan, Vereinigte Staaten",['place'],us,USA
+174,alta-badia,Alta Badia,1,35.94833,14.40167,"San Pawl il-Baħar, Malta",['region'],mt,MLT
+175,altmuehltal,Altmühltal,2,,,,,,
+176,altona,Altona,6,53.56,9.95,"Altona-Altstadt, Hamburg, Deutschland",['locality'],de,DEU
+177,altonaer-fischmarkt,Altonaer Fischmarkt,0,,,,,,
+178,amazonas,Amazonas,21,-4.1843784644,-64.71857994370001,"Amazonas, Brasilien",['region'],br,BRA
+179,amazonien,Amazonien,3,,,,,,
+180,amman,Amman,30,31.95,35.93333,"Amman, Gouvernement Amman, Jordanien",['place'],jo,JOR
+181,ammersee,Ammersee,6,47.99,11.17,"Ammersee, Bayern, Deutschland",['place'],de,DEU
+182,amsterdam,Amsterdam,77,52.378,4.9,"Amsterdam, Provinz Nordholland, Niederlande",['place'],nl,NLD
+183,amstetten,Amstetten,1,48.11667,14.86667,"Amstetten, Niederösterreich, Österreich",['place'],at,AUT
+184,anchorage,Anchorage,4,61.2163,-149.8949,"Anchorage, Alaska, Vereinigte Staaten",['place'],us,USA
+185,andalusien,Andalusien,19,,,,,,
+186,anden,Anden,9,50.4893981,5.0965468,"Andenne, Provinz Namur, Belgien",['place'],be,BEL
+187,andermatt,Andermatt,1,46.620649,8.626135,"Andermatt, Kanton Uri, Schweiz",['place'],ch,CHE
+188,andorra,Andorra,10,42.5486542502,1.5767664347,Andorra,['country'],ad,AND
+189,angkor-wat,Angkor Wat,0,13.728587,100.588473,"Watthana, Bangkok, Bangkok, Thailand",['locality'],th,THA
+190,angola,Angola,45,-12.0993951347,17.9122921159,Angola,['country'],ao,AGO
+191,ankara,Ankara,59,39.86667,32.86667,"Ankara, Ankara, Türkei",['place'],tr,TUR
+192,antakya,Antakya,1,36.9,30.68333,"Antalya, Antalya, Türkei",['place'],tr,TUR
+193,antarktis,Antarktis,31,-72.8220421671,0.0,Antarktika,['country'],aq,ATA
+194,antigua,Antigua,4,17.0799,-61.8058,Antigua und Barbuda,['country'],ag,ATG
+195,antigua-und-barbuda,Antigua und Barbuda,0,17.0799,-61.8058,Antigua und Barbuda,['country'],ag,ATG
+196,antillen,Antillen,7,42.03333,-0.16667,"Antillón, Provinz Huesca, Spanien",['place'],es,ESP
+197,aequatorialguinea,Äquatorialguinea,2,1.6121301549,10.5257705054,Äquatorialguinea,['country'],gq,GNQ
+198,arabba,Arabba,0,32.85111,35.33861,"Araba, Nordbezirk, Israel",['place'],il,ISR
+199,argentinien,Argentinien,83,-36.252002,-63.954193,Argentinien,['country'],ar,ARG
+200,arhus,Arhus,0,56.15639,10.20972,"Aarhus, Region Midtjylland, Dänemark",['place'],dk,DNK
+201,arizona,Arizona,30,34.2202611707,-111.4221279891,"Arizona, Vereinigte Staaten",['region'],us,USA
+202,arkansas,Arkansas,13,35.0968852383,-92.4202962773,"Arkansas, Vereinigte Staaten",['region'],us,USA
+203,arktis,Arktis,25,33.2357947054,36.1744342279,"Arkis, Gouvernement Rif Dimaschq, Syrien",['place'],sy,SYR
+204,arlberg,Arlberg,5,50.06667,12.18333,"Arzberg, Bayern, Deutschland",['place'],de,DEU
+205,arlington,Arlington,8,32.7356,-97.1071,"Arlington, Texas, Vereinigte Staaten",['place'],us,USA
+206,armenien,Armenien,39,40.6056564938,44.6603948347,Armenien,['country'],am,ARM
+207,arques,Arques,0,50.73556,2.3025,"Arques, Département Pas-de-Calais, Frankreich",['place'],fr,FRA
+208,arriva,Arriva,2,39.2861,-103.2755,"Arriba, Colorado, Vereinigte Staaten",['place'],us,USA
+209,artemiwsk,Artemiwsk,0,48.437282,38.711304,"Artemiwsk, Oblast Luhansk, Ukraine",['place'],ua,UKR
+210,aschaffenburg,Aschaffenburg,10,49.96667,9.15,"Aschaffenburg, Bayern, Deutschland",['place'],de,DEU
+211,aschau,Aschau,2,47.76667,12.31667,"Aschau im Chiemgau, Bayern, Deutschland",['place'],de,DEU
+212,ascona,Ascona,10,46.15,8.76667,"Ascona, Kanton Tessin, Schweiz",['place'],ch,CHE
+213,ascot,Ascot,3,51.4084,-0.6707000000000001,"Ascot, Windsor and Maidenhead, England, Vereinigtes Königreich",['place'],gb,GBR
+214,aserbaidschan,Aserbaidschan,29,40.4182596132,47.7203412205,Aserbaidschan,['country'],az,AZE
+215,asien,Asien,92,22.23972,-102.08889,"Asientos, Aguascalientes, Mexiko",['place'],mx,MEX
+216,aspen,Aspen,5,39.1911,-106.8236,"Aspen, Colorado, Vereinigte Staaten",['place'],us,USA
+217,astana,Astana,7,-6.93694,107.60111,"Astanaanyar, Bandung, Jawa Barat, Indonesien",['locality'],id,IDN
+218,athen,Athen,83,33.9596,-83.3767,"Athens, Georgia, Vereinigte Staaten",['place'],us,USA
+219,aethiopien,Äthiopien,47,8.6262196008,39.616031991,Äthiopien,['country'],et,ETH
+220,atlanta,Atlanta,31,33.7491,-84.3902,"Atlanta, Georgia, Vereinigte Staaten",['place'],us,USA
+221,atlantik,Atlantik,44,10.98333,-74.78333,"Departamento del Atlántico, Kolumbien",['region'],co,COL
+222,atommuelllager-asse,Atommülllager Asse,0,53.0,6.55,"Assen, Provinz Drente, Niederlande",['place'],nl,NLD
+223,attersee,Attersee,2,47.91667,13.54139,"Attersee am Attersee, Oberösterreich, Österreich",['place'],at,AUT
+224,au,Au,41,-25.7349684916,134.489562607,Australien,['country'],au,AUS
+225,auckland,Auckland,11,-36.85,174.78333,"Auckland, Region Auckland, Neuseeland",['place'],nz,NZL
+226,augsburg,Augsburg,82,48.37167,10.89833,"Augsburg, Bayern, Deutschland",['place'],de,DEU
+227,auschwitz,Auschwitz,75,50.03333,19.23333,"Oświęcim, Powiat Oświęcimski, Woiwodschaft Kleinpolen, Polen",['place'],pl,POL
+228,austin,Austin,16,30.2711,-97.7437,"Austin, Texas, Vereinigte Staaten",['place'],us,USA
+229,australien,Australien,92,-25.7349684916,134.489562607,Australien,['country'],au,AUS
+230,avignon,Avignon,12,43.94861,4.80833,"Avignon, Département Vaucluse, Frankreich",['place'],fr,FRA
+231,baba-amr,Baba Amr,0,21.8442,71.3042,"Babra, Gujarat, Indien",['place'],in,IND
+232,babelsberg,Babelsberg,10,52.4,13.1,"Babelsberg, Potsdam, Brandenburg, Deutschland",['locality'],de,DEU
+233,babylon,Babylon,15,40.6957,-73.3257,"Babylon, New York, Vereinigte Staaten",['place'],us,USA
+234,bachtschyssaraj,Bachtschyssaraj,0,44.7523,33.8535,"Bachtschyssaraj, Autonome Republik Krim, Ukraine",['place'],ua,UKR
+235,bad-aibling,Bad Aibling,4,47.86667,12.01667,"Bad Aibling, Bayern, Deutschland",['place'],de,DEU
+236,bad-bank,Bad Bank,9,20.206469,85.342971,"Bada Bankoipatana, Bolagad, Khordha, Odisha, Indien",['locality'],in,IND
+237,bad-buchau,Bad Buchau,0,48.06611,9.61,"Bad Buchau, Baden-Württemberg, Deutschland",['place'],de,DEU
+238,baden-baden,Baden-Baden,57,48.76194,8.24083,"Baden-Baden, Baden-Württemberg, Deutschland",['place'],de,DEU
+239,baden-wuerttemberg,Baden-Württemberg,89,48.53778,9.04111,"Baden-Württemberg, Deutschland",['region'],de,DEU
+240,bad-gastein,Bad Gastein,4,47.11472,13.13556,"Bad Gastein, Salzburg, Österreich",['place'],at,AUT
+241,bad-godesberg,Bad Godesberg,24,50.69,7.14,"Godesberg-Nord, Bonn, Nordrhein-Westfalen, Deutschland",['locality'],de,DEU
+242,bad-homburg,Bad Homburg,14,50.22924,8.61049,"Bad Homburg vor der Höhe, Hessen, Deutschland",['place'],de,DEU
+243,bad-reichenhall,Bad Reichenhall,6,47.72472,12.87694,"Bad Reichenhall, Bayern, Deutschland",['place'],de,DEU
+244,bad-segeberg,Bad Segeberg,6,53.93556,10.30889,"Bad Segeberg, Schleswig-Holstein, Deutschland",['place'],de,DEU
+245,bad-toelz,Bad Tölz,5,47.76028,11.55667,"Bad Tölz, Bayern, Deutschland",['place'],de,DEU
+246,bagdad,Bagdad,66,33.35,44.41667,"Bagdad, Irak","['region', 'place']",iq,IRQ
+247,bagnone,Bagnone,0,44.31472,9.99139,"Bagnone, Provinz Massa-Carrara, Italien",['place'],it,ITA
+248,bahamas,Bahamas,22,25.0778,-77.3239,Bahamas,['country'],bs,BHS
+249,bahrain,Bahrain,42,26.0224069942,50.5596439032,Bahrain,['country'],bh,BHR
+250,baikalsee,Baikalsee,3,,,,,,
+251,baku,Baku,21,40.36666,49.83518,"Baku, Aserbaidschan","['region', 'place']",az,AZE
+252,balearen,Balearen,7,39.5,3.0,"Balearische Inseln, Spanien",['region'],es,ESP
+253,bali,Bali,19,-8.36917,115.13833,"Bali, Indonesien",['region'],id,IDN
+254,balkan,Balkan,65,47.53,-92.88,"Balkan Township, Minnesota, Vereinigte Staaten",['place'],us,USA
+255,baltikum,Baltikum,16,,,,,,
+256,baltimore,Baltimore,18,39.2909,-76.6108,"Baltimore, Maryland, Vereinigte Staaten",['place'],us,USA
+257,bamako,Bamako,4,12.64583,-7.99222,"Bamako, Mali","['region', 'place']",ml,MLI
+258,bamberg,Bamberg,49,49.89167,10.89167,"Bamberg, Bayern, Deutschland",['place'],de,DEU
+259,banff,Banff,0,51.1778,-115.5683,"Banff, Alberta, Kanada",['place'],ca,CAN
+260,bangalore,Bangalore,6,12.96991,77.59796,"Bangalore, Karnataka, Indien",['place'],in,IND
+261,bangkok,Bangkok,44,13.75,100.51667,"Bangkok, Bangkok, Thailand",['place'],th,THA
+262,bangladesch,Bangladesch,60,24.3476077999,90.0779740421,Bangladesch,['country'],bd,BGD
+263,bani-walid,Bani Walid,1,31.7569695439,13.9950509928,"Bani Walid, Munizip Misrata, Libyen",['place'],ly,LBY
+264,banjul,Banjul,0,13.45306,-16.5775,"Banjul, Gambia","['region', 'place']",gm,GMB
+265,barbados,Barbados,6,13.1787146901,-59.5619546611,Barbados,['country'],bb,BRB
+266,barbarella,Barbarella,1,,,,,,
+267,barcelona,Barcelona,84,41.3825,2.17694,"Barcelona, Provinz Barcelona, Spanien",['place'],es,ESP
+268,bari,Bari,5,8.63333,-70.21667,"Barinas, Barinas, Venezuela",['place'],ve,VEN
+269,basel,Basel,72,47.55056,7.5911100000000005,"Basel, Kanton Basel-Stadt, Schweiz",['place'],ch,CHE
+270,baskenland,Baskenland,15,,,,,,
+271,basra,Basra,8,30.36667,47.36667,"Basra, Irak",['region'],iq,IRQ
+272,bautzen,Bautzen,10,51.18251,14.4292,"Bautzen, Sachsen, Deutschland",['place'],de,DEU
+273,bayern,Bayern,98,48.7775,11.43111,"Bayern, Deutschland",['region'],de,DEU
+274,bayreuth,Bayreuth,62,49.94806,11.57833,"Bayreuth, Bayern, Deutschland",['place'],de,DEU
+275,bayrischzell,Bayrischzell,2,47.66667,12.01667,"Bayrischzell, Bayern, Deutschland",['place'],de,DEU
+276,beira,Beira,0,-19.833,34.85,"Beira, Provinz Sofala, Mosambik",['place'],mz,MOZ
+277,beirut,Beirut,59,33.88694,35.51306,"Beirut, Beirut, Libanon",['place'],lb,LBN
+278,belarus,Belarus,2,53.5399976445,28.0467875099,Weißrussland,['country'],by,BLR
+279,belek,Belek,6,51.6528,20.6214,"Bełek, Powiat Grójecki, Woiwodschaft Masowien, Polen",['place'],pl,POL
+280,belfast,Belfast,23,54.59667,-5.9383300000000006,"Belfast, Belfast, Nordirland, Vereinigtes Königreich",['place'],gb,GBR
+281,belgien,Belgien,91,50.438696,4.633575,Belgien,['country'],be,BEL
+282,belgrad,Belgrad,67,44.81667,20.46667,"Belgrad, Stari Grad, Serbien",['place'],rs,SRB
+283,belize,Belize,5,17.2168536428,-88.6860065356,Belize,['country'],bz,BLZ
+284,belo-horizonte,Belo Horizonte,4,-19.9227,-43.9451,"Belo Horizonte, Minas Gerais, Brasilien",['place'],br,BRA
+285,belv%C3%A9d%C3%A8re,Belvédère,0,51.4856,0.15410000000000001,"Belvedere, Greater London, England, Vereinigtes Königreich",['place'],gb,GBR
+286,ber,Ber,9,46.95083,7.43861,"Bern, Kanton Bern, Schweiz",['place'],ch,CHE
+287,berchtesgaden,Berchtesgaden,14,47.63139,13.00417,"Berchtesgaden, Bayern, Deutschland",['place'],de,DEU
+288,bergen,Bergen,10,60.3925,5.32333,"Bergen, Vestland, Norwegen",['place'],no,NOR
+289,bergen-belsen,Bergen-Belsen,10,52.79,9.94,"Belsen, Bergen, Niedersachsen, Deutschland",['locality'],de,DEU
+290,bergisch-gladbach,Bergisch Gladbach,12,50.99167,7.13667,"Bergisch Gladbach, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+291,berg-karabach,Berg-Karabach,2,50.93056,4.54167,"Berg, Kampenhout, Flämisch-Brabant, Belgien",['locality'],be,BEL
+292,berkeley,Berkeley,27,37.8708,-122.2729,"Berkeley, Kalifornien, Vereinigte Staaten",['place'],us,USA
+293,berlin,Berlin,99,52.51667,13.38333,"Berlin, Deutschland","['region', 'place']",de,DEU
+294,bermuda,Bermuda,2,32.3179203153,-64.7370103997,Bermuda,['country'],bm,BMU
+295,bern,Bern,65,46.95083,7.43861,"Bern, Kanton Bern, Schweiz",['place'],ch,CHE
+296,bernau,Bernau,3,52.66667,13.58306,"Bernau bei Berlin, Brandenburg, Deutschland",['place'],de,DEU
+297,berwang,Berwang,0,47.40778,10.7475,"Berwang, Tirol, Österreich",['place'],at,AUT
+298,beslan,Beslan,2,43.18333,44.53333,"Beslan, Prawobereschny rajon, Nordossetien-Alanien, Russland",['place'],ru,RUS
+299,bethlehem,Bethlehem,19,40.6179,-75.3787,"Bethlehem, Pennsylvania, Vereinigte Staaten",['place'],us,USA
+300,beverly-hills,Beverly Hills,9,34.0736,-118.4004,"Beverly Hills, Kalifornien, Vereinigte Staaten",['place'],us,USA
+301,bhopal,Bhopal,3,23.25,77.41667,"Bhopal, Madhya Pradesh, Indien",['place'],in,IND
+302,bhutan,Bhutan,5,27.4154148146,90.4294341149,Bhutan,['country'],bt,BTN
+303,biafra,Biafra,8,-0.6047631168000001,30.6612289511,"Biafra, Mbarara, Uganda",['locality'],ug,UGA
+304,biarritz,Biarritz,3,43.48056,-1.55722,"Biarritz, Département Pyrénées-Atlantiques, Frankreich",['place'],fr,FRA
+305,biblis,Biblis,12,49.6841,8.45083,"Biblis, Hessen, Deutschland",['place'],de,DEU
+306,bielefeld,Bielefeld,73,52.01667,8.51667,"Bielefeld, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+307,big-ben,Big Ben,0,42.8814,-88.2068,"Big Bend, Wisconsin, Vereinigte Staaten",['place'],us,USA
+308,bihar,Bihar,3,25.7766455855,86.1889788391,"Bihar, Indien",['region'],in,IND
+309,bilbao,Bilbao,14,43.26222,-2.9533300000000002,"Bilbao, Bizkaia, Spanien",['place'],es,ESP
+310,bingen,Bingen,7,49.96694,7.895,"Bingen am Rhein, Rheinland-Pfalz, Deutschland",['place'],de,DEU
+311,birma,Birma,37,36.5337922539,44.1221744288,"Birmarwan, Arbil, Irak",['place'],iq,IRQ
+312,birmingham,Birmingham,25,52.48333,-1.9,"Birmingham, West Midlands, England, Vereinigtes Königreich",['place'],gb,GBR
+313,bischkek,Bischkek,2,42.86667,74.56667,"Bischkek, Kirgisistan","['region', 'place']",kg,KGZ
+314,bischofshofen,Bischofshofen,2,47.41722,13.21944,"Bischofshofen, Salzburg, Österreich",['place'],at,AUT
+315,bitburg,Bitburg,8,49.97472,6.5255600000000005,"Bitburg, Rheinland-Pfalz, Deutschland",['place'],de,DEU
+316,blackpool,Blackpool,7,53.81667,-3.05,"Blackpool, Blackpool, England, Vereinigtes Königreich",['place'],gb,GBR
+317,blackwater,Blackwater,1,51.313,-0.81,"Blackwater und Hawley, Camberley, Hampshire, England, Vereinigtes Königreich",['locality'],gb,GBR
+318,blankenese,Blankenese,11,53.56,9.82,"Blankenese, Hamburg, Deutschland",['locality'],de,DEU
+319,bochum,Bochum,77,51.48333,7.21667,"Bochum, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+320,bodensee,Bodensee,48,51.6,10.13333,"Bodensee, Niedersachsen, Deutschland",['place'],de,DEU
+321,bogenhausen,Bogenhausen,1,50.58,9.1385,"Bobenhausen, Ulrichstein, Hessen, Deutschland",['locality'],de,DEU
+322,bogot%C3%A1,Bogotá,18,4.59889,-74.08083,"Bogotá, Kolumbien","['region', 'place']",co,COL
+323,bolivien,Bolivien,47,-16.9706623441,-64.2696051243,Bolivien,['country'],bo,BOL
+324,bollywood,Bollywood,1,26.0112,-80.1495,"Hollywood, Florida, Vereinigte Staaten",['place'],us,USA
+325,bologna,Bologna,37,44.49389,11.34278,"Bologna, Metropolitanstadt Bologna, Italien",['place'],it,ITA
+326,bombay,Bombay,22,44.9389,-74.5677,"Bombay, New York, Vereinigte Staaten",['place'],us,USA
+327,bonanza,Bonanza,2,42.1988,-121.4061,"Bonanza, Oregon, Vereinigte Staaten",['place'],us,USA
+328,bonn,Bonn,98,50.73616,7.1002,"Bonn, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+329,bordeaux,Bordeaux,31,44.83778,-0.5794400000000001,"Bordeaux, Département Gironde, Frankreich",['place'],fr,FRA
+330,borkum,Borkum,5,53.58806,6.66972,"Borkum, Niedersachsen, Deutschland",['place'],de,DEU
+331,borneo,Borneo,8,1.05,116.31667,"Kalimantan Timur, Indonesien",['region'],id,IDN
+332,bosnien-und-herzegowina,Bosnien und Herzegowina,60,44.1681150604,17.7865310091,Bosnien und Herzegowina,['country'],ba,BIH
+333,bosporus,Bosporus,14,,,,,,
+334,boston,Boston,63,42.3605,-71.0596,"Boston, Massachusetts, Vereinigte Staaten",['place'],us,USA
+335,botsuana,Botsuana,12,-22.2129427789,24.316264769100002,Botswana,['country'],bw,BWA
+336,bottrop,Bottrop,10,51.52325,6.92527,"Bottrop, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+337,bozen,Bozen,20,46.5,11.35,"Bozen, Südtirol, Italien",['place'],it,ITA
+338,brandenburg,Brandenburg,86,52.36194,13.00806,"Brandenburg, Deutschland",['region'],de,DEU
+339,brandenburger-tor,Brandenburger Tor,0,43.6529,-79.3849,"Toronto, Ontario, Kanada",['place'],ca,CAN
+340,brasilien,Brasilien,92,-9.5889030171,-51.6197890205,Brasilien,['country'],br,BRA
+341,bratislava,Bratislava,19,48.14472,17.11278,"Bratislava, Bratislavský kraj, Slowakei",['place'],sk,SVK
+342,braunschweig,Braunschweig,76,52.26471,10.52333,"Braunschweig, Niedersachsen, Deutschland",['place'],de,DEU
+343,bremen,Bremen,94,53.07694,8.80889,"Bremen, Freie Hansestadt Bremen, Deutschland",['place'],de,DEU
+344,bremerhaven,Bremerhaven,36,53.5545,8.5933,"Bremerhaven, Freie Hansestadt Bremen, Deutschland",['place'],de,DEU
+345,brenner,Brenner,22,47.0,11.5,"Brenner, Südtirol, Italien",['place'],it,ITA
+346,brescia,Brescia,4,45.53889,10.22028,"Brescia, Provinz Brescia, Italien",['place'],it,ITA
+347,breslau,Breslau,39,51.10773,17.03533,"Breslau, Woiwodschaft Niederschlesien, Polen",['place'],pl,POL
+348,brest,Brest,9,52.13333,23.66667,"Brest, Breszkaja Woblasz, Weißrussland",['place'],by,BLR
+349,bretagne,Bretagne,21,43.8475,-0.46472,"Bretagne-de-Marsan, Département Landes, Frankreich",['place'],fr,FRA
+350,bre%C5%BEice,Brežice,0,45.90472,15.59222,"Brežice, Gemeinde Brežice, Slowenien",['place'],si,SVN
+351,brighton,Brighton,10,50.82417,-0.13389,"Brighton, Brighton and Hove, England, Vereinigtes Königreich",['place'],gb,GBR
+352,brisbane,Brisbane,12,-27.469,153.0235,"Brisbane, Queensland, Australien",['place'],au,AUS
+353,bristol,Bristol,15,51.45,-2.58333,"Bristol, Bristol, England, Vereinigtes Königreich",['place'],gb,GBR
+354,british-columbia,British Columbia,4,55.1712152811,-125.0227965459,"British Columbia, Kanada",['region'],ca,CAN
+355,brixen,Brixen,4,46.71667,11.65,"Brixen, Südtirol, Italien",['place'],it,ITA
+356,brixental,Brixental,0,,,,,,
+357,brokdorf,Brokdorf,18,53.86139,9.33028,"Brokdorf, Schleswig-Holstein, Deutschland",['place'],de,DEU
+358,brooklyn,Brooklyn,19,40.6501,-73.9496,"Brooklyn, New York, Vereinigte Staaten",['locality'],us,USA
+359,bruegge,Brügge,10,51.2085526,3.226772,"Brügge, Provinz Westflandern, Belgien",['place'],be,BEL
+360,bruehl,Brühl,13,50.83333,6.9,"Brühl, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+361,brunei,Brunei,5,4.5654670539,114.5624109921,Brunei,['country'],bn,BRN
+362,brunnen,Brunnen,27,48.46667,13.46667,"Brunnenthal, Oberösterreich, Österreich",['place'],at,AUT
+363,brunsbuettel,Brunsbüttel,9,53.89639,9.13861,"Brunsbüttel, Schleswig-Holstein, Deutschland",['place'],de,DEU
+364,bruessel,Brüssel,94,50.8467,4.3547,"Brüssel, Region Brüssel-Hauptstadt, Belgien",['place'],be,BEL
+365,budapest,Budapest,69,47.49833,19.04083,"Budapest, Ungarn","['region', 'place']",hu,HUN
+366,buenos-aires,Buenos Aires,61,-34.59972,-58.38194,"Buenos Aires, Argentinien","['region', 'place']",ar,ARG
+367,bukarest,Bukarest,43,44.4,26.08333,"Bukarest, Bukarest, Rumänien",['place'],ro,ROU
+368,bulgarien,Bulgarien,68,42.7613767128,25.2315070072,Bulgarien,['country'],bg,BGR
+369,bundesrepublik-deutschland,Bundesrepublik Deutschland,85,51.133481344,10.0183432949,Deutschland,['country'],de,DEU
+370,bunte,Bunte,80,53.86,10.64,"Buntekuh, Lübeck, Schleswig-Holstein, Deutschland",['locality'],de,DEU
+371,burka,Burka,5,51.18333,14.18333,"Burkau, Sachsen, Deutschland",['place'],de,DEU
+372,burkina-faso,Burkina Faso,15,12.2779295146,-1.5730623199,Burkina Faso,['country'],bf,BFA
+373,burma,Burma,25,51.049,0.996,"Burmarsh, Romney Marsh, Kent, England, Vereinigtes Königreich",['locality'],gb,GBR
+374,burundi,Burundi,27,-3.5324543339,29.8871461224,Burundi,['country'],bi,BDI
+375,busan,Busan,0,35.1,129.04028,"Busan, Südkorea","['region', 'place']",kr,KOR
+376,buxtehude,Buxtehude,7,53.46604,9.69124,"Buxtehude, Niedersachsen, Deutschland",['place'],de,DEU
+377,cagliari,Cagliari,5,39.21667,9.11667,"Cagliari, Metropolitanstadt Cagliari, Italien",['place'],it,ITA
+378,calais,Calais,13,50.9475,1.85556,"Calais, Département Pas-de-Calais, Frankreich",['place'],fr,FRA
+379,calgary,Calgary,10,51.0531,-114.0626,"Calgary, Alberta, Kanada",['place'],ca,CAN
+380,calw,Calw,3,48.71444,8.7375,"Calw, Baden-Württemberg, Deutschland",['place'],de,DEU
+381,cambridge,Cambridge,49,52.20806,0.12250000000000001,"Cambridge, Cambridgeshire, England, Vereinigtes Königreich",['place'],gb,GBR
+382,camp-david,Camp David,26,8.43333,-82.43333,"David, Provinz Chiriquí, Panama",['place'],pa,PAN
+383,canary-wharf,Canary Wharf,0,51.5052,-0.020900000000000002,"Canary Wharf, London, Greater London, England, Vereinigtes Königreich",['locality'],gb,GBR
+384,canberra,Canberra,10,-35.2819,149.1289,"Canberra, Australian Capital Territory, Australien",['place'],au,AUS
+385,canc%C3%BAn,Cancún,7,21.16056,-86.8475,"Cancún, Quintana Roo, Mexiko",['place'],mx,MEX
+386,cannes,Cannes,58,43.5525,7.02139,"Cannes, Alpes-Maritimes, Frankreich",['place'],fr,FRA
+387,canterbury,Canterbury,11,51.27833,1.0775,"Canterbury, Kent, England, Vereinigtes Königreich",['place'],gb,GBR
+388,cape-canaveral,Cape Canaveral,0,28.4058,-80.6048,"Cape Canaveral, Florida, Vereinigte Staaten",['place'],us,USA
+389,capri,Capri,13,40.55556,14.24028,"Capri, Provinz Neapel, Italien",['place'],it,ITA
+390,caracas,Caracas,17,10.5,-66.93333,"Caracas, Distrito Capital, Venezuela",['place'],ve,VEN
+391,cardiff,Cardiff,8,51.48,-3.18,"Cardiff, Cardiff, Wales, Vereinigtes Königreich",['place'],gb,GBR
+392,carlyle,Carlyle,1,38.6103,-89.3726,"Carlyle, Illinois, Vereinigte Staaten",['place'],us,USA
+393,carrera,Carrera,3,-27.0833,-69.9333,"Carrera Pinto, Copiapó, Región de Atacama, Chile",['locality'],cl,CHL
+394,casablanca,Casablanca,21,33.59917,-7.62,"Casablanca, Casablanca-Settat, Marokko",['place'],ma,MAR
+395,catania,Catania,3,37.50267,15.08727,"Catania, Provinz Catania, Italien",['place'],it,ITA
+396,cayman-islands,Cayman Islands,1,19.3086622402,-81.238451199,Cayman Islands,['country'],ky,CYM
+397,celle,Celle,23,44.3421,8.54557,"Celle Ligure, Provinz Savona, Italien",['place'],it,ITA
+398,ceuta,Ceuta,1,35.888861,-5.304096,"Ceuta, Ceuta, Spanien",['place'],es,ESP
+399,charkiw,Charkiw,5,49.9903,36.2304,"Charkiw, Oblast Charkiw, Ukraine",['place'],ua,UKR
+400,charlottenburg,Charlottenburg,15,52.51,13.33,"Charlottenburg, Berlin, Deutschland",['locality'],de,DEU
+401,chattanooga,Chattanooga,0,35.0456,-85.3097,"Chattanooga, Tennessee, Vereinigte Staaten",['place'],us,USA
+402,checkpoint-charlie,Checkpoint Charlie,0,46.159440000000004,4.17194,"Charlieu, Département Loire, Frankreich",['place'],fr,FRA
+403,chelsea,Chelsea,32,42.3918,-71.0328,"Chelsea, Massachusetts, Vereinigte Staaten",['place'],us,USA
+404,chemnitz,Chemnitz,45,50.83333,12.91667,"Chemnitz, Sachsen, Deutschland",['place'],de,DEU
+405,chengdu,Chengdu,4,30.66361,104.06667,"Chengdu, Sichuan, Volksrepublik China",['place'],cn,CHN
+406,chennai,Chennai,3,13.09,80.27,"Chennai, Tamil Nadu, Indien",['place'],in,IND
+407,chhattisgarh,Chhattisgarh,0,21.5232332243,81.9441380728,"Chhattisgarh, Indien",['region'],in,IND
+408,chiapas,Chiapas,2,16.5601966486,-92.494801164,"Chiapas, Mexiko",['region'],mx,MEX
+409,chiasso,Chiasso,2,45.833698,9.025363,"Chiasso, Kanton Tessin, Schweiz",['place'],ch,CHE
+410,chicago,Chicago,77,41.8756,-87.6244,"Chicago, Illinois, Vereinigte Staaten",['place'],us,USA
+411,chieming,Chieming,0,47.9,12.53333,"Chieming, Bayern, Deutschland",['place'],de,DEU
+412,chiemsee,Chiemsee,9,47.86667,12.41667,"Chiemsee, Bayern, Deutschland",['place'],de,DEU
+413,chihuahua,Chihuahua,2,28.63528,-106.08889,"Chihuahua, Chihuahua, Mexiko",['place'],mx,MEX
+414,chile,Chile,76,-26.783346,-69.761008,Chile,['country'],cl,CHL
+415,china,China,98,35.4867029846329,101.901875103385,Volksrepublik China,['country'],cn,CHN
+416,chinesische-mauer,Chinesische Mauer,0,48.24167,16.17639,"Mauerbach, Niederösterreich, Österreich",['place'],at,AUT
+417,chi%C8%99in%C4%83u,Chișinău,0,47.00556,28.8575,"Chișinău, Chișinău, Moldawien",['place'],md,MDA
+418,christo,Christo,11,37.9726,-89.0534,"Christopher, Illinois, Vereinigte Staaten",['place'],us,USA
+419,cincinnati,Cincinnati,13,39.1015,-84.5125,"Cincinnati, Ohio, Vereinigte Staaten",['place'],us,USA
+420,cit%C3%A9-soleil,Cité Soleil,0,18.59,-72.32,"Cite Soleil, Département Ouest, Haiti",['place'],ht,HTI
+421,ciudad-juarez,Ciudad Juarez,0,31.739440000000002,-106.48694,"Ciudad Juárez, Chihuahua, Mexiko",['place'],mx,MEX
+422,cleveland,Cleveland,21,41.5052,-81.6934,"Cleveland, Ohio, Vereinigte Staaten",['place'],us,USA
+423,cloppenburg,Cloppenburg,5,52.84748,8.04625,"Cloppenburg, Niedersachsen, Deutschland",['place'],de,DEU
+424,coast-mountains,Coast Mountains,0,40.6723,-74.3574,"Mountainside, New Jersey, Vereinigte Staaten",['place'],us,USA
+425,colombo,Colombo,13,6.86667,80.01667,"Colombo, Sri Lanka","['region', 'place']",lk,LKA
+426,colorado,Colorado,35,39.190245999,-105.6049974081,"Colorado, Vereinigte Staaten",['region'],us,USA
+427,colorado-springs,Colorado Springs,5,38.834,-104.8253,"Colorado Springs, Colorado, Vereinigte Staaten",['place'],us,USA
+428,coney-island,Coney Island,0,55.009742,-7.519022,"Coney Island, Castleforward, County Donegal, Irland",['locality'],ie,IRL
+429,connecticut,Connecticut,16,41.6261419326,-72.7262428031,"Connecticut, Vereinigte Staaten",['region'],us,USA
+430,copacabana,Copacabana,4,6.3425,-75.5077,"Copacabana, Departamento de Antioquia, Kolumbien",['place'],co,COL
+431,c%C3%B3rdoba,Córdoba,9,-31.41667,-64.18333,"Córdoba, Córdoba, Argentinien",['place'],ar,ARG
+432,cosa-nostra,Cosa Nostra,0,40.83397,-1.13531,"Cosa, Teruel, Spanien",['place'],es,ESP
+433,costa-blanca,Costa Blanca,0,18.845,-97.4662,"Cuesta Blanca, Puebla, Mexiko",['place'],mx,MEX
+434,costa-brava,Costa Brava,2,18.4460472145,-69.9296319298,"Costa Brava, Santo Domingo, Distrito Nacional, Dominikanische Republik",['locality'],do,DOM
+435,costa-del-sol,Costa del Sol,1,18.38,-65.79,"Repto Costa del Sol, Río Grande, Puerto Rico",['place'],pr,PRI
+436,costa-rica,Costa Rica,25,10.257794441,-84.2009147614,Costa Rica,['country'],cr,CRI
+437,c%C3%B4te-d%27azur,Côte d'Azur,0,51.725,-1.508,"Aston, Bampton, Oxfordshire, England, Vereinigtes Königreich",['locality'],gb,GBR
+438,cottbus,Cottbus,55,51.75602,14.31971,"Cottbus, Brandenburg, Deutschland",['place'],de,DEU
+439,crescent-city,Crescent City,0,41.7559,-124.2017,"Crescent City, Kalifornien, Vereinigte Staaten",['place'],us,USA
+440,cuxhaven,Cuxhaven,16,53.85843,8.70905,"Cuxhaven, Niedersachsen, Deutschland",['place'],de,DEU
+441,dachau,Dachau,27,48.26028,11.43417,"Dachau, Bayern, Deutschland",['place'],de,DEU
+442,dachstein,Dachstein,3,48.56083,7.5319400000000005,"Dachstein, Département Bas-Rhin, Frankreich",['place'],fr,FRA
+443,dagestan,Dagestan,5,43.1,46.88333,"Dagestan, Russland",['region'],ru,RUS
+444,daglfing,Daglfing,0,48.152,11.6581,"Daglfing, München, Bayern, Deutschland",['locality'],de,DEU
+445,dakar,Dakar,18,14.712019,-17.457171,"Dakar, Dakar, Senegal",['place'],sn,SEN
+446,dallas,Dallas,55,32.7763,-96.7969,"Dallas, Texas, Vereinigte Staaten",['place'],us,USA
+447,damaskus,Damaskus,69,33.513,36.292,"Gouvernement Damaskus, Syrien","['region', 'place']",sy,SYR
+448,daenemark,Dänemark,88,55.9633978748,10.0462968058,Dänemark,['country'],dk,DNK
+449,danzig,Danzig,43,54.36667,18.63333,"Danzig, Woiwodschaft Pommern, Polen",['place'],pl,POL
+450,daraa,Daraa,6,13.4155070289,43.8215339184,"Daraah, Gouvernement Ta'izz, Jemen",['place'],ye,YEM
+451,darfur,Darfur,12,13.51075,22.703569,"Dschanub Darfur, Sudan",['region'],sd,SDN
+452,darmstadt,Darmstadt,72,49.87186,8.64844,"Darmstadt, Hessen, Deutschland",['place'],de,DEU
+453,davos,Davos,31,46.79972,9.83306,"Davos, Kanton Graubünden, Schweiz",['place'],ch,CHE
+454,death-valley,Death Valley,1,36.457300000000004,-116.8653,"Death Valley, Kalifornien, Vereinigte Staaten",['place'],us,USA
+455,debalzewe,Debalzewe,1,,,,,,
+456,deichtorhallen,Deichtorhallen,0,,,,,,
+457,deir-al-ahmar,Deir al-Ahmar,0,33.6215,-86.4961,"Acmar, Alabama, Vereinigte Staaten",['place'],us,USA
+458,deir-al-sur,Deir al-Sur,0,14.41666702,46.6999999993,"Al Surr, Gouvernement Schabwa, Jemen",['place'],ye,YEM
+459,delaware,Delaware,7,38.9978781537,-75.5055627424,"Delaware, Vereinigte Staaten",['region'],us,USA
+460,delhi,Delhi,44,28.66667,77.21667,"Delhi, Indien","['region', 'place']",in,IND
+461,delmenhorst,Delmenhorst,4,53.05087,8.62913,"Delmenhorst, Niedersachsen, Deutschland",['place'],de,DEU
+462,delphi,Delphi,10,40.5875,-86.675,"Delphi, Indiana, Vereinigte Staaten",['place'],us,USA
+463,demokratische-republik-kongo,Demokratische Republik Kongo,4,-1.1729185015,23.1668993659,Demokratische Republik Kongo,['country'],cd,COD
+464,den-haag,Den Haag,51,52.08417,4.3175,"Den Haag, Provinz Südholland, Niederlande",['place'],nl,NLD
+465,denver,Denver,20,39.7348,-104.9653,"Denver, Colorado, Vereinigte Staaten",['place'],us,USA
+466,dessau,Dessau,17,51.83333,12.23333,"Dessau-Roßlau, Sachsen-Anhalt, Deutschland",['place'],de,DEU
+467,detmold,Detmold,11,51.93333,8.88333,"Detmold, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+468,dhaka,Dhaka,5,23.784506,90.403409,"Dhaka, Dhaka, Bangladesch",['place'],bd,BGD
+469,dijon,Dijon,3,47.32306,5.04194,"Dijon, Département Côte-d’Or, Frankreich",['place'],fr,FRA
+470,diyarbak%C4%B1r,Diyarbakır,1,37.91083,40.23667,"Diyarbakır, Diyarbakır, Türkei",['place'],tr,TUR
+471,diyarbak%C4%B1r-,Diyarbakır,1,37.91083,40.23667,"Diyarbakır, Diyarbakır, Türkei",['place'],tr,TUR
+472,doha,Doha,42,50.28732,15.69458,"Dohalice, Královéhradecký kraj, Tschechien",['place'],cz,CZE
+473,dolomiten,Dolomiten,7,33.4629,-86.9614,"Dolomite, Alabama, Vereinigte Staaten",['place'],us,USA
+474,dominica,Dominica,1,15.4365521527,-61.3555269329,Dominica,['country'],dm,DMA
+475,dominikanische-republik,Dominikanische Republik,5,18.6062576971,-70.1067224933,Dominikanische Republik,['country'],do,DOM
+476,donau,Donau,47,48.2181,16.4831,"Donaustadt, Wien, Österreich",['place'],at,AUT
+477,donaueschingen,Donaueschingen,12,47.95306,8.50333,"Donaueschingen, Baden-Württemberg, Deutschland",['place'],de,DEU
+478,donauwoerth,Donauwörth,1,48.7,10.8,"Donauwörth, Bayern, Deutschland",['place'],de,DEU
+479,donezk,Donezk,32,48.0159,37.8013,"Donezk, Oblast Donezk, Ukraine",['place'],ua,UKR
+480,dortmund,Dortmund,93,51.51389,7.46528,"Dortmund, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+481,dover,Dover,7,39.1582,-75.5244,"Dover, Delaware, Vereinigte Staaten",['place'],us,USA
+482,drei-schluchten-damm,Drei-Schluchten-Damm,0,49.9833,9.13972,"Damm, Aschaffenburg, Bayern, Deutschland",['locality'],de,DEU
+483,dresden,Dresden,87,51.05,13.75,"Dresden, Sachsen, Deutschland",['place'],de,DEU
+484,dschalalabad,Dschalalabad,2,34.4301950234,70.460127946,"Dschalalabad, Nangarhar, Afghanistan",['place'],af,AFG
+485,dschenin,Dschenin,3,32.46667,35.3,"Dschenin, Dschenin, Palästina",['place'],ps,PSE
+486,dschibuti,Dschibuti,5,11.7496765333,42.5777653608,Dschibuti,['country'],dj,DJI
+487,dschidda,Dschidda,7,21.54278,39.17278,"Dschidda, Provinz Mekka, Saudi-Arabien",['place'],sa,SAU
+488,dubai,Dubai,43,25.2684,55.2962,"Dubai, Dubai, Vereinigte Arabische Emirate",['place'],ae,ARE
+489,dublin,Dublin,54,53.3425,-6.26583,"Dublin, Dublin, Irland",['place'],ie,IRL
+490,dubrovnik,Dubrovnik,9,42.64028,18.10833,"Dubrovnik, Gespanschaft Dubrovnik-Neretva, Kroatien",['place'],hr,HRV
+491,duisburg,Duisburg,74,51.43222,6.76111,"Duisburg, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+492,durban,Durban,16,-29.8579,31.0292,"Durban, KwaZulu-Natal, Südafrika",['place'],za,ZAF
+493,duesseldorf,Düsseldorf,94,51.21667,6.81667,"Düsseldorf, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+494,eberswalde,Eberswalde,6,52.83306,13.83306,"Eberswalde, Brandenburg, Deutschland",['place'],de,DEU
+495,ecuador,Ecuador,54,-1.1601713242,-78.4329147227,Ecuador,['country'],ec,ECU
+496,edinburgh,Edinburgh,33,55.95,-3.19889,"Edinburgh, City of Edinburgh, Schottland, Vereinigtes Königreich",['place'],gb,GBR
+497,eichenau,Eichenau,0,48.16667,11.31667,"Eichenau, Bayern, Deutschland",['place'],de,DEU
+498,eifel,Eifel,16,49.8833,6.75,"Naurath, Naurath, Rheinland-Pfalz, Deutschland",['locality'],de,DEU
+499,eindhoven,Eindhoven,13,51.43444,5.48417,"Eindhoven, Provinz Nordbrabant, Niederlande",['place'],nl,NLD
+500,eisenach,Eisenach,26,50.97472,10.32444,"Eisenach, Thüringen, Deutschland",['place'],de,DEU
+501,eisenhuettenstadt,Eisenhüttenstadt,7,52.145,14.67278,"Eisenhüttenstadt, Brandenburg, Deutschland",['place'],de,DEU
+502,eisingen,Eisingen,0,48.9475,8.66861,"Eisingen, Baden-Württemberg, Deutschland",['place'],de,DEU
+503,eislingen,Eislingen,0,48.6989,9.7059,"Eislingen, Baden-Württemberg, Deutschland",['place'],de,DEU
+504,elat,Elat,4,38.26667,25.98333,"Elata, Nördliche Ägäis, Griechenland",['place'],gr,GRC
+505,elba,Elba,5,41.1125,20.08222,"Elbasan, Elbasan, Albanien",['place'],al,ALB
+506,elbe,Elbe,80,34.1112,-82.8671,"Elberton, Georgia, Vereinigte Staaten",['place'],us,USA
+507,elfenbeinkueste,Elfenbeinküste,43,7.8065628565,-5.3790073961000004,Elfenbeinküste,['country'],ci,CIV
+508,ellwangen,Ellwangen,1,48.96112,10.13098,"Ellwangen, Baden-Württemberg, Deutschland",['place'],de,DEU
+509,el-salvador,El Salvador,27,13.7368969077,-88.8665114518,El Salvador,['country'],sv,SLV
+510,elsass,Elsass,26,,,,,,
+511,elsenfeld,Elsenfeld,0,49.85,9.16667,"Elsenfeld, Bayern, Deutschland",['place'],de,DEU
+512,emden,Emden,23,53.37009,7.2031,"Emden, Niedersachsen, Deutschland",['place'],de,DEU
+513,emmendingen,Emmendingen,0,48.12139,7.84917,"Emmendingen, Baden-Württemberg, Deutschland",['place'],de,DEU
+514,emsdetten,Emsdetten,3,52.17278,7.53444,"Emsdetten, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+515,emsland,Emsland,7,47.50972,1.1225,"Mesland, Département Loir-et-Cher, Frankreich",['place'],fr,FRA
+516,england,England,97,52.38145972,-0.6761817625000001,"England, Vereinigtes Königreich",['region'],gb,GBR
+517,erbil,Erbil,0,36.182917,44.00976,"Erbil, Arbil, Irak",['place'],iq,IRQ
+518,erding,Erding,4,48.28333,11.9,"Erding, Bayern, Deutschland",['place'],de,DEU
+519,erfurt,Erfurt,56,50.97806,11.02917,"Erfurt, Thüringen, Deutschland",['place'],de,DEU
+520,eritrea,Eritrea,18,15.6805129748,38.5841563243,Eritrea,['country'],er,ERI
+521,erlangen,Erlangen,24,49.59639,11.00444,"Erlangen, Bayern, Deutschland",['place'],de,DEU
+522,erzgebirge,Erzgebirge,34,,,,,,
+523,eschwege,Eschwege,2,51.18806,10.05278,"Eschwege, Hessen, Deutschland",['place'],de,DEU
+524,espoo,Espoo,0,60.21,24.66,"Espoo, Uusimaa, Finnland",['place'],fi,FIN
+525,essen-nrw,Essen NRW,0,51.45807,7.01476,"Essen, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+526,esslingen,Esslingen,14,48.74056,9.31083,"Esslingen am Neckar, Baden-Württemberg, Deutschland",['place'],de,DEU
+527,ettal,Ettal,2,47.56667,11.1,"Ettal, Bayern, Deutschland",['place'],de,DEU
+528,europa,Europa,99,52.36,4.65,"Europawijk, Haarlem, Provinz Nordholland, Niederlande",['locality'],nl,NLD
+529,falkland-inseln,Falkland Inseln,3,-17.5333,-149.833,"Inseln über dem Winde, Französisch-Polynesien",['region'],pf,PYF
+530,faeroeer,Färöer,4,62.0310655278,-6.8841094571,Färöer,['country'],fo,FRO
+531,fellhorn,Fellhorn,0,55.01,8.42,"Mellhörn, List auf Sylt, Schleswig-Holstein, Deutschland",['locality'],de,DEU
+532,ferguson,Ferguson,11,37.0667,-84.5999,"Ferguson, Kentucky, Vereinigte Staaten",['place'],us,USA
+533,fernost,Fernost,50,43.240404,-5.666799,"La Fernosa, Langreo, Asturien, Spanien",['locality'],es,ESP
+534,fidschi,Fidschi,9,-18.1239695,179.0122737,Fidschi,['country'],fj,FJI
+535,fidschi-inseln,Fidschi-Inseln,3,-18.1239695,179.0122737,Fidschi,['country'],fj,FJI
+536,finkenwerder,Finkenwerder,3,53.53092,9.85783,"Finkenwerder, Hamburg, Deutschland",['locality'],de,DEU
+537,finnland,Finnland,79,62.7777539653,26.1995390052,Finnland,['country'],fi,FIN
+538,fitna,Fitna,0,18.4246152501,31.8069949653,"Fitnah, Al-Bahr al-ahmar, Sudan",['locality'],sd,SDN
+539,flandern,Flandern,11,51.0,3.75,"Provinz Ostflandern, Belgien",['region'],be,BEL
+540,flensburg,Flensburg,56,54.78194,9.43667,"Flensburg, Schleswig-Holstein, Deutschland",['place'],de,DEU
+541,florenz,Florenz,64,43.77139,11.25417,"Florenz, Provinz Florenz, Italien",['place'],it,ITA
+542,florida,Florida,57,28.9444647055,-82.0336297632,"Florida, Vereinigte Staaten",['region'],us,USA
+543,fortaleza,Fortaleza,3,-3.7305,-38.5218,"Fortaleza, Ceará, Brasilien",['place'],br,BRA
+544,frankfurt-%28oder%29,Frankfurt (Oder),0,52.35,14.55,"Frankfurt, Brandenburg, Deutschland",['place'],de,DEU
+545,frankfurt-am-main,Frankfurt am Main,90,50.11361,8.67972,"Frankfurt am Main, Hessen, Deutschland",['place'],de,DEU
+546,frankfurt-an-der-oder,Frankfurt an der Oder,21,52.35,14.55,"Frankfurt, Brandenburg, Deutschland",['place'],de,DEU
+547,frankreich,Frankreich,99,47.8249046209,2.6187869531,Frankreich,['country'],fr,FRA
+548,franzoesisch-guayana,Französisch-Guayana,3,,,,,,
+549,franzoesisch-polynesien,Französisch-Polynesien,1,-16.1721,-146.3237,Französisch-Polynesien,"['country', 'region']",pf,PYF
+550,freiburg,Freiburg,86,47.99472,7.84972,"Freiburg im Breisgau, Baden-Württemberg, Deutschland",['place'],de,DEU
+551,friedrichshafen,Friedrichshafen,16,47.65417,9.47917,"Friedrichshafen, Baden-Württemberg, Deutschland",['place'],de,DEU
+552,fukushima,Fukushima,41,37.76083,140.47333,"Fukushima, Präfektur Fukushima, Japan",['place'],jp,JPN
+553,fulda,Fulda,26,50.55278,9.6775,"Fulda, Hessen, Deutschland",['place'],de,DEU
+554,fuerstenfeldbruck,Fürstenfeldbruck,5,48.17778,11.25556,"Fürstenfeldbruck, Bayern, Deutschland",['place'],de,DEU
+555,fuerth,Fürth,56,49.47833,10.99028,"Fürth, Bayern, Deutschland",['place'],de,DEU
+556,gabun,Gabun,10,-0.5909451775,11.7972366736,Gabun,['country'],ga,GAB
+557,galicien,Galicien,3,,,,,,
+558,gambia,Gambia,8,13.4445255191,-15.9128544787,Gambia,['country'],gm,GMB
+559,ganges,Ganges,10,43.93417,3.70833,"Ganges, Département Hérault, Frankreich",['place'],fr,FRA
+560,gardasee,Gardasee,9,34.2632603169,70.9786436241,"Gardawee, Nangarhar, Afghanistan",['place'],af,AFG
+561,garissa,Garissa,0,-0.45694,39.65833,"Garissa, Garissa County, Kenia",['place'],ke,KEN
+562,garmisch-partenkirchen,Garmisch-Partenkirchen,37,47.5,11.08333,"Garmisch-Partenkirchen, Bayern, Deutschland",['place'],de,DEU
+563,gaza,Gaza,52,31.4896,34.4442,"Gazastreifen, Palästina",['region'],ps,PSE
+564,gaza-stadt,Gaza-Stadt,5,40.42389,-3.69639,"Stadtviertel Justicia in Madrid, Madrid, Madrid, Spanien",['locality'],es,ESP
+565,genf,Genf,79,46.2,6.15,"Genf, Kanton Genf, Schweiz",['place'],ch,CHE
+566,genfer-see,Genfer See,11,26.24,50.537,"Seef, Hoofdstad, Bahrain",['place'],bh,BHR
+567,genua,Genua,30,44.40719,8.93398,"Genua, Metropolitanstadt Genua, Italien",['place'],it,ITA
+568,georgia,Georgia,22,32.3305706594,-83.2572560296,"Georgia, Vereinigte Staaten",['region'],us,USA
+569,georgien,Georgien,51,42.1763109186,43.5174484609,Georgien,['country'],ge,GEO
+570,germanwings,Germanwings,9,,,,,,
+571,gezi-park,Gezi-Park,6,-1.25,36.8,"Parklands, Nairobi, Kenia",['locality'],ke,KEN
+572,ghana,Ghana,44,6.8808542691,-1.1675944276,Ghana,['country'],gh,GHA
+573,ghuta,Ghuta,0,23.861044,84.666849,"Ghutam, Balumath, Latehar, Jharkhand, Indien",['locality'],in,IND
+574,gibraltar,Gibraltar,27,36.1382128307,-5.344893536,Gibraltar,['country'],gi,GIB
+575,giessen,Gießen,28,50.58333,8.66667,"Gießen, Hessen, Deutschland",['place'],de,DEU
+576,gizeh,Gizeh,2,30.01,31.21,"al-Gīza, al-Dschiza, Ägypten",['place'],eg,EGY
+577,glasgow,Glasgow,35,55.87,-4.27,"Glasgow, Glasgow, Schottland, Vereinigtes Königreich",['place'],gb,GBR
+578,golf-von-mexiko,Golf von Mexiko,2,29.948,-85.418,"Mexico Beach, Florida, Vereinigte Staaten",['place'],us,USA
+579,goma,Goma,4,35.1947832053,45.5157990195,"Gomata, as-Sulaimaniyya, Irak",['place'],iq,IRQ
+580,gorleben,Gorleben,53,53.04806,11.35556,"Gorleben, Niedersachsen, Deutschland",['place'],de,DEU
+581,goettingen,Göttingen,68,51.53389,9.93556,"Göttingen, Niedersachsen, Deutschland",['place'],de,DEU
+582,grafenau,Grafenau,1,48.85611,13.39694,"Grafenau, Bayern, Deutschland",['place'],de,DEU
+583,granada,Granada,16,37.17806,-3.60083,"Granada, Provinz Granada, Spanien",['place'],es,ESP
+584,gran-canaria,Gran Canaria,0,47.50278,10.55278,"Grän, Tirol, Österreich",['place'],at,AUT
+585,grand-canyon,Grand Canyon,0,36.0966,-112.0985,"Grand Canyon, Arizona, Vereinigte Staaten",['place'],us,USA
+586,graz,Graz,30,47.06667,15.43333,"Graz, Steiermark, Österreich",['place'],at,AUT
+587,great-barrier-reef,Great Barrier Reef,0,16.7166670705,42.6833329909,"Harrier Reef, Provinz Dschāzān, Saudi-Arabien",['locality'],sa,SAU
+588,greifswald,Greifswald,19,54.08333,13.38333,"Greifswald, Mecklenburg-Vorpommern, Deutschland",['place'],de,DEU
+589,grenada,Grenada,7,12.1129258399,-61.6793774506,Grenada,['country'],gd,GRD
+590,grenoble,Grenoble,16,45.18694,5.72639,"Grenoble, Département Isère, Frankreich",['place'],fr,FRA
+591,grevenbroich,Grevenbroich,2,51.08833,6.5875,"Grevenbroich, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+592,griechenland,Griechenland,98,38.5890212896,23.8285537395,Griechenland,['country'],gr,GRC
+593,gr%C3%ADmsvoetn,Grímsvötn,0,,,,,,
+594,groenland,Grönland,21,74.7209117557,-41.3894770446,Grönland,['country'],gl,GRL
+595,grossbritannien,Großbritannien,98,54.2379333607472,-2.36966957036279,Vereinigtes Königreich,['country'],gb,GBR
+596,gruenenthal,Grünenthal,1,54.12247,9.33286,"Grünental, Beldorf, Schleswig-Holstein, Deutschland",['locality'],de,DEU
+597,gruener-huegel,Grüner Hügel,0,48.79722,8.11167,"Hügelsheim, Baden-Württemberg, Deutschland",['place'],de,DEU
+598,guadeloupe,Guadeloupe,8,,,,,,
+599,guangzhou,Guangzhou,3,23.1288,113.25898,"Guangzhou, Guangdong, Volksrepublik China",['place'],cn,CHN
+600,guant%C3%A1namo,Guantánamo,33,20.13833,-75.20611,"Guantánamo, Kuba",['region'],cu,CUB
+601,guatemala,Guatemala,37,15.605589326,-90.3900017126,Guatemala,['country'],gt,GTM
+602,guinea,Guinea,43,10.7855460399,-11.0298621655,Guinea,['country'],gn,GIN
+603,guinea-bissau,Guinea-Bissau,3,12.0317005007,-14.9634826253,Guinea-Bissau,['country'],gw,GNB
+604,guyana,Guyana,3,5.6238227903,-58.9747808781,Guyana,['country'],gy,GUY
+605,hackescher-markt,Hackescher Markt,0,52.4775,-0.9206000000000001,"Market Harborough, Leicestershire, England, Vereinigtes Königreich",['place'],gb,GBR
+606,hafencity,HafenCity,5,53.54167,9.99333,"HafenCity, Hamburg, Deutschland",['locality'],de,DEU
+607,hagen,Hagen,27,48.81667,7.78778,"Hagenau, Département Bas-Rhin, Frankreich",['place'],fr,FRA
+608,haidhausen,Haidhausen,0,48.13,11.59,"Haidhausen-Süd, München, Bayern, Deutschland",['locality'],de,DEU
+609,haifa,Haifa,23,32.8,34.98333,"Haifa, Bezirk Haifa, Israel",['place'],il,ISR
+610,haiti,Haiti,50,19.1824357257,-72.4345149745,Haiti,['country'],ht,HTI
+611,ha-jin,Ha Jin,0,18.5733318502,-69.9789082166,"La Jina, Santo Domingo Norte, Santo Domingo, Dominikanische Republik",['locality'],do,DOM
+612,halabdscha,Halabdscha,0,35.1792062493,45.9873682447,"Halabdscha, as-Sulaimaniyya, Irak",['place'],iq,IRQ
+613,halberstadt,Halberstadt,6,51.895830000000004,11.04667,"Halberstadt, Sachsen-Anhalt, Deutschland",['place'],de,DEU
+614,halle-an-der-saale,Halle an der Saale,38,51.48306,11.97194,"Halle, Sachsen-Anhalt, Deutschland",['place'],de,DEU
+615,haltern,Haltern,0,51.75,7.18333,"Haltern am See, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+616,hamburg,Hamburg,99,53.55,10.0,"Hamburg, Deutschland","['region', 'place']",de,DEU
+617,hangzhou,Hangzhou,0,30.2741,120.15507,"Hangzhou, Zhejiang, Volksrepublik China",['place'],cn,CHN
+618,hannover,Hannover,94,52.37444,9.73861,"Hannover, Niedersachsen, Deutschland",['place'],de,DEU
+619,hanoi,Hanoi,47,21.0,105.75,"Hanoi, Vietnam","['region', 'place']",vn,VNM
+620,harburg,Harburg,13,53.45926,9.98267,"Harburg, Hamburg, Deutschland",['locality'],de,DEU
+621,harrisburg,Harrisburg,7,40.2663,-76.8861,"Harrisburg, Pennsylvania, Vereinigte Staaten",['place'],us,USA
+622,harvard,Harvard,58,42.4222,-88.6137,"Harvard, Illinois, Vereinigte Staaten",['place'],us,USA
+623,harz,Harz,21,51.64167,11.14278,"Harzgerode, Sachsen-Anhalt, Deutschland",['place'],de,DEU
+624,hasenbergl,Hasenbergl,0,48.21,11.56,"Hasenbergl-Lerchenau Ost, München, Bayern, Deutschland",['locality'],de,DEU
+625,havanna,Havanna,35,23.101612,-82.321534,"Provinz La Habana, Kuba","['region', 'place']",cu,CUB
+626,hawaii,Hawaii,33,21.31139,-157.79639,"Hawaii, Vereinigte Staaten",['region'],us,USA
+627,heathrow,Heathrow,8,51.4673,-0.4529,"Heathrow Villages, Hounslow, Greater London, England, Vereinigtes Königreich",['locality'],gb,GBR
+628,hebron,Hebron,11,39.0659,-84.7011,"Hebron, Kentucky, Vereinigte Staaten",['place'],us,USA
+629,heidelberg,Heidelberg,79,49.41222,8.71,"Heidelberg, Baden-Württemberg, Deutschland",['place'],de,DEU
+630,heidenau,Heidenau,2,50.98333,13.86667,"Heidenau, Sachsen, Deutschland",['place'],de,DEU
+631,heidenheim,Heidenheim,15,48.67611,10.15444,"Heidenheim an der Brenz, Baden-Württemberg, Deutschland",['place'],de,DEU
+632,heilbronn,Heilbronn,29,49.15,9.21667,"Heilbronn, Baden-Württemberg, Deutschland",['place'],de,DEU
+633,heiligendamm,Heiligendamm,6,54.14,11.84,"Heiligendamm, Bad Doberan, Mecklenburg-Vorpommern, Deutschland",['locality'],de,DEU
+634,heinsberg,Heinsberg,1,51.06306,6.09639,"Heinsberg, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+635,helgoland,Helgoland,18,54.1825,7.88528,"Helgoland, Schleswig-Holstein, Deutschland",['place'],de,DEU
+636,helsinki,Helsinki,62,60.17333,24.94861,"Helsinki, Uusimaa, Finnland",['place'],fi,FIN
+637,hessen,Hessen,90,50.66611,8.59111,"Hessen, Deutschland",['region'],de,DEU
+638,hildesheim,Hildesheim,28,52.15,9.95,"Hildesheim, Niedersachsen, Deutschland",['place'],de,DEU
+639,himalaya,Himalaya,24,28.4847938076,83.8886568323,"Himalaya Hotel, Ghandruk, Kaski, Gandaki, Nepal",['locality'],np,NPL
+640,hindukusch,Hindukusch,33,,,,,,
+641,hiroshima,Hiroshima,30,34.38528,132.45528,"Hiroshima, Präfektur Hiroshima, Japan",['place'],jp,JPN
+642,hockenheim,Hockenheim,8,49.31806,8.54722,"Hockenheim, Baden-Württemberg, Deutschland",['place'],de,DEU
+643,hoffenheim,Hoffenheim,78,49.27222,8.84444,"Hoffenheim, Sinsheim, Baden-Württemberg, Deutschland",['locality'],de,DEU
+644,hokkaido,Hokkaido,5,43.0,142.0,"Hokkaidō, Japan",['region'],jp,JPN
+645,homs,Homs,20,34.35,38.31,"Gouvernement Homs, Syrien",['region'],sy,SYR
+646,honduras,Honduras,33,14.7616644478,-86.9216408873,Honduras,['country'],hn,HND
+647,hongkong,Hongkong,75,22.27833,114.15861,Hongkong,"['country', 'region', 'place']",hk,HKG
+648,honolulu,Honolulu,12,21.3045,-157.8557,"Honolulu, Hawaii, Vereinigte Staaten",['place'],us,USA
+649,horgo%C5%A1,Horgoš,0,44.2163868096,80.4117451608,"Korgas, Xinjiang, Volksrepublik China",['place'],cn,CHN
+650,horliwka,Horliwka,0,48.3059,38.0028,"Horliwka, Oblast Donezk, Ukraine",['place'],ua,UKR
+651,houston,Houston,26,29.7589,-95.3677,"Houston, Texas, Vereinigte Staaten",['place'],us,USA
+652,hudson-bay,Hudson Bay,1,52.9834,-102.2176,"Hudson Bay, Saskatchewan, Kanada",['place'],ca,CAN
+653,hula,Hula,1,45.98272,126.59873,"Hulan, Harbin, Heilongjiang, Volksrepublik China",['locality'],cn,CHN
+654,hurghada,Hurghada,2,27.249288,33.800752,"Hurghada, Hurghada, al-Bahr al-ahmar, Ägypten",['locality'],eg,EGY
+655,husum,Husum,10,54.47694,9.05111,"Husum, Schleswig-Holstein, Deutschland",['place'],de,DEU
+656,ibiza,Ibiza,16,38.90889,1.4327800000000002,"Ibiza-Stadt, Balearische Inseln, Spanien",['place'],es,ESP
+657,idaho,Idaho,6,44.3918682454,-114.6513785859,"Idaho, Vereinigte Staaten",['region'],us,USA
+658,idar-oberstein,Idar Oberstein,3,49.70194,7.32528,"Idar-Oberstein, Rheinland-Pfalz, Deutschland",['place'],de,DEU
+659,idlib,Idlib,6,35.78,36.69,"Gouvernement Idlib, Syrien",['region'],sy,SYR
+660,idomeni,Idomeni,3,41.11265,22.483456,"Idomeni, Zentralmakedonien, Griechenland",['place'],gr,GRC
+661,ifoghas-gebirge,Ifoghas-Gebirge,0,51.0688,14.5123,"Gebirge, Beiersdorf, Sachsen, Deutschland",['locality'],de,DEU
+662,ignalina,Ignalina,0,55.34,26.15667,"Ignalina, Bezirk Utena, Litauen",['place'],lt,LTU
+663,ilha-grande,Ilha Grande,0,-2.8577,-41.8186,"Ilha Grande, Piauí, Brasilien",['place'],br,BRA
+664,illinois,Illinois,18,40.1492928594,-89.2749461071,"Illinois, Vereinigte Staaten",['region'],us,USA
+665,illuminati,Illuminati,0,,,,,,
+666,ilowajsk,Ilowajsk,0,47.9248,38.1976,"Ilowajsk, Oblast Donezk, Ukraine",['place'],ua,UKR
+667,indiana,Indiana,18,39.9184076479,-86.2846076065,"Indiana, Vereinigte Staaten",['region'],us,USA
+668,indianapolis,Indianapolis,11,39.768299999999996,-86.1584,"Indianapolis, Indiana, Vereinigte Staaten",['place'],us,USA
+669,indien,Indien,94,22.1991660761,78.4766810272,Indien,['country'],in,IND
+670,indonesien,Indonesien,79,-2.352,116.348,Indonesien,['country'],id,IDN
+671,ingolstadt,Ingolstadt,60,48.76361,11.42611,"Ingolstadt, Bayern, Deutschland",['place'],de,DEU
+672,inguschetien,Inguschetien,3,43.2,44.96667,"Inguschetien, Russland",['region'],ru,RUS
+673,innsbruck,Innsbruck,44,47.26667,11.38333,"Innsbruck, Tirol, Österreich",['place'],at,AUT
+674,iowa,Iowa,18,41.6613,-91.5299,"Iowa City, Iowa, Vereinigte Staaten",['place'],us,USA
+675,irak,Irak,95,33.0480556444,43.4047161632,Irak,['country'],iq,IRQ
+676,iran,Iran,94,32.5658376002,54.3013740877,Iran,['country'],ir,IRN
+677,irkutsk,Irkutsk,4,52.28333,104.3,"Irkutsk, Oblast Irkutsk, Russland",['place'],ru,RUS
+678,irland,Irland,85,53.3054943871,-7.737648888,Irland,['country'],ie,IRL
+679,isar,Isar,20,42.36167,-3.93028,"Isar, Provinz Burgos, Spanien",['place'],es,ESP
+680,islamabad,Islamabad,22,33.719361,73.074144,"Islamabad, Hauptstadtterritorium Islamabad, Pakistan",['place'],pk,PAK
+681,ismail-khan,Ismail Khan,0,33.7308440638,44.8064079601,"Ismail Khan, Governorat Diyala, Irak",['place'],iq,IRQ
+682,israel,Israel,97,31.8472608145,34.8419985254,Israel,['country'],il,ISR
+683,istanbul,Istanbul,75,41.01,28.96028,"Istanbul, Türkei","['region', 'place']",tr,TUR
+684,italien,Italien,98,42.5041539171,12.6463610364,Italien,['country'],it,ITA
+685,itzehoe,Itzehoe,11,53.925,9.51639,"Itzehoe, Schleswig-Holstein, Deutschland",['place'],de,DEU
+686,izmir,Izmir,9,38.43333,27.15,"Izmir, Izmir, Türkei",['place'],tr,TUR
+687,jad-vaschem,Jad Vaschem,0,47.20141,24.60286,"Livezile, Kreis Bistrița-Năsăud, Rumänien",['place'],ro,ROU
+688,jakarta,Jakarta,26,-6.16667,106.8,"Jakarta, Indonesien","['region', 'place']",id,IDN
+689,jalta,Jalta,15,44.4971,34.1587,"Jalta, Autonome Republik Krim, Ukraine",['place'],ua,UKR
+690,jamaika,Jamaika,34,18.1512945138,-77.3192220135,Jamaika,['country'],jm,JAM
+691,japan,Japan,96,36.3864928219,138.5922295495,Japan,['country'],jp,JPN
+692,jekaterinburg,Jekaterinburg,5,56.83333,60.58333,"Jekaterinburg, Oblast Swerdlowsk, Russland",['place'],ru,RUS
+693,jemen,Jemen,78,15.9378350128,47.6219307492,Jemen,['country'],ye,YEM
+694,jerewan,Jerewan,0,40.18333,44.51667,"Jerewan, Armenien","['region', 'place']",am,ARM
+695,jerusalem,Jerusalem,84,31.77331512,35.18679028,"Jerusalem, Bezirk Jerusalem, Israel",['place'],il,ISR
+696,jever,Jever,3,53.57444,7.90083,"Jever, Niedersachsen, Deutschland",['place'],de,DEU
+697,johannesburg,Johannesburg,57,-26.1633,28.0328,"Johannesburg, Gauteng, Südafrika",['place'],za,ZAF
+698,jordanien,Jordanien,68,31.0101920713,36.435862837,Jordanien,['country'],jo,JOR
+699,jugoslawien,Jugoslawien,85,,,,,,
+700,kabul,Kabul,53,34.525835,69.160091,"Kabul, Kabul, Afghanistan",['place'],af,AFG
+701,kairo,Kairo,79,30.05611,31.23944,"Kairo, al-Qahira, Ägypten",['place'],eg,EGY
+702,kaiserslautern,Kaiserslautern,68,49.44472,7.76889,"Kaiserslautern, Rheinland-Pfalz, Deutschland",['place'],de,DEU
+703,kalabrien,Kalabrien,7,,,,,,
+704,kalantschak,Kalantschak,0,,,,,,
+705,kalifornien,Kalifornien,79,37.0743595873,-119.6993751531,"Kalifornien, Vereinigte Staaten",['region'],us,USA
+706,kambodscha,Kambodscha,63,12.4576331842,104.923981338,Kambodscha,['country'],kh,KHM
+707,kamerun,Kamerun,34,4.8065122062,12.2137541551,Kamerun,['country'],cm,CMR
+708,kamtschatka,Kamtschatka,2,,,,,,
+709,kanada,Kanada,91,55.5859012852,-105.7505958565,Kanada,['country'],ca,CAN
+710,kanalinseln,Kanalinseln,0,,,,,,
+711,kanarische-inseln,Kanarische Inseln,2,28.0895,-15.4605,"Kanarische Inseln, Spanien",['region'],es,ESP
+712,kandahar,Kandahar,9,31.0,65.5,"Kandahar, Afghanistan",['region'],af,AFG
+713,kansas,Kansas,21,38.5320800989,-98.7257387818,"Kansas, Vereinigte Staaten",['region'],us,USA
+714,kansas-city,Kansas City,9,39.0845,-94.563,"Kansas City, Missouri, Vereinigte Staaten",['place'],us,USA
+715,kap-hoorn,Kap Hoorn,3,52.6425,5.05944,"Hoorn, Provinz Nordholland, Niederlande",['place'],nl,NLD
+716,kaprun,Kaprun,4,47.2725,12.75944,"Kaprun, Salzburg, Österreich",['place'],at,AUT
+717,kapstadt,Kapstadt,32,-33.9351,18.4289,"Kapstadt, Westkap, Südafrika",['place'],za,ZAF
+718,kap-verde,Kap Verde,1,15.9789658506,-23.9677871521,Kap Verde,['country'],cv,CPV
+719,karatschi,Karatschi,16,24.870862,67.114544,"Karatschi, Sindh, Pakistan",['place'],pk,PAK
+720,karibik,Karibik,36,,,,,,
+721,karlsbad,Karlsbad,10,50.23056,12.8725,"Karlsbad, Karlovarský kraj, Tschechien",['place'],cz,CZE
+722,karlsruhe,Karlsruhe,87,49.01389,8.40417,"Karlsruhe, Baden-Württemberg, Deutschland",['place'],de,DEU
+723,kaernten,Kärnten,27,46.76111,13.81889,"Kärnten, Österreich",['region'],at,AUT
+724,karpaten,Karpaten,10,,,,,,
+725,kasan,Kasan,9,55.79083,49.11444,"Kasan, Tatarstan, Russland",['place'],ru,RUS
+726,kaschmir,Kaschmir,19,32.2419568697,74.1472490318,"Kashmir Colony, Gujranwala, Punjab, Pakistan",['locality'],pk,PAK
+727,kaspisches-meer,Kaspisches Meer,0,51.4427,5.411,"Meerhoven, Eindhoven, Provinz Nordbrabant, Niederlande",['locality'],nl,NLD
+728,kassel,Kassel,69,51.31972,9.49778,"Kassel, Hessen, Deutschland",['place'],de,DEU
+729,katalonien,Katalonien,23,,,,,,
+730,katar,Katar,61,25.3150785009,51.191200997,Katar,['country'],qa,QAT
+731,kathmandu,Kathmandu,8,27.71667,85.36667,"Kathmandu, Bagmati, Nepal",['place'],np,NPL
+732,kaufbeuren,Kaufbeuren,4,47.88,10.6225,"Kaufbeuren, Bayern, Deutschland",['place'],de,DEU
+733,kaukasus,Kaukasus,42,,,,,,
+734,kehl,Kehl,10,48.58396,7.82368,"Kehl, Baden-Württemberg, Deutschland",['place'],de,DEU
+735,kempten,Kempten,8,47.73333,10.31667,"Kempten, Bayern, Deutschland",['place'],de,DEU
+736,kenia,Kenia,73,0.5298624768,37.8578818659,Kenia,['country'],ke,KEN
+737,kentucky,Kentucky,17,37.5310880799,-85.2893967376,"Kentucky, Vereinigte Staaten",['region'],us,USA
+738,kertsch,Kertsch,0,45.35,36.47,"Kertsch, Autonome Republik Krim, Ukraine",['place'],ua,UKR
+739,key-west,Key West,0,24.5626,-81.7724,"Key West, Florida, Vereinigte Staaten",['place'],us,USA
+740,khartum,Khartum,10,15.588,32.525,"Khartum, Asch-Schamaliyya, Sudan",['place'],sd,SDN
+741,kidal,Kidal,1,19.97333,0.74694,"Region Kidal, Mali",['region'],ml,MLI
+742,kiel,Kiel,80,54.32528,10.14056,"Kiel, Schleswig-Holstein, Deutschland",['place'],de,DEU
+743,kiew,Kiew,70,50.4501,30.5241,"Kiew, Kiew, Ukraine",['place'],ua,UKR
+744,kigali,Kigali,5,-1.95361,30.06056,"Kigali, Ruanda",['region'],rw,RWA
+745,kilimandscharo,Kilimandscharo,5,-3.33488,37.34038,"Kilimandscharo, Tansania",['region'],tz,TZA
+746,kinshasa,Kinshasa,7,-4.32333,15.30806,"Kinshasa, Demokratische Republik Kongo","['region', 'place']",cd,COD
+747,kirgistan,Kirgistan,9,41.4650539554,74.5555962804,Kirgisistan,['country'],kg,KGZ
+748,kiribati,Kiribati,1,1.8389362859,-157.3710212364,Kiribati,['country'],ki,KIR
+749,kirkenes,Kirkenes,0,69.725,30.05167,"Kirkenes, Troms, Norwegen",['place'],no,NOR
+750,kirkuk,Kirkuk,8,35.36667,44.13333,"Kirkuk, Irak",['region'],iq,IRQ
+751,kitzbuehel,Kitzbühel,16,47.44639,12.39194,"Kitzbühel, Tirol, Österreich",['place'],at,AUT
+752,klagenfurt,Klagenfurt,26,46.61667,14.3,"Klagenfurt am Wörthersee, Kärnten, Österreich",['place'],at,AUT
+753,kobani,Kobani,5,40.3,21.78333,"Kozani, Westmakedonien, Griechenland",['place'],gr,GRC
+754,koblenz,Koblenz,53,50.35972,7.59778,"Koblenz, Rheinland-Pfalz, Deutschland",['place'],de,DEU
+755,koeln,Köln,98,50.94222,6.95778,"Köln, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+756,kolumbien,Kolumbien,70,3.065088,-73.129056,Kolumbien,['country'],co,COL
+757,komoren,Komoren,3,-11.8927551571,43.6759171675,Komoren,['country'],km,COM
+758,kongo,Kongo,61,-1.1729185015,23.1668993659,Demokratische Republik Kongo,['country'],cd,COD
+759,kongo%2C-republik,"Kongo, Republik",0,-0.3056054901,15.9928582278,Republik Kongo,['country'],cg,COG
+760,konstanz,Konstanz,45,47.66333,9.17528,"Konstanz, Baden-Württemberg, Deutschland",['place'],de,DEU
+761,kopenhagen,Kopenhagen,72,55.67611,12.56889,"Kopenhagen, Region Hovedstaden, Dänemark",['place'],dk,DNK
+762,korsika,Korsika,20,42.15,9.08333,"Korsika, Frankreich",['region'],fr,FRA
+763,kos,Kos,5,42.6430165,20.953599,Kosovo,['country'],rs,SRB
+764,ko-samui,Ko Samui,0,9.5,100.0,"Ko Samui, Surat Thani, Thailand",['place'],th,THA
+765,kosovo,Kosovo,63,42.6430165,20.953599,Kosovo,['country'],rs,SRB
+766,krakau,Krakau,35,50.06667,19.95,"Krakau, Woiwodschaft Kleinpolen, Polen",['place'],pl,POL
+767,kramatorsk,Kramatorsk,0,48.7387,37.5827,"Kramatorsk, Oblast Donezk, Ukraine",['place'],ua,UKR
+768,krefeld,Krefeld,38,51.33333,6.56667,"Krefeld, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+769,kreta,Kreta,28,35.30972,24.89333,"Kreta, Griechenland",['region'],gr,GRC
+770,kreuzberg,Kreuzberg,26,51.1536,7.44861,"Kreuzberg, Wipperfürth, Nordrhein-Westfalen, Deutschland",['locality'],de,DEU
+771,krim,Krim,57,51.92,4.6,"Krimpen aan den IJssel, Provinz Südholland, Niederlande",['place'],nl,NLD
+772,kroatien,Kroatien,65,45.6649521968,16.6791068851,Kroatien,['country'],hr,HRV
+773,kuala-lumpur,Kuala Lumpur,25,3.15972,101.7,"Kuala Lumpur, Malaysia","['region', 'place']",my,MYS
+774,kuba,Kuba,81,21.9468717022,-79.2366720528,Kuba,['country'],cu,CUB
+775,kundus,Kundus,31,51.753399,95.331326,"Kundustugsky, Kaa-Khemsky District, Tuwa, Russland",['place'],ru,RUS
+776,kurdistan,Kurdistan,19,35.4509090223,44.4103329442,"Kurdistan, Kirkuk, Irak",['locality'],iq,IRQ
+777,kurfuerstendamm,Kurfürstendamm,17,,,,,,
+778,kuwait,Kuwait,58,29.3412115743,47.5906041081,Kuwait,['country'],kw,KWT
+779,kyoto,Kyoto,28,35.01167,135.76806,"Kyōto, Präfektur Kyōto, Japan",['place'],jp,JPN
+780,la-d%C3%A9fense,La Défense,0,30.9374993016,-92.3059980696,"Louisiana, Vereinigte Staaten",['region'],us,USA
+781,lago-maggiore,Lago Maggiore,9,39.16667,16.15,"Lago, Provinz Cosenza, Italien",['place'],it,ITA
+782,lampedusa,Lampedusa,15,35.50306,12.60306,"Lampedusa e Linosa, Provinz Agrigent, Italien",['place'],it,ITA
+783,landau,Landau,0,49.19944,8.12306,"Landau in der Pfalz, Rheinland-Pfalz, Deutschland",['place'],de,DEU
+784,landsberg,Landsberg,14,48.03333,10.88333,"Landsberg am Lech, Bayern, Deutschland",['place'],de,DEU
+785,landshut,Landshut,19,48.53972,12.15083,"Landshut, Bayern, Deutschland",['place'],de,DEU
+786,lanzarote,Lanzarote,5,28.037924,-15.580172,"Lanzarote, Valleseco, Provinz Las Palmas, Kanarische Inseln, Spanien",['locality'],es,ESP
+787,lanzhou-,Lanzhou,0,36.06171,103.83177,"Lanzhou, Gansu, Volksrepublik China",['place'],cn,CHN
+788,laos,Laos,30,36.1075,120.46889,"Laoshan, Qingdao, Shandong, Volksrepublik China",['locality'],cn,CHN
+789,la-paz,La Paz,7,-16.49417,-68.1475,"La Paz, La Paz, Bolivien",['place'],bo,BOL
+790,lappland,Lappland,10,44.285979,-64.679824,"Lapland, Nova Scotia, Kanada",['place'],ca,CAN
+791,las-vegas,Las Vegas,37,36.1663,-115.1492,"Las Vegas, Nevada, Vereinigte Staaten",['place'],us,USA
+792,latakia,Latakia,3,35.5200185338,35.7781043183,"Latakia, Gouvernement Latakia, Syrien",['place'],sy,SYR
+793,lausanne,Lausanne,49,46.53333,6.63333,"Lausanne, Kanton Waadt, Schweiz",['place'],ch,CHE
+794,lausitz,Lausitz,6,51.5133,13.3469,"Lausitz, Bad Liebenwerda, Brandenburg, Deutschland",['locality'],de,DEU
+795,leeds,Leeds,6,53.79972,-1.5491700000000002,"Leeds, West Yorkshire, England, Vereinigtes Königreich",['place'],gb,GBR
+796,leipzig,Leipzig,88,51.33333,12.38333,"Leipzig, Sachsen, Deutschland",['place'],de,DEU
+797,le-mans,Le Mans,9,48.00417,0.19694,"Le Mans, Département Sarthe, Frankreich",['place'],fr,FRA
+798,lemberg,Lemberg,12,49.00417,7.37944,"Lemberg, Département Moselle, Frankreich",['place'],fr,FRA
+799,leningrad,Leningrad,37,46.31667,39.36667,"Leningradski rajon, Region Krasnodar, Russland",['district'],ru,RUS
+800,leros,Leros,0,37.1483,26.8546,"Leros, Südliche Ägäis, Griechenland",['place'],gr,GRC
+801,lesbos,Lesbos,0,48.44111,-0.80444,"Lesbois, Mayenne, Frankreich",['place'],fr,FRA
+802,lesotho,Lesotho,6,-29.5809998474,28.2430108686,Lesotho,['country'],ls,LSO
+803,lettland,Lettland,37,56.9590654128,24.862593274,Lettland,['country'],lv,LVA
+804,leverkusen,Leverkusen,86,51.03333,6.9833300000000005,"Leverkusen, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+805,lhasa,Lhasa,7,29.65,91.1,"Lhasa, Lhasa, Autonomes Gebiet Tibet, Volksrepublik China",['locality'],cn,CHN
+806,libanon,Libanon,80,33.9202654118,35.8880260759,Libanon,['country'],lb,LBN
+807,liberia,Liberia,40,6.4480918524,-9.3079135061,Liberia,['country'],lr,LBR
+808,libyen,Libyen,91,27.0439610747,18.0232797726,Libyen,['country'],ly,LBY
+809,liechtenstein,Liechtenstein,24,47.151847585,9.5542691474,Liechtenstein,['country'],li,LIE
+810,lillehammer,Lillehammer,8,61.11611,10.45778,"Lillehammer, Innlandet, Norwegen",['place'],no,NOR
+811,lima,Lima,21,-12.0,-76.8333,"Lima, Provinz Lima, Peru",['place'],pe,PER
+812,limburg,Limburg,15,50.98333,5.38333,"Limburg, Belgien",['region'],be,BEL
+813,lindau,Lindau,12,47.54583,9.68389,"Lindau, Bayern, Deutschland",['place'],de,DEU
+814,linz,Linz,22,36.06561,113.81528,"Linzhou, Anyang, Henan, Volksrepublik China",['locality'],cn,CHN
+815,lissabon,Lissabon,69,38.71667,-9.16667,"Lissabon, Região de Lisboa, Portugal",['place'],pt,PRT
+816,litauen,Litauen,51,55.4874125823,23.9315379882,Litauen,['country'],lt,LTU
+817,liverpool,Liverpool,25,53.41667,-3.0,"Liverpool, Merseyside, England, Vereinigtes Königreich",['place'],gb,GBR
+818,ljubljana,Ljubljana,8,46.05,14.51667,"Ljubljana, Provinz Laibach, Slowenien",['place'],si,SVN
+819,locarno,Locarno,8,46.16639,8.79972,"Locarno, Kanton Tessin, Schweiz",['place'],ch,CHE
+820,loch-ness,Loch Ness,4,53.66778,7.355,"Neßmersiel, Dornum, Niedersachsen, Deutschland",['locality'],de,DEU
+821,london,London,98,51.50722,-0.1275,"London, Greater London, England, Vereinigtes Königreich",['place'],gb,GBR
+822,loerrach,Lörrach,6,47.61556,7.66139,"Lörrach, Baden-Württemberg, Deutschland",['place'],de,DEU
+823,los-angeles,Los Angeles,83,34.0544,-118.2439,"Los Angeles, Kalifornien, Vereinigte Staaten",['place'],us,USA
+824,louisiana,Louisiana,18,30.9374993016,-92.3059980696,"Louisiana, Vereinigte Staaten",['region'],us,USA
+825,lourdes,Lourdes,7,43.095,-0.04528,"Lourdes, Département Hautes-Pyrénées, Frankreich",['place'],fr,FRA
+826,luebeck,Lübeck,67,53.86972,10.68639,"Lübeck, Schleswig-Holstein, Deutschland",['place'],de,DEU
+827,ludwigsburg,Ludwigsburg,22,48.8975,9.19194,"Ludwigsburg, Baden-Württemberg, Deutschland",['place'],de,DEU
+828,ludwigshafen,Ludwigshafen,32,49.48111,8.43528,"Ludwigshafen am Rhein, Rheinland-Pfalz, Deutschland",['place'],de,DEU
+829,lugano,Lugano,9,46.007967,8.953327,"Lugano, Kanton Tessin, Schweiz",['place'],ch,CHE
+830,luhansk,Luhansk,4,48.5687,39.3151,"Luhansk, Oblast Luhansk, Ukraine",['place'],ua,UKR
+831,lueneburg,Lüneburg,33,53.2525,10.41444,"Lüneburg, Niedersachsen, Deutschland",['place'],de,DEU
+832,luxemburg,Luxemburg,81,49.7706279766,6.0878136666,Luxemburg,['country'],lu,LUX
+833,luzern,Luzern,25,47.04972,8.3,"Luzern, Kanton Luzern, Schweiz",['place'],ch,CHE
+834,lwiw,Lwiw,3,49.842,24.0316,"Lwiw, Oblast Lwiw, Ukraine",['place'],ua,UKR
+835,lyon,Lyon,29,45.75889,4.8413900000000005,"Lyon, Département Rhône, Frankreich",['place'],fr,FRA
+836,maastricht,Maastricht,32,50.86667,5.68333,"Maastricht, Provinz Limburg, Niederlande",['place'],nl,NLD
+837,macao,Macao,4,39.55333,-7.99861,"Mação, Distrikt Santarém, Portugal",['place'],pt,PRT
+838,madagaskar,Madagaskar,24,-19.3735339421,46.7059842741,Madagaskar,['country'],mg,MDG
+839,madrid,Madrid,90,40.41889,-3.69194,"Madrid, Madrid, Spanien",['place'],es,ESP
+840,magdeburg,Magdeburg,62,52.13333,11.61667,"Magdeburg, Sachsen-Anhalt, Deutschland",['place'],de,DEU
+841,maidan,Maidan,11,33.4148070484,45.7731359359,"Maidan, Governorat Diyala, Irak",['place'],iq,IRQ
+842,mailand,Mailand,78,45.46416,9.19034,"Mailand, Provinz Mailand, Italien",['place'],it,ITA
+843,maine-,Maine,0,45.3982848479,-69.2365510393,"Maine, Vereinigte Staaten",['region'],us,USA
+844,mainz,Mainz,83,50.0,8.26667,"Mainz, Rheinland-Pfalz, Deutschland",['place'],de,DEU
+845,malawi,Malawi,9,-13.215803635,33.7391638834,Malawi,['country'],mw,MWI
+846,malaysia,Malaysia,74,2.720558026,113.2651515934,Malaysia,['country'],my,MYS
+847,malediven,Malediven,14,4.1831,73.5307,Malediven,['country'],mv,MDV
+848,mali,Mali,72,17.3503352399,-1.2521449731,Mali,['country'],ml,MLI
+849,mallorca,Mallorca,60,15.37,120.97,"Mallorca, San Leonardo, Nueva Ecija, Philippinen",['locality'],ph,PHL
+850,malta,Malta,35,35.890522428,14.4419213796,Malta,['country'],mt,MLT
+851,managua,Managua,10,12.14,-86.274,"Managua, Departamento Managua, Nicaragua",['place'],ni,NIC
+852,manchester,Manchester,70,53.46667,-2.23333,"Manchester, Greater Manchester, England, Vereinigtes Königreich",['place'],gb,GBR
+853,manhattan,Manhattan,63,40.7903,-73.9597,"Manhattan, New York City, New York, Vereinigte Staaten",['locality'],us,USA
+854,manila,Manila,22,35.8801,-90.167,"Manila, Arkansas, Vereinigte Staaten",['place'],us,USA
+855,mannheim,Mannheim,79,49.48361,8.46306,"Mannheim, Baden-Württemberg, Deutschland",['place'],de,DEU
+856,marburg,Marburg,41,50.81667,8.76667,"Marburg, Hessen, Deutschland",['place'],de,DEU
+857,mariupol,Mariupol,2,47.0958,37.5499,"Mariupol, Oblast Donezk, Ukraine",['place'],ua,UKR
+858,marokko,Marokko,70,32.350751313,-6.0170727273,Marokko,['country'],ma,MAR
+859,marrakesch,Marrakesch,9,31.62947,-7.98108,"Marrakesch, Marrakesch-Safi, Marokko",['place'],ma,MAR
+860,marseille,Marseille,51,43.29667,5.37639,"Marseille, Département Bouches-du-Rhône, Frankreich",['place'],fr,FRA
+861,marshallinseln,Marshallinseln,0,8.4344588314,168.5493053302,Marshallinseln,['country'],mh,MHL
+862,martinique,Martinique,6,14.65254852,-61.0212870487,Martinique,"['country', 'region']",mq,MTQ
+863,maryland,Maryland,20,39.4780636707,-76.8536374638,"Maryland, Vereinigte Staaten",['region'],us,USA
+864,massachusetts,Massachusetts,38,42.3204700602,-71.9603257607,"Massachusetts, Vereinigte Staaten",['region'],us,USA
+865,mauretanien,Mauretanien,14,19.7574723128,-10.5327926242,Mauretanien,['country'],mr,MRT
+866,mazedonien,Mazedonien,44,41.5996826646,21.6974757513,Mazedonien,['country'],mk,MKD
+867,mecklenburg-vorpommern,Mecklenburg-Vorpommern,68,53.61667,12.7,"Mecklenburg-Vorpommern, Deutschland",['region'],de,DEU
+868,medion,Medion,0,41.47972,1.6125,"Mediona, Provinz Barcelona, Spanien",['place'],es,ESP
+869,mekka,Mekka,17,21.4225,39.82611,"Mekka, Provinz Mekka, Saudi-Arabien",['place'],sa,SAU
+870,mekong,Mekong,4,3.8710155325,12.2290019318,"Mekong, Centre, Kamerun",['place'],cm,CMR
+871,melbourne,Melbourne,52,-37.8142,144.9632,"Melbourne, Victoria, Australien",['place'],au,AUS
+872,melilla,Melilla,1,35.2825,-2.9475,"Melilla, Melilla, Spanien",['place'],es,ESP
+873,memmingen,Memmingen,7,47.98778,10.18111,"Memmingen, Bayern, Deutschland",['place'],de,DEU
+874,memphis,Memphis,16,35.149,-90.0516,"Memphis, Tennessee, Vereinigte Staaten",['place'],us,USA
+875,mendocino,Mendocino,0,39.3077,-123.7995,"Mendocino, Kalifornien, Vereinigte Staaten",['place'],us,USA
+876,mers,Mers,2,36.8,34.61667,"Mersin, Mersin, Türkei",['place'],tr,TUR
+877,meseberg,Meseberg,1,52.9714,13.103,"Meseberg, Gransee, Brandenburg, Deutschland",['locality'],de,DEU
+878,mexiko,Mexiko,89,23.9504642311,-102.5328674481,Mexiko,['country'],mx,MEX
+879,mexiko-stadt,Mexiko-Stadt,18,19.41944,-99.14556,"Mexiko-Stadt, Mexiko","['region', 'place']",mx,MEX
+880,miami,Miami,58,25.7743,-80.1937,"Miami, Florida, Vereinigte Staaten",['place'],us,USA
+881,michigan,Michigan,27,44.9337458924,-84.5252399998,"Michigan, Vereinigte Staaten",['region'],us,USA
+882,miesbach,Miesbach,1,47.78333,11.83333,"Miesbach, Bayern, Deutschland",['place'],de,DEU
+883,mikronesien,Mikronesien,1,6.0754376904,160.3976965084,Mikronesien,['country'],fm,FSM
+884,milwaukee,Milwaukee,8,43.035,-87.9225,"Milwaukee, Wisconsin, Vereinigte Staaten",['place'],us,USA
+885,mindelheim,Mindelheim,0,48.03333,10.46667,"Mindelheim, Bayern, Deutschland",['place'],de,DEU
+886,minden,Minden,10,32.6154,-93.2868,"Minden, Louisiana, Vereinigte Staaten",['place'],us,USA
+887,minneapolis,Minneapolis,8,44.9773,-93.2655,"Minneapolis, Minnesota, Vereinigte Staaten",['place'],us,USA
+888,minsk,Minsk,29,53.90225,27.56184,"Minsk, Weißrussland","['region', 'place']",by,BLR
+889,misrata,Misrata,6,32.3744501462,15.0905412622,"Misrata, Munizip Misrata, Libyen",['place'],ly,LBY
+890,mississippi,Mississippi,32,32.8566735673,-89.7181678797,"Mississippi, Vereinigte Staaten",['region'],us,USA
+891,missouri,Missouri,16,38.1908023986,-92.5859148995,"Missouri, Vereinigte Staaten",['region'],us,USA
+892,mittelamerika,Mittelamerika,34,,,,,,
+893,mitteleuropa,Mitteleuropa,66,,,,,,
+894,mittelmeer,Mittelmeer,56,,,,,,
+895,mitterteich,Mitterteich,0,49.93333,12.23333,"Mitterteich, Bayern, Deutschland",['place'],de,DEU
+896,moabit,Moabit,1,52.53,13.37,"Moabit, Berlin, Deutschland",['locality'],de,DEU
+897,mogadischu,Mogadischu,22,2.04083,45.3425,"Mogadischu, Banaadir, Somalia",['place'],so,SOM
+898,moldau,Moldau,16,47.87056,6.97306,"Mollau, Département Haut-Rhin, Frankreich",['place'],fr,FRA
+899,moldawien,Moldawien,4,47.1938708693,28.5741781105,Moldawien,['country'],md,MDA
+900,mombasa,Mombasa,7,-4.05,39.66667,"Mombasa District, Kenia","['region', 'place']",ke,KEN
+901,monaco,Monaco,45,43.7479808631,7.4128213872,Monaco,['country'],mc,MCO
+902,moenchengladbach,Mönchengladbach,80,51.2,6.43333,"Mönchengladbach, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+903,mongolei,Mongolei,27,46.8352906607,103.0832178011,Mongolei,['country'],mn,MNG
+904,montana,Montana,10,47.0725146587,-109.1725990738,"Montana, Vereinigte Staaten",['region'],us,USA
+905,montblanc,Montblanc,4,41.37641,1.16387,"Montblanc, Tarragona, Spanien",['place'],es,ESP
+906,montenegro,Montenegro,22,42.7904432662,19.2507340777,Montenegro,['country'],me,MNE
+907,montevideo,Montevideo,12,-34.86694,-56.16667,"Montevideo, Departamento Montevideo, Uruguay",['place'],uy,URY
+908,montpellier,Montpellier,12,43.61092,3.87723,"Montpellier, Département Hérault, Frankreich",['place'],fr,FRA
+909,montreal,Montreal,45,45.5088,-73.554,"Montreal, Québec, Kanada",['place'],ca,CAN
+910,montreux,Montreux,11,46.43333,6.91667,"Montreux, Kanton Waadt, Schweiz",['place'],ch,CHE
+911,m%C3%B3rahalom,Mórahalom,0,46.21667,19.88333,"Mórahalom, Komitat Csongrád, Ungarn",['place'],hu,HUN
+912,mosambik,Mosambik,19,-18.0874664869,34.7501973909,Mosambik,['country'],mz,MOZ
+913,mosel,Mosel,29,50.35,7.5600000000000005,"Moselweiß, Koblenz, Rheinland-Pfalz, Deutschland",['locality'],de,DEU
+914,moskau,Moskau,96,55.75583,37.61778,"Moskau, Moskau, Russland",['place'],ru,RUS
+915,mossul,Mossul,7,36.3466059547,43.1270079967,"Mossul, Ninawa, Irak",['place'],iq,IRQ
+916,mount-everest,Mount Everest,1,39.6772,-95.4247,"Everest, Kansas, Vereinigte Staaten",['place'],us,USA
+917,muehlens,Mühlens,0,53.9036,9.0515,"Mühlenstraßen, Brunsbüttel, Schleswig-Holstein, Deutschland",['locality'],de,DEU
+918,mukatschewe,Mukatschewe,0,48.4419,22.7179,"Mukatschewe, Oblast Transkarpatien, Ukraine",['place'],ua,UKR
+919,mumbai,Mumbai,12,18.96667,72.83333,"Mumbai, Maharashtra, Indien",['place'],in,IND
+920,muenchen,München,99,48.13333,11.56667,"München, Bayern, Deutschland",['place'],de,DEU
+921,muenster,Münster,51,51.96667,7.63333,"Münster, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+922,murmansk,Murmansk,1,68.96667,33.08333,"Murmansk, Oblast Murmansk, Russland",['place'],ru,RUS
+923,myanmar,Myanmar,27,21.1543188079,96.5069211392,Myanmar,['country'],mm,MMR
+924,nagano,Nagano,5,36.64861,138.19278,"Nagano, Präfektur Nagano, Japan",['place'],jp,JPN
+925,nagasaki,Nagasaki,14,32.78333,129.86667,"Nagasaki, Präfektur Nagasaki, Japan",['place'],jp,JPN
+926,nairobi,Nairobi,27,-1.28333,36.81667,"Nairobi, Kenia","['region', 'place']",ke,KEN
+927,namibia,Namibia,24,-21.2010102347,17.2887615555,Namibia,['country'],na,NAM
+928,nanga-parbat,Nanga Parbat,3,26.800109,74.595303,"Parbatsar, Rajasthan, Indien",['place'],in,IND
+929,nantes,Nantes,6,47.21722,-1.55389,"Nantes, Département Loire-Atlantique, Frankreich",['place'],fr,FRA
+930,narus,Narus,0,35.428094,138.697867,"Narusawa, Minamitsuru Bezirk, Präfektur Yamanashi, Japan",['locality'],jp,JPN
+931,nashville,Nashville,11,36.1622,-86.7744,"Nashville, Tennessee, Vereinigte Staaten",['place'],us,USA
+932,nauen,Nauen,0,52.6,12.88306,"Nauen, Brandenburg, Deutschland",['place'],de,DEU
+933,nauru,Nauru,2,-0.5221031152,166.9293765198,Nauru,['country'],nr,NRU
+934,nazareth,Nazareth,0,40.7423,-75.3112,"Nazareth, Pennsylvania, Vereinigte Staaten",['place'],us,USA
+935,nba,NBA,66,6.6842791802,12.0113548357,"Nbamti, Adamaoua, Kamerun",['place'],cm,CMR
+936,neapel,Neapel,62,40.83333,14.25,"Neapel, Provinz Neapel, Italien",['place'],it,ITA
+937,nebraska-,Nebraska,0,40.6765,-95.8587,"Nebraska City, Nebraska, Vereinigte Staaten",['place'],us,USA
+938,neckar,Neckar,36,49.49846,8.48819,"Neckarstadt-Ost, Mannheim, Baden-Württemberg, Deutschland",['locality'],de,DEU
+939,nepal,Nepal,54,28.2530072798,83.9385480132,Nepal,['country'],np,NPL
+940,neu-delhi,Neu-Delhi,28,28.7,77.2,"Neu-Delhi, Delhi, Indien",['place'],in,IND
+941,neuhausen,Neuhausen,1,48.15,11.53,"Neuhausen, München, Bayern, Deutschland",['locality'],de,DEU
+942,neukirchen,Neukirchen,3,51.44167,6.55833,"Neukirchen-Vluyn, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+943,neukoelln,Neukölln,26,52.48139,13.43528,"Berlin-Neukölln, Berlin, Deutschland",['locality'],de,DEU
+944,neumuenster,Neumünster,15,54.07139,9.99,"Neumünster, Schleswig-Holstein, Deutschland",['place'],de,DEU
+945,neuseeland,Neuseeland,76,-41.8388752215,171.7799001959,Neuseeland,['country'],nz,NZL
+946,nevada-,Nevada,0,40.0711202976,-116.5988218191,"Nevada, Vereinigte Staaten",['region'],us,USA
+947,newark,Newark,6,40.7357,-74.1724,"Newark, New Jersey, Vereinigte Staaten",['place'],us,USA
+948,new-hampshire-,New Hampshire,0,43.6898878153,-71.5783054334,"New Hampshire, Vereinigte Staaten",['region'],us,USA
+949,new-jersey-,New Jersey,0,40.1502478924,-74.3893168105,"New Jersey, Vereinigte Staaten",['region'],us,USA
+950,new-mexico-,New Mexico,0,34.32485649,-105.9983506273,"New Mexico, Vereinigte Staaten",['region'],us,USA
+951,new-orleans,New Orleans,37,29.9499,-90.0701,"New Orleans, Louisiana, Vereinigte Staaten",['place'],us,USA
+952,newtown,Newtown,3,54.657,-5.907,"Newtownabbey, Newtownabbey, Nordirland, Vereinigtes Königreich",['place'],gb,GBR
+953,new-york,New York,97,40.7648,-73.9808,"New York City, New York, Vereinigte Staaten",['place'],us,USA
+954,nicaragua,Nicaragua,49,12.3355420744,-84.9199411472,Nicaragua,['country'],ni,NIC
+955,nickelsdorf,Nickelsdorf,0,47.94056,17.06889,"Nickelsdorf, Burgenland, Österreich",['place'],at,AUT
+956,niederlande,Niederlande,94,51.9724664895,5.6134906117,Niederlande,['country'],nl,NLD
+957,niederrhein,Niederrhein,29,,,,,,
+958,niedersachsen,Niedersachsen,91,52.75611,9.39306,"Niedersachsen, Deutschland",['region'],de,DEU
+959,niger,Niger,25,17.4261488452015,9.39764774206789,Niger,['country'],ne,NER
+960,nigeria,Nigeria,82,9.593959887,8.1053064096,Nigeria,['country'],ng,NGA
+961,nil,Nil,33,2.8166700000000002,101.8,"Nilai, Negeri Sembilan, Malaysia",['place'],my,MYS
+962,nizza,Nizza,38,43.70194,7.26833,"Nizza, Alpes-Maritimes, Frankreich",['place'],fr,FRA
+963,nockherberg,Nockherberg,1,,,,,,
+964,nordamerika,Nordamerika,73,,,,,,
+965,nordirland,Nordirland,44,54.7651884134,-6.9070513454,"Nordirland, Vereinigtes Königreich",['region'],gb,GBR
+966,norditalien,Norditalien,12,,,,,,
+967,nordjemen,Nordjemen,1,,,,,,
+968,nordkorea,Nordkorea,84,40.3470993178,126.8477992777,Nordkorea,['country'],kp,PRK
+969,nordpol,Nordpol,12,,,,,,
+970,nordrhein-westfalen,Nordrhein-Westfalen,93,51.46667,7.55,"Nordrhein-Westfalen, Deutschland",['region'],de,DEU
+971,nordsee,Nordsee,38,53.79083,7.89917,"Wangerooge, Niedersachsen, Deutschland",['place'],de,DEU
+972,nord-stream,Nord Stream,1,40.6851,-73.7018,"North Valley Stream, New York, Vereinigte Staaten",['place'],us,USA
+973,nordzypern,Nordzypern,2,,,,,,
+974,normandie,Normandie,14,49.18639,-0.35278000000000004,"Normandie, Frankreich",['region'],fr,FRA
+975,north-carolina,North Carolina,17,35.5568849207,-79.389683869,"North Carolina, Vereinigte Staaten",['region'],us,USA
+976,north-dakota-,North Dakota,0,47.4443684021,-100.4592841616,"North Dakota, Vereinigte Staaten",['region'],us,USA
+977,northwest-territories,Northwest Territories,0,63.6963550874,-118.5402504786,"Nordwest-Territorien, Kanada",['region'],ca,CAN
+978,norwegen,Norwegen,88,61.2483331493,8.804820739,Norwegen,['country'],no,NOR
+979,nouakchott,Nouakchott,1,18.1,-15.91667,"Nouakchott, Mauretanien","['region', 'place']",mr,MRT
+980,nova-scotia,Nova Scotia,0,45.197498712,-63.04298759,"Nova Scotia, Kanada",['region'],ca,CAN
+981,nuerburgring,Nürburgring,15,,,,,,
+982,nuernberg,Nürnberg,89,49.45278,11.07778,"Nürnberg, Bayern, Deutschland",['place'],de,DEU
+983,nymphenburg,Nymphenburg,2,48.15,11.52,"Nymphenburg, München, Bayern, Deutschland",['locality'],de,DEU
+984,oberammergau,Oberammergau,11,47.59667,11.06444,"Oberammergau, Bayern, Deutschland",['place'],de,DEU
+985,oberfoehring,Oberföhring,0,48.1652,11.6243,"Oberföhring, München, Bayern, Deutschland",['locality'],de,DEU
+986,oberhof,Oberhof,14,48.78389,7.86361,"Oberhoffen-sur-Moder, Département Bas-Rhin, Frankreich",['place'],fr,FRA
+987,obermenzing,Obermenzing,0,48.16389,11.46278,"Obermenzing, München, Bayern, Deutschland",['locality'],de,DEU
+988,oberpfaffenhofen,Oberpfaffenhofen,2,48.0736,11.2639,"Oberpfaffenhofen, Weßling, Bayern, Deutschland",['locality'],de,DEU
+989,obersaxen,Obersaxen,0,46.73306,9.09972,"Obersaxen, Kanton Graubünden, Schweiz",['place'],ch,CHE
+990,oberstaufen,Oberstaufen,2,47.55444,10.02111,"Oberstaufen, Bayern, Deutschland",['place'],de,DEU
+991,oberstdorf,Oberstdorf,22,47.40972,10.27917,"Oberstdorf, Bayern, Deutschland",['place'],de,DEU
+992,oberstorf,Oberstorf,0,47.40972,10.27917,"Oberstdorf, Bayern, Deutschland",['place'],de,DEU
+993,obertauern,Obertauern,2,,,,,,
+994,oberursel,Oberursel,4,50.20278,8.57694,"Oberursel, Hessen, Deutschland",['place'],de,DEU
+995,odaiba,Odaiba,0,10.2932400547,14.9933998659,"Daiba, Extrême-Nord, Kamerun",['place'],cm,CMR
+996,odense,Odense,4,55.4,10.38333,"Odense, Region Syddanmark, Dänemark",['place'],dk,DNK
+997,odenwald,Odenwald,10,48.3485,9.3725,"Ödenwaldstetten, Hohenstein, Baden-Württemberg, Deutschland",['locality'],de,DEU
+998,oder,Oder,89,45.78083,12.49278,"Oderzo, Provinz Treviso, Italien",['place'],it,ITA
+999,odessa,Odessa,13,46.4846,30.7326,"Odessa, Oblast Odessa, Ukraine",['place'],ua,UKR
+1000,offenbach,Offenbach,36,50.1,8.76667,"Offenbach am Main, Hessen, Deutschland",['place'],de,DEU
+1001,offenburg,Offenburg,10,48.47083,7.94083,"Offenburg, Baden-Württemberg, Deutschland",['place'],de,DEU
+1002,oggersheim,Oggersheim,5,49.4908,8.37472,"Oggersheim, Ludwigshafen am Rhein, Rheinland-Pfalz, Deutschland",['locality'],de,DEU
+1003,ohio,Ohio,38,40.4174201146,-82.7114488168,"Ohio, Vereinigte Staaten",['region'],us,USA
+1004,oklahoma,Oklahoma,21,35.473,-97.5171,"Oklahoma City, Oklahoma, Vereinigte Staaten",['place'],us,USA
+1005,oklahoma-city,Oklahoma City,8,35.473,-97.5171,"Oklahoma City, Oklahoma, Vereinigte Staaten",['place'],us,USA
+1006,oldenburg,Oldenburg,54,53.14389,8.21389,"Oldenburg, Niedersachsen, Deutschland",['place'],de,DEU
+1007,oman,Oman,16,21.38363721,57.0864239444,Oman,['country'],om,OMN
+1008,ontario,Ontario,9,49.4515636581,-84.2539813003,"Ontario, Kanada",['region'],ca,CAN
+1009,oppenheim,Oppenheim,10,49.85556,8.36028,"Oppenheim, Rheinland-Pfalz, Deutschland",['place'],de,DEU
+1010,oregon,Oregon,19,45.3573,-122.6068,"Oregon City, Oregon, Vereinigte Staaten",['place'],us,USA
+1011,oregon-,Oregon,19,45.3573,-122.6068,"Oregon City, Oregon, Vereinigte Staaten",['place'],us,USA
+1012,orlando,Orlando,7,28.5421,-81.379,"Orlando, Florida, Vereinigte Staaten",['place'],us,USA
+1013,osaka,Osaka,20,34.69361,135.50194,"Ōsaka, Präfektur Osaka, Japan",['place'],jp,JPN
+1014,oslo,Oslo,66,59.855058,10.814466,"Oslo, Oslo, Norwegen",['place'],no,NOR
+1015,osnabrueck,Osnabrück,43,52.27889,8.04306,"Osnabrück, Niedersachsen, Deutschland",['place'],de,DEU
+1016,ostafrika,Ostafrika,19,,,,,,
+1017,ostberlin,Ostberlin,86,,,,,,
+1018,ost-berlin,Ost-Berlin,86,39.9376,-76.9786,"East Berlin, Pennsylvania, Vereinigte Staaten",['place'],us,USA
+1019,ostende,Ostende,4,51.2258565,2.919496,"Ostende, Provinz Westflandern, Belgien",['place'],be,BEL
+1020,oesterreich,Österreich,95,47.6077978293,14.3001435908,Österreich,['country'],at,AUT
+1021,osteuropa,Osteuropa,85,,,,,,
+1022,ostfriesische-inseln,Ostfriesische Inseln,0,-17.5333,-149.833,"Inseln über dem Winde, Französisch-Polynesien",['region'],pf,PYF
+1023,ostfriesland,Ostfriesland,19,,,,,,
+1024,ostjerusalem,Ostjerusalem,6,,,,,,
+1025,ostsee,Ostsee,45,54.58,10.02,"Ostseebad Damp, Damp, Schleswig-Holstein, Deutschland",['locality'],de,DEU
+1026,osttimor,Osttimor,4,-8.8499075849,125.7733868735,Osttimor,['country'],tl,TLS
+1027,ottobrunn,Ottobrunn,5,48.06667,11.66667,"Ottobrunn, Bayern, Deutschland",['place'],de,DEU
+1028,ouagadougou,Ouagadougou,0,12.363142,-1.529773,"Ouagadougou, Kadiogo, Burkina Faso",['place'],bf,BFA
+1029,oxford,Oxford,54,51.75194,-1.25778,"Oxford, Oxfordshire, England, Vereinigtes Königreich",['place'],gb,GBR
+1030,pacha,Pacha,0,-12.16,-76.8096,"Pachacámac, Lima, Provinz Lima, Peru",['locality'],pe,PER
+1031,paderborn,Paderborn,58,51.71667,8.76667,"Paderborn, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+1032,padua,Padua,7,45.40639,11.87778,"Padua, Provinz Padua, Italien",['place'],it,ITA
+1033,pakistan,Pakistan,90,28.1863846712,67.6952367279,Pakistan,['country'],pk,PAK
+1034,palaestina,Palästina,64,31.88333,35.2,Palästina,['country'],ps,PSE
+1035,palau,Palau,2,7.5150748783,134.5752424486,Palau,['country'],pw,PLW
+1036,palermo,Palermo,31,-34.58889,-58.43056,"Palermo, Buenos Aires, Argentinien",['place'],ar,ARG
+1037,palma-de-mallorca,Palma de Mallorca,12,39.56667,2.6497200000000003,"Palma, Balearische Inseln, Spanien",['place'],es,ESP
+1038,palmas,Palmas,2,-10.1836,-48.3338,"Palmas, Tocantins, Brasilien",['place'],br,BRA
+1039,palo-alto,Palo Alto,5,37.4422,-122.1634,"Palo Alto, Kalifornien, Vereinigte Staaten",['place'],us,USA
+1040,pamplona,Pamplona,4,42.81667,-1.65,"Pamplona, Autonome Gemeinschaft Navarra, Spanien",['place'],es,ESP
+1041,panama,Panama,42,8.704734824,-80.2681751732,Panama,['country'],pa,PAN
+1042,papua-neuguinea,Papua-Neuguinea,9,-6.4783775317,145.2417493815,Papua-Neuguinea,['country'],pg,PNG
+1043,paraguay,Paraguay,28,-23.2362106547,-58.3910238917,Paraguay,['country'],py,PRY
+1044,paris,Paris,98,48.85658,2.35183,"Paris, Frankreich","['region', 'place']",fr,FRA
+1045,pasadena,Pasadena,7,29.6911,-95.2091,"Pasadena, Texas, Vereinigte Staaten",['place'],us,USA
+1046,pasing,Pasing,1,48.15,11.45,"Pasing, München, Bayern, Deutschland",['locality'],de,DEU
+1047,passau,Passau,27,48.56667,13.46667,"Passau, Bayern, Deutschland",['place'],de,DEU
+1048,pazifik,Pazifik,31,,,,,,
+1049,pedro-de-la-rosa,Pedro De La Rosa,0,15.89392,120.645558,"San Pedro East, Rosales, Pangasinán, Philippinen",['locality'],ph,PHL
+1050,peenemuende,Peenemünde,4,54.135,13.775,"Peenemünde, Mecklenburg-Vorpommern, Deutschland",['place'],de,DEU
+1051,pegnitz,Pegnitz,1,49.75639,11.545,"Pegnitz, Bayern, Deutschland",['place'],de,DEU
+1052,peking,Peking,88,39.905,116.39139,"Peking, Volksrepublik China",['place'],cn,CHN
+1053,pennsylvania,Pennsylvania,28,41.0911397651,-78.2907462469,"Pennsylvania, Vereinigte Staaten",['region'],us,USA
+1054,permira,Permira,0,4.81428,-75.69456,"Pereira, Departamento de Risaralda, Kolumbien",['place'],co,COL
+1055,persischer-golf,Persischer Golf,0,41.00384,9.61488,"Golfo Aranci, Provinz Sassari, Italien",['place'],it,ITA
+1056,perth,Perth,8,-31.9527,115.8605,"Perth, Western Australia, Australien",['place'],au,AUS
+1057,peru,Peru,59,-10.1510925136,-75.311131956,Peru,['country'],pe,PER
+1058,perugia,Perugia,4,43.1121,12.3888,"Perugia, Provinz Perugia, Italien",['place'],it,ITA
+1059,pfalz,Pfalz,34,49.47497,7.42023,"Quirnbach, Quirnbach, Rheinland-Pfalz, Deutschland",['locality'],de,DEU
+1060,pforzheim,Pforzheim,12,48.9,8.71667,"Pforzheim, Baden-Württemberg, Deutschland",['place'],de,DEU
+1061,philadelphia,Philadelphia,34,40.0115,-75.1327,"Philadelphia, Pennsylvania, Vereinigte Staaten",['place'],us,USA
+1062,philippinen,Philippinen,77,11.5363,122.7613,Philippinen,['country'],ph,PHL
+1063,philippsburg,Philippsburg,4,49.23694,8.45472,"Philippsburg, Baden-Württemberg, Deutschland",['place'],de,DEU
+1064,phnom-penh,Phnom Penh,10,11.55,104.91667,"Phnom Penh, Kambodscha","['region', 'place']",kh,KHM
+1065,phuket,Phuket,3,7.88806,98.3975,"Phuket, Phuket, Thailand",['place'],th,THA
+1066,pilsensee,Pilsensee,0,,,,,,
+1067,pirate-bay,Pirate Bay,0,46.07934,127.40124,"Bayan, Harbin, Heilongjiang, Volksrepublik China",['locality'],cn,CHN
+1068,pirmasens,Pirmasens,5,49.2,7.6,"Pirmasens, Rheinland-Pfalz, Deutschland",['place'],de,DEU
+1069,pirna,Pirna,4,51.05083,13.75194,"Pirnaische Vorstadt, Dresden, Sachsen, Deutschland",['locality'],de,DEU
+1070,pisa,Pisa,36,43.71667,10.4,"Pisa, Provinz Pisa, Italien",['place'],it,ITA
+1071,pittsburgh,Pittsburgh,23,40.4417,-79.9901,"Pittsburgh, Pennsylvania, Vereinigte Staaten",['place'],us,USA
+1072,pjoengjang,Pjöngjang,27,39.03,125.73,"Pjöngjang, Nordkorea","['region', 'place']",kp,PRK
+1073,plattensee,Plattensee,3,,,,,,
+1074,plauen,Plauen,4,50.495,12.13833,"Plauen, Sachsen, Deutschland",['place'],de,DEU
+1075,playa-de-palma,Playa de Palma,0,20.21389,-75.99194,"Palma Soriano, Provinz Santiago de Cuba, Kuba",['place'],cu,CUB
+1076,polen,Polen,94,52.1246099075,19.3006363056,Polen,['country'],pl,POL
+1077,polynesien,Polynesien,4,-16.1721,-146.3237,Französisch-Polynesien,"['country', 'region']",pf,PYF
+1078,port-au-prince,Port-au-Prince,10,18.5473,-72.3396,"Port-au-Prince, Département Ouest, Haiti",['place'],ht,HTI
+1079,portishead,Portishead,1,51.484,-2.7626,"Portishead, Bristol, North Somerset, England, Vereinigtes Königreich",['locality'],gb,GBR
+1080,portland,Portland,12,45.5202,-122.6742,"Portland, Oregon, Vereinigte Staaten",['place'],us,USA
+1081,porto-alegre,Porto Alegre,3,-30.033,-51.2305,"Porto Alegre, Rio Grande do Sul, Brasilien",['place'],br,BRA
+1082,porto-seguro,Porto Seguro,0,-16.4435,-39.0643,"Porto Seguro, Bahia, Brasilien",['place'],br,BRA
+1083,portsmouth,Portsmouth,3,50.79528,-1.08889,"Portsmouth, Portsmouth, England, Vereinigtes Königreich",['place'],gb,GBR
+1084,portugal,Portugal,89,39.6009946583,-8.5627305964,Portugal,['country'],pt,PRT
+1085,potsdam,Potsdam,71,44.6698,-74.9813,"Potsdam, New York, Vereinigte Staaten",['place'],us,USA
+1086,prag,Prag,80,50.08861,14.42139,"Prag, Prag, Tschechien",['place'],cz,CZE
+1087,praia-da-luz,Praia da Luz,0,37.10417,-7.65806,"Santa Luzia, Distrikt Faro, Portugal",['place'],pt,PRT
+1088,pretoria,Pretoria,40,-25.7484,28.154,"Pretoria, Gauteng, Südafrika",['place'],za,ZAF
+1089,princeton,Princeton,18,40.3493,-74.6593,"Princeton, New Jersey, Vereinigte Staaten",['place'],us,USA
+1090,prishtin%C3%AB,Prishtinë,0,42.66667,21.16667,"Pristina, Grad Priština, Kosovo",['place'],rs,SRB
+1091,provence,Provence,17,46.892775,6.702667,"Provence, Kanton Waadt, Schweiz",['place'],ch,CHE
+1092,puerto-rico,Puerto Rico,11,18.2213294459,-66.4623392631,Puerto Rico,"['country', 'region']",pr,PRI
+1093,pullach,Pullach,7,48.05,11.51667,"Pullach im Isartal, Bayern, Deutschland",['place'],de,DEU
+1094,pyrenaeen,Pyrenäen,12,,,,,,
+1095,qom,Qom,3,35.9237480233,45.1147109549,"Qomirghan, as-Sulaimaniyya, Irak",['place'],iq,IRQ
+1096,quedlinburg,Quedlinburg,5,51.79167,11.14722,"Quedlinburg, Sachsen-Anhalt, Deutschland",['place'],de,DEU
+1097,queens,Queens,5,-22.5727913802,144.5503901009,"Queensland, Australien",['region'],au,AUS
+1098,queensland,Queensland,5,-22.5727913802,144.5503901009,"Queensland, Australien",['region'],au,AUS
+1099,quito,Quito,5,-0.21861000000000003,-78.50972,"Quito, Provinz Pichincha, Ecuador",['place'],ec,ECU
+1100,rabat,Rabat,14,34.02528,-6.83611,"Rabat, Rabat-Salé-Kénitra, Marokko",['place'],ma,MAR
+1101,radolfzell,Radolfzell,3,47.73694,8.96972,"Radolfzell am Bodensee, Baden-Württemberg, Deutschland",['place'],de,DEU
+1102,rakka,Rakka,0,33.8131590388,44.6184267662,"Rakkah, Governorat Diyala, Irak",['place'],iq,IRQ
+1103,rastatt,Rastatt,9,48.85722,8.20306,"Rastatt, Baden-Württemberg, Deutschland",['place'],de,DEU
+1104,ravensbrueck,Ravensbrück,5,,,,,,
+1105,ravensburg,Ravensburg,16,47.78306,9.61139,"Ravensburg, Baden-Württemberg, Deutschland",['place'],de,DEU
+1106,recife,Recife,2,-8.0642,-34.8782,"Recife, Pernambuco, Brasilien",['place'],br,BRA
+1107,recklinghausen,Recklinghausen,21,51.607,7.1615,"Recklinghausen, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+1108,reeperbahn,Reeperbahn,14,,,,,,
+1109,regensburg,Regensburg,52,49.01667,12.08333,"Regensburg, Bayern, Deutschland",['place'],de,DEU
+1110,reims,Reims,5,49.26528,4.02861,"Reims, Département Marne, Frankreich",['place'],fr,FRA
+1111,reinbek,Reinbek,58,53.50889,10.24833,"Reinbek, Schleswig-Holstein, Deutschland",['place'],de,DEU
+1112,republika-srpska,Republika Srpska,0,50.82043,14.35284,"Srbská Kamenice, Ústecký kraj, Tschechien",['place'],cz,CZE
+1113,republik-kongo,Republik Kongo,5,-0.3056054901,15.9928582278,Republik Kongo,['country'],cg,COG
+1114,reschenpass,Reschenpass,0,,,,,,
+1115,r%C3%A9union,Réunion,2,-21.1216612099,55.538179227,Réunion,"['country', 'region']",re,REU
+1116,reutlingen,Reutlingen,12,48.48333,9.21667,"Reutlingen, Baden-Württemberg, Deutschland",['place'],de,DEU
+1117,reykjavik,Reykjavik,15,64.15,-21.88333,"Reykjavík, Höfuðborgarsvæðið, Island",['place'],is,ISL
+1118,rhein,Rhein,88,49.91306,7.44972,"Rheinland-Pfalz, Deutschland",['region'],de,DEU
+1119,rheinhausen,Rheinhausen,7,49.28,8.5,"Rheinhausen, Oberhausen-Rheinhausen, Baden-Württemberg, Deutschland",['locality'],de,DEU
+1120,rheinhessen,Rheinhessen,6,,,,,,
+1121,rheinland,Rheinland,53,49.91306,7.44972,"Rheinland-Pfalz, Deutschland",['region'],de,DEU
+1122,rheinland-pfalz,Rheinland-Pfalz,82,49.91306,7.44972,"Rheinland-Pfalz, Deutschland",['region'],de,DEU
+1123,rhode-island,Rhode Island,4,41.6850953372,-71.5793902557,"Rhode Island, Vereinigte Staaten",['region'],us,USA
+1124,rhodesien,Rhodesien,16,,,,,,
+1125,rhodos,Rhodos,11,36.43333,28.21667,"Rhodos, Südliche Ägäis, Griechenland",['place'],gr,GRC
+1126,riad,Riad,22,24.633333,46.716667,"Riad, Provinz Riad, Saudi-Arabien",['place'],sa,SAU
+1127,riga,Riga,20,56.9475,24.10694,"Riga, Lettland","['region', 'place']",lv,LVA
+1128,rimini,Rimini,10,44.0595,12.5685,"Rimini, Provinz Rimini, Italien",['place'],it,ITA
+1129,rio-de-janeiro,Rio de Janeiro,60,-22.911,-43.2094,"Rio de Janeiro, Rio de Janeiro, Brasilien",['place'],br,BRA
+1130,rocky-mountains,Rocky Mountains,10,52.3769,-114.9184,"Rocky Mountain House, Alberta, Kanada",['place'],ca,CAN
+1131,rom,Rom,93,41.89306,12.48278,"Rom, Rom, Italien",['place'],it,ITA
+1132,rosenheim,Rosenheim,14,47.85611,12.12889,"Rosenheim, Bayern, Deutschland",['place'],de,DEU
+1133,rosenthal,Rosenthal,5,52.59917,13.37722,"Rosenthal, Berlin, Deutschland",['locality'],de,DEU
+1134,rossypne,Rossypne,0,,,,,,
+1135,rostock,Rostock,71,54.08333,12.13333,"Rostock, Mecklenburg-Vorpommern, Deutschland",['place'],de,DEU
+1136,rotenburg,Rotenburg,4,53.1128,9.3906,"Rotenburg, Niedersachsen, Deutschland",['place'],de,DEU
+1137,rotes-meer,Rotes Meer,0,51.4427,5.411,"Meerhoven, Eindhoven, Provinz Nordbrabant, Niederlande",['locality'],nl,NLD
+1138,rothenburg-ob-der-tauber,Rothenburg ob der Tauber,3,49.37722,10.17889,"Rothenburg ob der Tauber, Bayern, Deutschland",['place'],de,DEU
+1139,rotterdam,Rotterdam,58,51.95,4.41667,"Rotterdam, Provinz Südholland, Niederlande",['place'],nl,NLD
+1140,ruanda,Ruanda,37,-1.8655057582999999,29.9176516614,Ruanda,['country'],rw,RWA
+1141,ruegen,Rügen,24,-1.9526465833,30.2422860917,"Rugenda, Kigali, Ruanda",['place'],rw,RWA
+1142,ruhr,Ruhr,82,51.5,7.46667,"Ruhrallee, Dortmund, Nordrhein-Westfalen, Deutschland",['locality'],de,DEU
+1143,rumaenien,Rumänien,81,45.8436147576,24.9692584752,Rumänien,['country'],ro,ROU
+1144,ruesselsheim,Rüsselsheim,19,49.995,8.41194,"Rüsselsheim am Main, Hessen, Deutschland",['place'],de,DEU
+1145,russland,Russland,99,61.9945734073,96.6697054605,Russland,['country'],ru,RUS
+1146,saale,Saale,54,48.34833,7.10583,"Saales, Département Bas-Rhin, Frankreich",['place'],fr,FRA
+1147,saar,Saar,55,59.95,30.31667,"Sankt Petersburg, Sankt Petersburg, Russland",['place'],ru,RUS
+1148,saarbruecken,Saarbrücken,64,49.23333,7.0,"Saarbrücken, Saarland, Deutschland",['place'],de,DEU
+1149,saarland,Saarland,77,49.37715,6.87838,"Saarland, Deutschland",['region'],de,DEU
+1150,saarlouis,Saarlouis,7,49.31667,6.75,"Saarlouis, Saarland, Deutschland",['place'],de,DEU
+1151,saas-fee,Saas Fee,1,46.10972,7.92917,"Saas-Fee, Kanton Wallis, Schweiz",['place'],ch,CHE
+1152,sachsen,Sachsen,94,51.02694,13.35889,"Sachsen, Deutschland",['region'],de,DEU
+1153,sachsen-anhalt,Sachsen-Anhalt,69,51.97111,11.47,"Sachsen-Anhalt, Deutschland",['region'],de,DEU
+1154,sachsenhausen,Sachsenhausen,11,50.1,8.69,"Sachsenhausen-Süd, Frankfurt am Main, Hessen, Deutschland",['locality'],de,DEU
+1155,sahara,Sahara,50,29.964,77.546,"Saharanpur, Uttar Pradesh, Indien",['place'],in,IND
+1156,saigon,Saigon,40,22.013622,81.216473,"Saigona, Kawardha, Kabirdham, Chhattisgarh, Indien",['locality'],in,IND
+1157,saint-tropez,Saint-Tropez,9,43.26972,6.63861,"Saint-Tropez, Département Var, Frankreich",['place'],fr,FRA
+1158,salisbury,Salisbury,12,38.3662,-75.6009,"Salisbury, Maryland, Vereinigte Staaten",['place'],us,USA
+1159,salomonen,Salomonen,2,-8.9182158295,159.6343150816,Salomonen,['country'],sb,SLB
+1160,salt-lake,Salt Lake,12,40.767,-111.8904,"Salt Lake City, Utah, Vereinigte Staaten",['place'],us,USA
+1161,salt-lake-city,Salt Lake City,11,40.767,-111.8904,"Salt Lake City, Utah, Vereinigte Staaten",['place'],us,USA
+1162,salzburg,Salzburg,72,47.8,13.03333,"Salzburg, Salzburg, Österreich",['place'],at,AUT
+1163,salzgitter,Salzgitter,23,52.15366,10.405850000000001,"Salzgitter, Niedersachsen, Deutschland",['place'],de,DEU
+1164,sambia,Sambia,22,-14.0049082837,27.4306751717,Sambia,['country'],zm,ZMB
+1165,sanaa,Sanaa,15,15.35,44.2,"Sanaa, Jemen","['region', 'place']",ye,YEM
+1166,san-diego,San Diego,18,32.7174,-117.1628,"San Diego, Kalifornien, Vereinigte Staaten",['place'],us,USA
+1167,san-francisco,San Francisco,66,37.7648,-122.463,"San Francisco, Kalifornien, Vereinigte Staaten",['place'],us,USA
+1168,san-jos%C3%A9,San José,8,9.93333,-84.08333,"San José, Provinz San José, Costa Rica",['place'],cr,CRI
+1169,sankt-moritz,Sankt Moritz,2,46.4975,9.83806,"St. Moritz, Kanton Graubünden, Schweiz",['place'],ch,CHE
+1170,sankt-poelten,Sankt Pölten,0,48.2,15.61667,"St. Pölten, Niederösterreich, Österreich",['place'],at,AUT
+1171,san-marino,San Marino,5,43.942943239,12.4609765471,San Marino,['country'],sm,SMR
+1172,sansibar,Sansibar,8,-6.1664907225,39.2074311711,"Sansibar-Stadt, Zanzibar Urban/West, Tansania",['place'],tz,TZA
+1173,santa-cruz,Santa Cruz,6,28.46667,-16.25,"Santa Cruz de Tenerife, Provinz Santa Cruz de Tenerife, Kanarische Inseln, Spanien",['place'],es,ESP
+1174,santa-fe,Santa Fe,2,-31.63333,-60.7,"Santa Fe, Provinz Santa Fe, Argentinien",['place'],ar,ARG
+1175,santa-monica,Santa Monica,3,34.0196,-118.487,"Santa Monica, Kalifornien, Vereinigte Staaten",['place'],us,USA
+1176,santiago,Santiago,23,-33.45,-70.66667,"Santiago de Chile, Región Metropolitana de Santiago, Chile",['place'],cl,CHL
+1177,santiago-de-compostela,Santiago De Compostela,4,42.88333,-8.53333,"Santiago de Compostela, Provinz A Coruña, Spanien",['place'],es,ESP
+1178,santo-andr%C3%A9,Santo André,2,-23.6573,-46.5323,"Santo André, São Paulo, Brasilien",['place'],br,BRA
+1179,santo-domingo,Santo Domingo,9,18.49333,-69.86667,"Santo Domingo, Dominikanische Republik",['region'],do,DOM
+1180,s%C3%A3o-paulo,São Paulo,40,-23.5507,-46.6334,"São Paulo, São Paulo, Brasilien",['place'],br,BRA
+1181,s%C3%A3o-tom%C3%A9-und-pr%C3%ADncipe,São Tomé und Príncipe,0,0.4569839188,6.7365877926,São Tomé und Príncipe,['country'],st,STP
+1182,sapporo,Sapporo,7,43.05,141.35,"Sapporo, Hokkaidō, Japan",['place'],jp,JPN
+1183,sarajevo,Sarajevo,37,43.86667,18.41667,"Sarajevo, Sarajevo, Bosnien und Herzegowina",['place'],ba,BIH
+1184,sardinien,Sardinien,16,,,,,,
+1185,sarin,Sarin,2,53.7,84.91667,"Sarinsk, Region Altai, Russland",['place'],ru,RUS
+1186,sars,Sars,5,43.91667,12.15,"Sarsina, Provinz Forlì-Cesena, Italien",['place'],it,ITA
+1187,saudi-arabien,Saudi Arabien,76,23.384784,44.652426,Saudi-Arabien,['country'],sa,SAU
+1188,schaffhausen,Schaffhausen,8,47.7,8.63306,"Schaffhausen, Kanton Schaffhausen, Schweiz",['place'],ch,CHE
+1189,scharm-al-scheich,Scharm al-Scheich,0,32.828865808,-86.7892920871,"Alabama, Vereinigte Staaten",['region'],us,USA
+1190,schlesien,Schlesien,38,50.33333,19.0,"Woiwodschaft Schlesien, Polen",['region'],pl,POL
+1191,schleswig-holstein,Schleswig-Holstein,87,54.47004,9.51416,"Schleswig-Holstein, Deutschland",['region'],de,DEU
+1192,schloss-elmau,Schloss Elmau,1,49.875051,8.65617,"Altstadt, Darmstadt, Hessen, Deutschland",['locality'],de,DEU
+1193,schoenefeld,Schönefeld,13,52.38833,13.50472,"Schönefeld, Brandenburg, Deutschland",['place'],de,DEU
+1194,schottland,Schottland,62,56.734282295,-4.0958921043,"Schottland, Vereinigtes Königreich",['region'],gb,GBR
+1195,schrobenhausen,Schrobenhausen,1,48.578719,11.231409,"Schrobenhausen, Bayern, Deutschland",['place'],de,DEU
+1196,schruns,Schruns,2,47.08028,9.91917,"Schruns, Vorarlberg, Österreich",['place'],at,AUT
+1197,schwaben,Schwaben,47,50.9,8.883890000000001,"Schwabendorf, Rauschenberg, Hessen, Deutschland",['locality'],de,DEU
+1198,schwabing,Schwabing,16,48.16,11.59,"Schwabing-Ost, München, Bayern, Deutschland",['locality'],de,DEU
+1199,schwaebisch-gmuend,Schwäbisch Gmünd,1,48.8,9.8,"Schwäbisch Gmünd, Baden-Württemberg, Deutschland",['place'],de,DEU
+1200,schwarzes-meer,Schwarzes Meer,28,51.4427,5.411,"Meerhoven, Eindhoven, Provinz Nordbrabant, Niederlande",['locality'],nl,NLD
+1201,schweden,Schweden,92,64.9648751622,17.6754094331,Schweden,['country'],se,SWE
+1202,schweinfurt,Schweinfurt,8,50.05,10.23333,"Schweinfurt, Bayern, Deutschland",['place'],de,DEU
+1203,schweiz,Schweiz,96,46.8024955829,8.2343919139,Schweiz,['country'],ch,CHE
+1204,sderot,Sderot,0,31.52611,34.59389,"Sderot, Südbezirk, Israel",['place'],il,ISR
+1205,seattle,Seattle,35,47.6038,-122.3301,"Seattle, Washington, Vereinigte Staaten",['place'],us,USA
+1206,seefeld,Seefeld,8,47.32944,11.18917,"Seefeld in Tirol, Tirol, Österreich",['place'],at,AUT
+1207,seehaus,Seehaus,0,51.4069,12.4139,"Seehausen, Leipzig, Sachsen, Deutschland",['locality'],de,DEU
+1208,senegal,Senegal,24,15.221446973,-14.8208799701,Senegal,['country'],sn,SEN
+1209,senkaku-diaoyu-inseln,Senkaku-Diaoyu-Inseln,0,-17.5333,-149.833,"Inseln über dem Winde, Französisch-Polynesien",['region'],pf,PYF
+1210,seoul,Seoul,43,37.58333,127.0,"Seoul, Südkorea","['region', 'place']",kr,KOR
+1211,serbien,Serbien,76,44.2267366369,20.7952998133,Serbien,['country'],rs,SRB
+1212,serbien-und-montenegro,Serbien und Montenegro,3,44.2267366369,20.7952998133,Serbien,['country'],rs,SRB
+1213,serengeti,Serengeti,4,,,,,,
+1214,sevilla,Sevilla,34,37.38333,-5.9833300000000005,"Sevilla, Sevilla, Spanien",['place'],es,ESP
+1215,sewastopol,Sewastopol,2,44.6054,33.5221,"Sewastopol, Sewastopol, Ukraine",['place'],ua,UKR
+1216,seychellen,Seychellen,9,-6.354383589,52.2298735072,Seychellen,['country'],sc,SYC
+1217,seyne-les-alpes,Seyne-les-Alpes,0,44.35056,6.35639,"Seyne, Alpes-de-Haute-Provence, Frankreich",['place'],fr,FRA
+1218,shanghai,Shanghai,55,31.16667,121.46667,"Shanghai, Volksrepublik China",['place'],cn,CHN
+1219,shenzhen,Shenzhen,7,22.535383,114.05471,"Shenzhen, Guangdong, Volksrepublik China",['place'],cn,CHN
+1220,sibirien,Sibirien,58,,,,,,
+1221,sichuan,Sichuan,6,31.4053766561,102.5197893751,"Sichuan, Volksrepublik China",['region'],cn,CHN
+1222,sidney,Sidney,7,40.2842,-84.1555,"Sidney, Ohio, Vereinigte Staaten",['place'],us,USA
+1223,siegen,Siegen,28,50.87556,8.01667,"Siegen, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+1224,sierra-leone,Sierra Leone,26,8.5602844366,-11.7919215799,Sierra Leone,['country'],sl,SLE
+1225,silicon-valley,Silicon Valley,22,40.6643,-73.7085,"Valley Stream, New York, Vereinigte Staaten",['place'],us,USA
+1226,silverstone,Silverstone,10,52.09,-1.024,"Silverstone, Towcester, Northamptonshire, England, Vereinigtes Königreich",['locality'],gb,GBR
+1227,simbabwe,Simbabwe,28,-19.1894587636,29.9386693711,Simbabwe,['country'],zw,ZWE
+1228,simferopol,Simferopol,3,44.95,34.1,"Simferopol, Autonome Republik Krim, Ukraine",['place'],ua,UKR
+1229,sinai,Sinai,24,45.35,25.55139,"Sinaia, Kreis Prahova, Rumänien",['place'],ro,ROU
+1230,singapur,Singapur,75,1.3516161224,103.8080525863,Singapur,['country'],sg,SGP
+1231,sizilien,Sizilien,53,,,,,,
+1232,skopje,Skopje,6,41.98333,21.43333,"Skopje, Mazedonien","['region', 'place']",mk,MKD
+1233,slowakei,Slowakei,51,48.7075308688,19.4916510939,Slowakei,['country'],sk,SVK
+1234,slowenien,Slowenien,44,46.1694584888,14.6940763981,Slowenien,['country'],si,SVN
+1235,slowjansk,Slowjansk,2,48.85,37.6,"Slowjansk, Oblast Donezk, Ukraine",['place'],ua,UKR
+1236,smolensk,Smolensk,5,54.839715,31.71708,"Smolenski rajon, Oblast Smolensk, Russland",['district'],ru,RUS
+1237,sofia,Sofia,33,42.7,23.33333,"Sofia, Sofia, Bulgarien",['place'],bg,BGR
+1238,soelden,Sölden,5,46.96667,11.0,"Sölden, Tirol, Österreich",['place'],at,AUT
+1239,solln,Solln,3,48.07822,11.51432,"Solln, München, Bayern, Deutschland",['locality'],de,DEU
+1240,soma,Soma,2,5.7863962522,47.3258529831,Somalia,['country'],so,SOM
+1241,sonthofen,Sonthofen,7,47.51417,10.28167,"Sonthofen, Bayern, Deutschland",['place'],de,DEU
+1242,sotschi,Sotschi,66,43.58528,39.72028,"Sotschi, Region Krasnodar, Russland",['place'],ru,RUS
+1243,southampton,Southampton,9,50.90694,-1.40472,"Southampton, Southampton, England, Vereinigtes Königreich",['place'],gb,GBR
+1244,south-carolina,South Carolina,14,33.9184118141,-80.9007732115,"South Carolina, Vereinigte Staaten",['region'],us,USA
+1245,south-dakota-,South Dakota,0,44.8688864124,-100.1492015112,"South Dakota, Vereinigte Staaten",['region'],us,USA
+1246,soweto,Soweto,2,-26.2678,27.8585,"Soweto, Johannesburg, Gauteng, Südafrika",['locality'],za,ZAF
+1247,sowjetunion,Sowjetunion,97,,,,,,
+1248,spandau,Spandau,10,52.55,13.2,"Spandau, Berlin, Deutschland",['locality'],de,DEU
+1249,spanien,Spanien,97,41.2948556296,-4.0556850153,Spanien,['country'],es,ESP
+1250,spessart,Spessart,6,48.9122,8.4318,"Spessart, Ettlingen, Baden-Württemberg, Deutschland",['locality'],de,DEU
+1251,split,Split,9,43.51,16.45,"Split, Gespanschaft Split-Dalmatien, Kroatien",['place'],hr,HRV
+1252,spree,Spree,34,51.86,13.96,"Lübbenau, Lübbenau/Spreewald, Brandenburg, Deutschland",['locality'],de,DEU
+1253,srebrenica,Srebrenica,14,44.1,19.3,"Srebrenica, Vlasenica, Bosnien und Herzegowina",['place'],ba,BIH
+1254,sri-lanka,Sri Lanka,34,7.608085219,80.7047272491,Sri Lanka,['country'],lk,LKA
+1255,st.-andrews,St. Andrews,3,56.33889,-2.79889,"St Andrews, Fife, Schottland, Vereinigtes Königreich",['place'],gb,GBR
+1256,st.-anton,St. Anton,5,38.98083,1.30056,"Sant Antoni de Portmany, Balearische Inseln, Spanien",['place'],es,ESP
+1257,st.-augustin,St. Augustin,2,29.8961,-81.4165,"St. Augustine, Florida, Vereinigte Staaten",['place'],us,USA
+1258,st.-gallen,St. Gallen,16,47.42333,9.37722,"St. Gallen, Kanton St. Gallen, Schweiz",['place'],ch,CHE
+1259,st.-johann,St. Johann,2,47.5225,12.42556,"St. Johann in Tirol, Tirol, Österreich",['place'],at,AUT
+1260,st.-louis,St. Louis,17,38.63,-90.19,"St. Louis, Missouri, Vereinigte Staaten",['place'],us,USA
+1261,st.-lucia,St. Lucia,2,13.8978692979,-60.9687124496,St. Lucia,['country'],lc,LCA
+1262,st.-moritz,St. Moritz,27,46.4975,9.83806,"St. Moritz, Kanton Graubünden, Schweiz",['place'],ch,CHE
+1263,st.-ottilien,St. Ottilien,0,48.090821,11.054687,"Sankt Ottilien, Eresing, Bayern, Deutschland",['locality'],de,DEU
+1264,st.-pancras,St. Pancras,0,52.6631,4.7853,"Sint Pancras, Provinz Nordholland, Niederlande",['place'],nl,NLD
+1265,st.-pauli,St. Pauli,74,45.13639,3.81278,"Saint-Paulien, Département Haute-Loire, Frankreich",['place'],fr,FRA
+1266,st.-peter-ording,St. Peter-Ording,3,54.30417,8.65111,"Sankt Peter-Ording, Schleswig-Holstein, Deutschland",['place'],de,DEU
+1267,st.-petersburg,St. Petersburg,59,59.95,30.31667,"Sankt Petersburg, Sankt Petersburg, Russland",['place'],ru,RUS
+1268,stade,Stade,11,53.60083,9.47639,"Stade, Niedersachsen, Deutschland",['place'],de,DEU
+1269,stalinallee,Stalinallee,0,,,,,,
+1270,stalingrad,Stalingrad,18,,,,,,
+1271,starnberg,Starnberg,10,47.99722,11.34056,"Starnberg, Bayern, Deutschland",['place'],de,DEU
+1272,starnberger-see,Starnberger See,12,47.9046,11.3127,"Starnberger See, Bayern, Deutschland",['place'],de,DEU
+1273,star-wars,Star Wars,2,52.3833,19.6658,"Staw, Powiat Gostyniński, Woiwodschaft Masowien, Polen",['place'],pl,POL
+1274,stendal,Stendal,5,52.6,11.85,"Stendal, Sachsen-Anhalt, Deutschland",['place'],de,DEU
+1275,stockholm,Stockholm,76,59.32944,18.06861,"Stockholm, Stockholms län, Schweden",['place'],se,SWE
+1276,stonehenge,Stonehenge,2,49.5834,-106.1679,"Stonehenge, Saskatchewan, Kanada",['place'],ca,CAN
+1277,stralsund,Stralsund,13,54.3,13.08333,"Stralsund, Mecklenburg-Vorpommern, Deutschland",['place'],de,DEU
+1278,strassburg,Straßburg,63,48.57333,7.75222,"Straßburg, Département Bas-Rhin, Frankreich",['place'],fr,FRA
+1279,stuttgart,Stuttgart,96,48.77611,9.1775,"Stuttgart, Baden-Württemberg, Deutschland",['place'],de,DEU
+1280,subotica,Subotica,0,46.09833,19.67,"Subotica, Okrug Severna Bačka, Serbien",['place'],rs,SRB
+1281,suedafrika,Südafrika,90,-28.3782721907,23.9137106762,Südafrika,['country'],za,ZAF
+1282,suedamerika,Südamerika,81,,,,,,
+1283,sudan,Sudan,68,13.8315391389,30.0499481371,Sudan,['country'],sd,SDN
+1284,suedjemen,Südjemen,4,,,,,,
+1285,suedkorea,Südkorea,85,36.5362364654,128.1689443423,Südkorea,['country'],kr,KOR
+1286,suedlibanon,Südlibanon,10,,,,,,
+1287,suedossetien,Südossetien,9,,,,,,
+1288,suedostasien,Südostasien,60,,,,,,
+1289,suedosteuropa,Südosteuropa,13,,,,,,
+1290,suedpol,Südpol,9,,,,,,
+1291,suedsudan,Südsudan,36,7.2653861,30.05489,Südsudan,['country'],ss,SSD
+1292,suedtirol,Südtirol,21,46.5,11.33333,"Südtirol, Italien",['region'],it,ITA
+1293,sulawesi,Sulawesi,1,-4.33333,120.25,"Sulawesi Selatan, Indonesien",['region'],id,IDN
+1294,sumatra,Sumatra,9,2.0,99.0,"Sumatera Utara, Indonesien",['region'],id,IDN
+1295,surinam,Surinam,3,3.6929665083,-55.9118262276,Suriname,['country'],sr,SUR
+1296,suru%C3%A7,Suruç,1,36.97639,38.42694,"Suruç, Şanlıurfa, Türkei",['place'],tr,TUR
+1297,swasiland,Swasiland,3,-26.562642096,31.4975289562,Swasiland,['country'],sz,SWZ
+1298,swat-tal,Swat-Tal,3,30.111889,79.342819,"Swan Talla, Tharali, Chamoli, Uttarakhand, Indien",['locality'],in,IND
+1299,sydney,Sydney,43,-33.868,151.21,"Sydney, New South Wales, Australien",['place'],au,AUS
+1300,sylt,Sylt,27,54.8931,8.32361,"Sylt, Schleswig-Holstein, Deutschland",['place'],de,DEU
+1301,syrien,Syrien,98,35.0130478401,38.505591897,Syrien,['country'],sy,SYR
+1302,syriza,Syriza,7,35.0130478401,38.505591897,Syrien,['country'],sy,SYR
+1303,tacloban,Tacloban,0,11.24444,125.00389,"Tacloban, Tacloban, Philippinen",['place'],ph,PHL
+1304,tadschikistan,Tadschikistan,13,38.8385084835,71.0420037711,Tadschikistan,['country'],tj,TJK
+1305,tafta,Tafta,0,35.9965257154,36.7847284768,"Taftanaz, Gouvernement Idlib, Syrien",['place'],sy,SYR
+1306,tahiti,Tahiti,11,-17.70094,-149.423959,"Tahiti, Französisch-Polynesien",['place'],pf,PYF
+1307,taiga,Taiga,4,37.426,112.55432,"Taigu, Jinzhong, Shanxi, Volksrepublik China",['locality'],cn,CHN
+1308,taipeh,Taipeh,12,25.03333,121.63333,"Taipeh, Republik China","['region', 'place']",tw,TWN
+1309,taiwan,Taiwan,67,23.777977995,120.9302293785,Republik China,['country'],tw,TWN
+1310,taj-mahal,Taj Mahal,1,21.298448,70.25407,"Raj Mahal Society, Keshod, Junagadh, Gujarat, Indien",['locality'],in,IND
+1311,tallinn,Tallinn,8,59.4372,24.7454,"Tallinn, Kreis Harju, Estland",['place'],ee,EST
+1312,tanger,Tanger,9,-6.17833,106.63194,"Tangerang, Banten, Indonesien",['place'],id,IDN
+1313,tansania,Tansania,40,-6.2703533801999995,34.8234540266,Tansania,['country'],tz,TZA
+1314,tarragona,Tarragona,1,41.11868,1.24532,"Tarragona, Tarragona, Spanien",['place'],es,ESP
+1315,tasmanien,Tasmanien,4,-42.0173821228,146.6256720255,"Tasmanien, Australien",['region'],au,AUS
+1316,tatarstan,Tatarstan,0,55.55,50.93333,"Tatarstan, Russland",['region'],ru,RUS
+1317,taufkirchen,Taufkirchen,1,48.05,11.61667,"Taufkirchen, Bayern, Deutschland",['place'],de,DEU
+1318,tbilissi,Tbilissi,11,41.71667,44.78333,"Tiflis, Georgien","['region', 'place']",ge,GEO
+1319,tegel,Tegel,5,52.55,13.29,"Tegel, Berlin, Deutschland",['locality'],de,DEU
+1320,tegernsee,Tegernsee,12,47.70861,11.75694,"Tegernsee, Bayern, Deutschland",['place'],de,DEU
+1321,tegucigalpa,Tegucigalpa,2,14.09417,-87.20667,"Tegucigalpa, Departamento Francisco Morazán, Honduras",['place'],hn,HND
+1322,teheran,Teheran,76,35.696,51.401,"Teheran, Teheran, Iran",['place'],ir,IRN
+1323,tel-aviv,Tel Aviv,56,32.088545,34.78254,"Tel Aviv-Jaffa, Bezirk Tel Aviv, Israel",['place'],il,ISR
+1324,telluride,Telluride,0,37.9375,-107.8123,"Telluride, Colorado, Vereinigte Staaten",['place'],us,USA
+1325,teneriffa,Teneriffa,15,-27.4559,153.0464,"Teneriffe, Queensland, Australien",['locality'],au,AUS
+1326,tennessee,Tennessee,20,35.9885949444,-85.9823352141,"Tennessee, Vereinigte Staaten",['region'],us,USA
+1327,tessin,Tessin,22,53.4,10.85,"Tessin b. Boizenburg, Mecklenburg-Vorpommern, Deutschland",['place'],de,DEU
+1328,teton-mountains,Teton Mountains,0,40.6723,-74.3574,"Mountainside, New Jersey, Vereinigte Staaten",['place'],us,USA
+1329,texas,Texas,71,31.8039734986,-98.8223185137,"Texas, Vereinigte Staaten",['region'],us,USA
+1330,texas-pacific,Texas Pacific,0,31.8039734986,-98.8223185137,"Texas, Vereinigte Staaten",['region'],us,USA
+1331,thailand,Thailand,78,15.1273334649,101.0174377164,Thailand,['country'],th,THA
+1332,thales,Thales,1,30.283217,75.857697,"Thalesh, Sangrur, Sangrur, Punjab, Indien",['locality'],in,IND
+1333,themse,Themse,19,51.1253635,4.2133313,"Temse, Provinz Ostflandern, Belgien",['place'],be,BEL
+1334,theresienstadt,Theresienstadt,6,50.51108,14.15064,"Terezín, Ústecký kraj, Tschechien",['place'],cz,CZE
+1335,thessaloniki,Thessaloniki,9,40.63333,22.95,"Thessaloniki, Zentralmakedonien, Griechenland",['place'],gr,GRC
+1336,thueringen,Thüringen,81,50.86111,11.05194,"Thüringen, Deutschland",['region'],de,DEU
+1337,tianjin,Tianjin,1,39.14667,117.20556,"Tianjin, Volksrepublik China",['place'],cn,CHN
+1338,tibet,Tibet,43,31.5534030491,88.0439439309,"Autonomes Gebiet Tibet, Volksrepublik China",['region'],cn,CHN
+1339,tirana,Tirana,12,41.33,19.82,"Tirana, Qark Tirana, Albanien",['place'],al,ALB
+1340,tiraspol,Tiraspol,0,46.85,29.63333,"Tiraspol, Transnistrien, Moldawien",['place'],md,MDA
+1341,tirol,Tirol,53,47.26667,11.4,"Tirol, Österreich",['region'],at,AUT
+1342,tirschenreuth,Tirschenreuth,0,49.8825,12.33306,"Tirschenreuth, Bayern, Deutschland",['place'],de,DEU
+1343,togo,Togo,13,8.7662209217,1.0425529139,Togo,['country'],tg,TGO
+1344,tokio,Tokio,68,35.68,139.77,"Präfektur Tokio, Präfektur Tokio, Japan",['place'],jp,JPN
+1345,toledo,Toledo,7,39.86667,-4.03333,"Toledo, Toledo, Spanien",['place'],es,ESP
+1346,tonga,Tonga,4,24.7254,118.14373,"Tong’an, Xiamen, Fujian, Volksrepublik China",['locality'],cn,CHN
+1347,topeka,Topeka,0,39.049,-95.6776,"Topeka, Kansas, Vereinigte Staaten",['place'],us,USA
+1348,toronto,Toronto,44,43.6529,-79.3849,"Toronto, Ontario, Kanada",['place'],ca,CAN
+1349,toskana,Toskana,33,42.32167,2.01702,"Toses, Provinz Girona, Spanien",['place'],es,ESP
+1350,totes-meer,Totes Meer,5,51.4427,5.411,"Meerhoven, Eindhoven, Provinz Nordbrabant, Niederlande",['locality'],nl,NLD
+1351,tottenham-hotspur,Tottenham Hotspur,0,-37.806,144.857,"Tottenham, Victoria, Australien",['locality'],au,AUS
+1352,toulon,Toulon,0,43.125,5.93056,"Toulon, Département Var, Frankreich",['place'],fr,FRA
+1353,toulouse,Toulouse,19,43.60444,1.44194,"Toulouse, Département Haute-Garonne, Frankreich",['place'],fr,FRA
+1354,transnistrien,Transnistrien,3,47.757939,29.117293,"Transnistrien, Moldawien",['region'],md,MDA
+1355,traunstein,Traunstein,5,47.86667,12.63333,"Traunstein, Bayern, Deutschland",['place'],de,DEU
+1356,travemuende,Travemünde,23,,,,,,
+1357,trentino,Trentino,2,45.661277,10.88354,"Brentino Belluno, Provinz Verona, Italien",['place'],it,ITA
+1358,trier,Trier,35,49.75667,6.64139,"Trier, Rheinland-Pfalz, Deutschland",['place'],de,DEU
+1359,triest,Triest,17,45.63611,13.80417,"Triest, Provinz Triest, Italien",['place'],it,ITA
+1360,trinidad,Trinidad,10,10.4686430117,-61.2531757284,Trinidad und Tobago,['country'],tt,TTO
+1361,trinidad-und-tobago,Trinidad und Tobago,4,10.4686430117,-61.2531757284,Trinidad und Tobago,['country'],tt,TTO
+1362,tripolis,Tripolis,42,32.892,13.178,"Tripolis, Munizip Tripolis, Libyen",['place'],ly,LBY
+1363,troeglitz,Tröglitz,2,51.05917,12.18361,"Tröglitz, Elsteraue, Sachsen-Anhalt, Deutschland",['locality'],de,DEU
+1364,tschad,Tschad,28,15.3611667143,18.6644791159,Tschad,['country'],td,TCD
+1365,tschechische-republik,Tschechische Republik,52,23.777977995,120.9302293785,Republik China,['country'],tw,TWN
+1366,tschechoslowakei,Tschechoslowakei,70,,,,,,
+1367,tschernobyl,Tschernobyl,35,51.2705,30.2194,"Tschornobyl, Oblast Kyjiw, Ukraine",['place'],ua,UKR
+1368,tschetschenien,Tschetschenien,34,43.4,45.7167,"Tschetschenien, Russland",['region'],ru,RUS
+1369,tuebingen,Tübingen,73,48.52,9.05556,"Tübingen, Baden-Württemberg, Deutschland",['place'],de,DEU
+1370,tunesien,Tunesien,79,34.1107038598,9.5611683556,Tunesien,['country'],tn,TUN
+1371,tunis,Tunis,29,47.6129,9.54403,"Tuniswald, Langenargen, Baden-Württemberg, Deutschland",['locality'],de,DEU
+1372,turin,Turin,64,45.06667,7.7,"Turin, Provinz Turin, Italien",['place'],it,ITA
+1373,tuerkei,Türkei,97,39.0604813685,35.1795933806,Türkei,['country'],tr,TUR
+1374,turkmenistan,Turkmenistan,8,39.1222850316,59.384377312,Turkmenistan,['country'],tm,TKM
+1375,turku,Turku,3,60.45167,22.27,"Turku, Varsinais-Suomi, Finnland",['place'],fi,FIN
+1376,tuvalu,Tuvalu,2,-8.514,179.1296,Tuvalu,['country'],tv,TUV
+1377,tuzla,Tuzla,0,40.87778,29.33556,"Tuzla, Istanbul, Türkei",['place'],tr,TUR
+1378,ueberlingen,Überlingen,3,47.76667,9.15833,"Überlingen, Baden-Württemberg, Deutschland",['place'],de,DEU
+1379,uckermark,Uckermark,8,,,,,,
+1380,uelzen,Uelzen,8,52.96472,10.56583,"Uelzen, Niedersachsen, Deutschland",['place'],de,DEU
+1381,uganda,Uganda,45,1.2799635313,32.3862178704,Uganda,['country'],ug,UGA
+1382,ukraine,Ukraine,97,49.3227937845,31.3202829594,Ukraine,['country'],ua,UKR
+1383,ulm,Ulm,50,48.4,9.98333,"Ulm, Baden-Württemberg, Deutschland",['place'],de,DEU
+1384,umbrien,Umbrien,4,,,,,,
+1385,ungarn,Ungarn,91,47.0602667472,19.4993490091,Ungarn,['country'],hu,HUN
+1386,unterhaching,Unterhaching,7,48.06583,11.61,"Unterhaching, Bayern, Deutschland",['place'],de,DEU
+1387,ural,Ural,32,-30.6412,151.4998,"Uralla, New South Wales, Australien",['place'],au,AUS
+1388,uruguay,Uruguay,39,-32.7996455127,-56.0123962387,Uruguay,['country'],uy,URY
+1389,urusgan,Urusgan,0,32.8,66.0,"Urusgan, Afghanistan",['region'],af,AFG
+1390,usa,USA,100,39.3812661306,-97.9222112121,Vereinigte Staaten,['country'],us,USA
+1391,usbekistan,Usbekistan,17,41.7504367984,63.1693719929,Usbekistan,['country'],uz,UZB
+1392,usedom,Usedom,6,53.86667,13.91667,"Usedom, Mecklenburg-Vorpommern, Deutschland",['place'],de,DEU
+1393,utah,Utah,11,39.2548171647,-111.6024999348,"Utah, Vereinigte Staaten",['region'],us,USA
+1394,utrecht,Utrecht,13,52.08889,5.11556,"Utrecht, Provinz Utrecht, Niederlande",['place'],nl,NLD
+1395,ut%C3%B8ya,Utøya,5,33.5229673552,36.458490137,"Utaya, Gouvernement Rif Dimaschq, Syrien",['place'],sy,SYR
+1396,vaduz,Vaduz,5,47.13972,9.52194,"Vaduz, Vaduz, Liechtenstein",['place'],li,LIE
+1397,valbella,Valbella,0,46.7473,9.5542,"Valbella, Kanton Graubünden, Schweiz",['place'],ch,CHE
+1398,val-d%27anniviers,Val d'Anniviers,0,47.36369,18.67532,"Vál, Komitat Fejér, Ungarn",['place'],hu,HUN
+1399,valencia,Valencia,31,39.46667,-0.375,"Valencia, Provinz Valencia, Spanien",['place'],es,ESP
+1400,vals,Vals,0,20.63333,72.93333,"Valsad, Gujarat, Indien",['place'],in,IND
+1401,vancouver,Vancouver,32,49.2609,-123.1139,"Vancouver, British Columbia, Kanada",['place'],ca,CAN
+1402,vancouver-island,Vancouver Island,0,,,,,,
+1403,vanuatu,Vanuatu,4,-16.2550523522,167.7181488255,Vanuatu,['country'],vu,VUT
+1404,vauxhall,Vauxhall,7,50.0667,-112.1,"Vauxhall, Alberta, Kanada",['place'],ca,CAN
+1405,vechta,Vechta,4,52.73056,8.28861,"Vechta, Niedersachsen, Deutschland",['place'],de,DEU
+1406,velbert,Velbert,2,51.33333,7.05,"Velbert, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+1407,venedig,Venedig,79,45.43972,12.33194,"Venedig, Provinz Venedig, Italien",['place'],it,ITA
+1408,venezuela,Venezuela,70,7.6195701479,-65.8019974447,Venezuela,['country'],ve,VEN
+1409,vent,Vent,1,34.2783,-119.2932,"Ventura, Kalifornien, Vereinigte Staaten",['place'],us,USA
+1410,verdun,Verdun,12,49.15972,5.38278,"Verdun, Département Meuse, Frankreich",['place'],fr,FRA
+1411,vereinigte-arabische-emirate,Vereinigte Arabische Emirate,23,23.8520599824,54.2561723714,Vereinigte Arabische Emirate,['country'],ae,ARE
+1412,vermont-,Vermont,0,44.0473082937,-72.7473878342,"Vermont, Vereinigte Staaten",['region'],us,USA
+1413,verona,Verona,18,45.43816,10.99374,"Verona, Provinz Verona, Italien",['place'],it,ITA
+1414,versailles,Versailles,20,48.80472,2.13417,"Versailles, Département Yvelines, Frankreich",['place'],fr,FRA
+1415,vesuv,Vesuv,6,37.9062,-79.1973,"Vesuvius, Virginia, Vereinigte Staaten",['place'],us,USA
+1416,viernheim,Viernheim,0,49.53799,8.57924,"Viernheim, Hessen, Deutschland",['place'],de,DEU
+1417,viersen,Viersen,3,51.26667,6.4,"Viersen, Nordrhein-Westfalen, Deutschland",['place'],de,DEU
+1418,vietnam,Vietnam,84,14.3154241771,108.3395374759,Vietnam,['country'],vn,VNM
+1419,vigo,Vigo,1,42.23333,-8.71667,"Vigo, Provinz Pontevedra, Spanien",['place'],es,ESP
+1420,villach,Villach,3,46.61667,13.83333,"Villach, Kärnten, Österreich",['place'],at,AUT
+1421,vilnius,Vilnius,16,54.68333,25.28333,"Vilnius, Bezirk Vilnius, Litauen",['place'],lt,LTU
+1422,vilshofen,Vilshofen,4,48.63306,13.18833,"Vilshofen an der Donau, Bayern, Deutschland",['place'],de,DEU
+1423,visaginas,Visaginas,0,55.6,26.43333,"Visaginas, Bezirk Utena, Litauen",['place'],lt,LTU
+1424,voelklingen,Völklingen,3,49.25,6.83333,"Völklingen, Saarland, Deutschland",['place'],de,DEU
+1425,vorpommern,Vorpommern,9,,,,,,
+1426,vukovar,Vukovar,3,45.35,19.00333,"Vukovar, Gespanschaft Vukovar-Srijem, Kroatien",['place'],hr,HRV
+1427,wackersdorf,Wackersdorf,15,49.31667,12.18333,"Wackersdorf, Bayern, Deutschland",['place'],de,DEU
+1428,waldeck,Waldeck,3,52.0583,4.2375,"Waldeck, Den Haag, Provinz Südholland, Niederlande",['locality'],nl,NLD
