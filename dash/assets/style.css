@@ -450,6 +450,14 @@ body {
   padding: 5%;
   margin: 1%;
 }
+/* For the start page */
+.pretty-container.centered {
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+  width: 50%;
+
+}
 
 hr {
   border: 1px solid #252525;
