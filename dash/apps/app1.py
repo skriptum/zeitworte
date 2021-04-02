@@ -17,7 +17,7 @@ from app import app, db, engine
 def plotter(dictionary):
     """ plot a dictionary of type {title : timeseries}"""
     fig = go.Figure()
-    colors = colors = [
+    colors = [
         "rgba(252, 191, 73, 1)", #yellow
         "rgba(214, 40, 40, 1)",  #red
         "rgba(129, 15, 128, 1)", #purple
@@ -48,7 +48,7 @@ def plotter(dictionary):
         hoverlabel = {"bgcolor": "white"},
         colorway = colors,
         legend = dict(
-            bgcolor = "#f4f4f4",
+            bgcolor = "rgba(0,0,0,0)",
             title = "Legende",
             x = 0, y = 1,
             bordercolor = "#f4f4f4",
@@ -219,13 +219,20 @@ layout = html.Div(children = [
         mobile_breakpoint = 0,
         children = [
 
+        #the worte tab
         dcc.Tab(
             className = "custom-tab", selected_className = "custom-tab--selected",
             label = "Zeitworte", children = [
             #the trender
             html.Div(className = "row content-container", children = [
+                #article sidenotes
+                html.Div(className = "four columns pretty-container", children = [
+                    html.H6("Zeitworte", className = "title"),
+                    html.H1("Grafik", className = "header"),
+                    html.P("random text, lalala"),
+                ]),
                 
-                #left side
+                #Graph
                 html.Div(className = "eight columns pretty-container", children = [
                     html.H5(className = "header", children = ["Kartenarsch"]),
 
@@ -234,15 +241,10 @@ layout = html.Div(children = [
                     ),
                 ]),
 
-                #article right side
-                html.Div(className = "four columns pretty-container", children = [
-                    html.H6("Zeitworte", className = "title"),
-                    html.H1("Grafik", className = "header"),
-                    html.P("random text, lalala"),
-                ])
             ]), 
         ]),
 
+        #the wortanalyse tab
         dcc.Tab(
             className = "custom-tab", selected_className = "custom-tab--selected",
             label = "Wortanalyse", children = [

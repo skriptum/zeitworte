@@ -431,7 +431,9 @@ body {
 }
 .bare-container {
   background-color: #f4f4f4;
-  padding: 1%;
+  padding: 3vmin;
+  position: sticky;
+  width: 100%;
 }
 .bare-container.top {
   border-bottom: 1px solid #252525;

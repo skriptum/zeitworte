@@ -7,6 +7,8 @@ import pandas as pd
 import plotly.express as px
 import json
 
+from app import app
+
 df = pd.read_json("data/keywords.json")
 f = open("data/custom.geo.json")
 geojson = json.load(f)
@@ -21,6 +23,8 @@ height = 600
 
 margins = {"t": 0, "b": 0, "r": 0, "l": 0}
 
+#---------------------------------------------------------------------------------------------------------------------------------
+#the figures
 #choropleth map
 fig1 = px.choropleth_mapbox(
     countries, geojson = geojson, locations="iso_3", featureidkey = "properties.iso_a3", 
@@ -130,9 +134,8 @@ fig3.update_coloraxes(colorbar = dict(
     nticks = 5,
 ))
 
-#
-#app = dash.Dash(assets_folder="../assets")
-
+#-----------------------------------------------------------------------------
+#the layout
 layout = html.Div(children = [
     dcc.Tabs(
         parent_className= "custom-tabs", className = "custom-tabs-container",
@@ -144,18 +147,21 @@ layout = html.Div(children = [
             label = "Weltkarte",
             children = [
                 html.Div(className = "row content-container", children = [
+                    #sidenotes
+                    html.Div(className = "three columns pretty-container", children = [
+                        html.P("Kartenansicht", className = "title"),
+                        html.H5("Karte", className = "header"),
+                        html.P("YOLO lorem ipsum")
+
+                    ]),
+
+                    #bubble mpa
                     html.Div(className = "nine columns pretty-container", children = [
                         dcc.Graph(
                             figure = fig2, config = {"displayModeBar": False, "responsive" : False}
                         ),
                     ], style = {"padding": "1%"}),
 
-                    html.Div(className = "three columns pretty-container", children = [
-                        html.P("Kartenansicht", className = "title"),
-                        html.H5("Karte", className = "header"),
-                        html.P("YOLO lorem ipsum")
-
-                    ])
                 ]),
             ]),     
 
@@ -164,18 +170,21 @@ layout = html.Div(children = [
             label = "Ländervergleich",
             children = [
                 html.Div(className = "row content-container", children = [
+                    #sidenotes
+                    html.Div(className = "three columns pretty-container", children = [
+                        html.P("Kartenansicht", className = "title"),
+                        html.H5("Karte", className = "header"),
+                        html.P("YOLO lorem ipsum")
+
+                    ]),
+
+                    #point map
                     html.Div(className = "nine columns pretty-container", children = [
                         dcc.Graph(
                             figure = fig1, config = {"displayModeBar": False, "responsive" : False}
                         ),
                     ], style = {"padding": "1%"}),
 
-                    html.Div(className = "three columns pretty-container", children = [
-                        html.P("Kartenansicht", className = "title"),
-                        html.H5("Karte", className = "header"),
-                        html.P("YOLO lorem ipsum")
-
-                    ])
                 ]),
         ]),
 
@@ -184,18 +193,21 @@ layout = html.Div(children = [
             label = "Deutschland",
             children = [
                 html.Div(className = "row content-container", children = [
+                    #sidentoes
+                    html.Div(className = "six columns pretty-container", children = [
+                        html.P("Kartenansicht", className = "title"),
+                        html.H5("Karte", className = "header"),
+                        html.P("YOLO lorem ipsum")
+
+                    ]),
+                    
+                    #deutschland karte
                     html.Div(className = "six columns pretty-container", children = [
                         dcc.Graph(
                             figure = fig3, config = {"displayModeBar": False, "responsive" : False}
                         ),
                     ], style = {"padding": "1%"}),
 
-                    html.Div(className = "six columns pretty-container", children = [
-                        html.P("Kartenansicht", className = "title"),
-                        html.H5("Karte", className = "header"),
-                        html.P("YOLO lorem ipsum")
-
-                    ])
                 ]),
             ]),
 
@@ -225,5 +237,3 @@ layout = html.Div(children = [
     ]),
 
 ])
-
-#app.run_server()

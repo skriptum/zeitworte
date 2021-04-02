@@ -32,7 +32,7 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 
 from app import app
-from apps import app1, app2, home
+from apps import home, app1, app2, app3, app4
 
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
@@ -42,6 +42,10 @@ app.layout = html.Div([
                 #html.Img(src = "./assets/logo.png")
                 html.H1("Keine Zeit", className = "header")
         ]),
+        dcc.Link("Worte", href = "/worte"), "|", 
+        dcc.Link("Autoren", href = "/autoren"), "|", 
+        dcc.Link("Karten", href = "/karten"), "|", 
+        dcc.Link("Über", href = "/about"), "|", 
     ]),
 
     #content
@@ -57,11 +61,15 @@ app.layout = html.Div([
 @app.callback(Output('page-content', 'children'),
               Input('url', 'pathname'))
 def display_page(pathname):
-    if pathname == '/apps/app1':
+    if pathname == '/worte':
         return app1.layout
-    elif pathname == '/apps/app2':
+    elif pathname == '/karten':
         return app2.layout
+    if pathname == '/autoren':
+        return app3.layout
     elif pathname == '/':
         return home.layout
+    elif pathname == '/about':
+        return app4.layout
     else:
         return '404'
