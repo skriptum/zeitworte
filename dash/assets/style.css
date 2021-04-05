@@ -429,11 +429,12 @@ body {
   height: 100%;
   width: 100%;
 }
+
+/* containers */
 .bare-container {
   background-color: #f4f4f4;
   padding: 3vmin;
   position: sticky;
-  width: 100%;
 }
 .bare-container.top {
   border-bottom: 1px solid #252525;
@@ -450,12 +451,9 @@ body {
   padding: 5%;
   margin: 1%;
 }
-/* For the start page */
 .pretty-container.centered {
-  margin-top: 5%;
-  margin-left: 20%;
-  margin-right: 20%;
-  width: 50%;
+  height: 50vh;
+  margin-left: 1% !important;
 
 }
 
@@ -472,8 +470,8 @@ hr.vertical {
 }
 
 .text-container {
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 20%;
+  margin-right: 20%;
   font-family: "FranziskaWebPro",Georgia,Palatino,"Palatino Linotype",FreeSerif,serif;
   font-size: 2rem;
 }

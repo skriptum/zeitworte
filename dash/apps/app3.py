@@ -78,7 +78,17 @@ layout = html.Div(children = [
         dcc.Markdown("""**Peter** scheint unter Zeit Autoren ein sehr beliebter Vorname, 625 **Peters**
         verzeichnet die Zeit, dicht gefolgt von 564 Autoren mit Namen **Hans**. Erst auf Platz
         40 kommen weibliche Vornamen zum Vorschein, die 143 **Barbaras**, gefolgt auf Platz 51
-        von 119 **Julias**.
+        von 119 **Julias**. Besonders ausgeglichen ist das Geschlechterverhältnis nicht, ob das an den oft 
+        gleichen männlichen Vornamen liegt oder am besonders in der Anfangszeit vorherrschenden Sexismus liegt ? 
         """),
+
+        #funktionsweise
+        html.Div(className = "pretty-container", children = [
+            html.H6("Funktionsweise", className = "title"),
+            html.P(""" Etwa 70.000 Autor:innen haben in den letzten 75 Jahren mindestents einen Artikel für
+            die Zeit verfasst. Bereinigt von Fehlern, und die Namen in Vornamen, Zunamen und Nachnamen aufgeteilt
+            und nach Häufigkeit sortiert, entsteht diese Grafik. Die Geschlechter der Vornamen wurden dabei händisch 
+            sortiert""")
+        ])
     ])
 ])

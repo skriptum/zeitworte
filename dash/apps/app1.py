@@ -183,6 +183,11 @@ con = engine.connect()
 metadata = db.MetaData()
 table = db.Table("keyword", metadata, autoload=True, autoload_with=engine)
 
+#the startup selection
+startup_df = pd.read_json("data/startup.json") #read the file
+startup_plot_dict = serializer(startup_df)
+startup_fig = plotter(startup_plot_dict)
+startup_text = startup_df.to_json()
 
 # %%
 
@@ -211,7 +216,9 @@ layout = html.Div(children = [
 
     ]),
     html.Div(id = "hidden-div-output", style = {"display": "none"}),
-    html.Div(id = "hidden-div-output2", style = {"display": "none"}, children = '{"uri":{},"lexical":{},"results":{},"type":{},"json":{},"matches":{},"score":{}}'),
+    html.Div(id = "hidden-div-output2", style = {"display": "none"}, 
+            children = startup_text,
+            ),
 
     #the graphing
     dcc.Tabs(
@@ -228,13 +235,14 @@ layout = html.Div(children = [
                 #article sidenotes
                 html.Div(className = "four columns pretty-container", children = [
                     html.H6("Zeitworte", className = "title"),
-                    html.H1("Grafik", className = "header"),
-                    html.P("random text, lalala"),
+                    html.H1("ZEITVergleich", className = "header"),
+                    html.P("""Durchsuche die 16.000 Schlagworte der Zeit und vergleiche ihre 
+                    Nutzung über die letzten Jahrzente. Voreingestellt sind
+                    """),
                 ]),
                 
                 #Graph
                 html.Div(className = "eight columns pretty-container", children = [
-                    html.H5(className = "header", children = ["Kartenarsch"]),
 
                     dcc.Graph(id = "graph1",
                     config = {"displayModeBar": False, "responsive" : False}
@@ -259,23 +267,22 @@ layout = html.Div(children = [
     html.Hr(className = "vertical"),
     
     html.Div(className = "text-container", children = [
-        html.H6("Beispiel", className = "title"),
+        html.H6("Zeitvergleich", className = "title"),
 
-        html.H1("Lorem Ipsum", className = "header"),
+        html.H1("Schlagworte über die Zeit", className = "header"),
 
-        html.P("""Et incidunt molestiae cupiditate totam neque. Pariatur cupiditate illo aut molestias exercitationem 
-                oluptatem delectus reprehenderit. Fugit laborum dolorum quia. Est vel laudantium molestias nihil explicabo. 
-                Deleniti sit ullam quaerat qui fugit sunt iure quia. Quod aut rerum quaerat architecto vero.
-
-                Ut et iusto odio fugit et error repellendus. Ea officia dolor assumenda voluptatum ut sequi. 
-                Aut laborum dignissimos labore esse illo saepe. Cum sapiente rerum suscipit sint et.
-
-                Hic et magnam accusantium et sit. Neque eveniet alias sit aut autem. Molestiae provident nemo commodi est 
-                ipsum fuga aut similique.
-
-                Recusandae nostrum perferendis dicta. Sint deleniti voluptatem dicta et. Quod totam excepturi qui molestias. 
-                Maiores ullam culpa sit laudantium numquam et accusamus nihil. Nihil illo ipsum et officia soluta sed nobis maiores. 
-                Non ea fuga qui quas earum tempore veritatis.""")
+        html.P(""" Die Schlagworte der ZEIT, interaktiv visualisiert und nach eigenen Kriterien aussuchbar.
+        Die Zeit hat etwa 16.000 Schlagwörter, mit denen sie Artikel versehen, gesammelt über einen Zeitraum von
+        75 Jahren. Diese Website macht den interaktiven Vergleich von verwandten oder völlig fremden Schlagwörtern
+        möglich, beispielsweise den Kampf zwischen Armin Laschet, Friedrich Merz und Norbert Röttgen und vieles mehr.
+        """),
+        html.Div(className = "pretty-container", children = [
+            html.H6("Funktionsweise", className = "title"),
+            html.P(""" Alle 16.000 Schlagwörter sind von der Zeit-Website abgefragt worden, inklusiove der Typen. Daraufhin
+            werden Zeitreihen der Schlagwörter erstellt und in einer Datenbank gespeichert, auf die diese Website zugreift.
+            Zu jedem Schlagwort wird außerdem ein Artikel ausgewählt, der im zweiten Tab dargestellt wird.
+            """)
+        ])
     ]),
 
 ])
@@ -305,7 +312,7 @@ def search_database(value):
     count = len(result)
 
     #check the reuslts
-    if count == 0 or value == "":
+    if count == 0:
         buttons = [ html.Button("Niet", style = {"display": "none"}, id = f'search_button{i}', n_clicks=0) for i in range(5)]
 
         return html.Div(children = buttons), "Keine Ergebnisse", "{}"
@@ -410,7 +417,7 @@ def get_data(data, selected, btn0, btn1, btn2, btn3, btn4, clear):
 
     articles = object_info(selected)
 
-    auswahl = auswahler(selected.index)
+    auswahl = auswahler(selected.lexical)
 
 
     return figure, selected_json, html.Div(children = articles), auswahl,  clear, btn0, btn1, btn2, btn3, btn4

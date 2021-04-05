@@ -149,9 +149,10 @@ layout = html.Div(children = [
                 html.Div(className = "row content-container", children = [
                     #sidenotes
                     html.Div(className = "three columns pretty-container", children = [
-                        html.P("Kartenansicht", className = "title"),
-                        html.H5("Karte", className = "header"),
-                        html.P("YOLO lorem ipsum")
+                        html.P("Weltkarte der Schlagwörter", className = "title"),
+                        html.H5("geographische Schlagworte visualisert", className = "header"),
+                        html.P(""" Alle 1600 geographischen Schlagworte der Zeit auf die Karte gebracht.
+                        Je größer und heller ein Punkt, desto höher der von der ZEIT vergebene Score. """)
 
                     ]),
 
@@ -173,8 +174,9 @@ layout = html.Div(children = [
                     #sidenotes
                     html.Div(className = "three columns pretty-container", children = [
                         html.P("Kartenansicht", className = "title"),
-                        html.H5("Karte", className = "header"),
-                        html.P("YOLO lorem ipsum")
+                        html.H5("Länderkarte", className = "header"),
+                        html.P("""Die Zeit sortiert Länder automatisch nach ihrem Score.
+                        Diese Karte zeigt die verschiedenen Scores der Meisten Länder der Welt """)
 
                     ]),
 
@@ -196,8 +198,9 @@ layout = html.Div(children = [
                     #sidentoes
                     html.Div(className = "six columns pretty-container", children = [
                         html.P("Kartenansicht", className = "title"),
-                        html.H5("Karte", className = "header"),
-                        html.P("YOLO lorem ipsum")
+                        html.H5("Deutschland-Karte", className = "header"),
+                        html.P("""Auch für Deutschland speziell, in dem die meisten Schlagworte liegen,
+                        lässt sich die Verteulung gut darstellen. Insbesondere der Südwesten stich hier hervor""")
 
                     ]),
                     
@@ -217,23 +220,26 @@ layout = html.Div(children = [
     html.Hr(className = "vertical"),
     
     html.Div(className = "text-container", children = [
-        html.H6("Beispiel", className = "title"),
+        html.H6("Kartenansichten", className = "title"),
 
-        html.H1("Lorem Ipsum", className = "header"),
+        html.H1("Schlagwörter der Welt", className = "header"),
 
-        html.P("""Et incidunt molestiae cupiditate totam neque. Pariatur cupiditate illo aut molestias exercitationem 
-                oluptatem delectus reprehenderit. Fugit laborum dolorum quia. Est vel laudantium molestias nihil explicabo. 
-                Deleniti sit ullam quaerat qui fugit sunt iure quia. Quod aut rerum quaerat architecto vero.
+        html.P(""" Der Fokus der Zeit liegt vor allem im europäischen Kontext, vor allem im deutschen Raum beispielsweise
+        mit Berlin, welches ein Score von 99/100 Punkten hat,
+        Jedoch auch bekannte Regionen wie die Ostküste der USA mit New York(97) als auch Südostasien sind hervorgehoben. Regionen,
+        die man sonst auch eher aus einem negativen Kontext kennt, wie Syrien(98) oder Irak(95) stehen im Fokus.
+        In Deutschland ist vor allem das Ruhrgebiet eine Konzentrationsfläche wie auch der gesamte Südwesten, während Brandenburg 
+        und Mecklenburg Vorpommern eher weniger dicht gepunktet sind.
 
-                Ut et iusto odio fugit et error repellendus. Ea officia dolor assumenda voluptatum ut sequi. 
-                Aut laborum dignissimos labore esse illo saepe. Cum sapiente rerum suscipit sint et.
-
-                Hic et magnam accusantium et sit. Neque eveniet alias sit aut autem. Molestiae provident nemo commodi est 
-                ipsum fuga aut similique.
-
-                Recusandae nostrum perferendis dicta. Sint deleniti voluptatem dicta et. Quod totam excepturi qui molestias. 
-                Maiores ullam culpa sit laudantium numquam et accusamus nihil. Nihil illo ipsum et officia soluta sed nobis maiores. 
-                Non ea fuga qui quas earum tempore veritatis.""")
+        """),
+        #funktionsweise
+        html.Div(className = "pretty-container", children = [
+            html.H6("Funktionsweise", className = "title"),
+            html.P(""" Alle Artikel der Zeit werden mit mehreren Schlagworten versehen, die alle einen Typus wie Ort, Person, Organisation
+            bekommen. Bei den Karten werden alle 1600 geographischen Schlagworte mithilfe von Mapbox geocodiert (augrund des Namens den
+            Längen- und Breitengrad suchen) und auf eine Karte gebracht. Diese Karte nutzt Kartendaten von Carto und plotly
+            """),
+         ])
     ]),
 
 ])
