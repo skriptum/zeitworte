@@ -49,7 +49,7 @@ def plotter(dictionary):
         colorway = colors,
         legend = dict(
             bgcolor = "rgba(0,0,0,0)",
-            title = "Legende",
+            title = None,
             x = 0, y = 1,
             bordercolor = "#f4f4f4",
             borderwidth = 1,

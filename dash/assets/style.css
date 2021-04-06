@@ -454,6 +454,7 @@ body {
 .pretty-container.centered {
   height: 50vh;
   margin-left: 1% !important;
+  overflow: hidden;
 
 }
 
