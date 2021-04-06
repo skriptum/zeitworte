@@ -438,7 +438,7 @@ body {
 }
 .bare-container.top {
   border-bottom: 1px solid #252525;
-  margin-bottom: 2%;
+  /* margin-bottom: 2%; */
 }
 
 .bare-container.bottom {
@@ -455,6 +455,7 @@ body {
   height: 50vh;
   margin-left: 1% !important;
   overflow: hidden;
+  margin-top: 3%;
 
 }
 
@@ -505,6 +506,17 @@ hr.vertical {
   .preview-box {
     width: 100% !important;
   }
+}
+
+.download-button {
+  border: 2px solid black;
+  border-radius: 0;
+  width: 100%;
+  font-family: "TabletGothic","Helvetica Neue",Helvetica,Arial,FreeSans,sans-serif;
+  margin: 1%;
+}
+.download-button:hover {
+  border-color: #252525;
 }
 
 /* The Search box and everything */

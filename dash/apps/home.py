@@ -9,7 +9,9 @@ from apps.app3 import fig  as autoren_fig
 
 
 layout = html.Div(children = [
-    html.Div(className = "twelve columns pretty-container", children ="a" ),
+    # html.Div(className = "twelve columns pretty-container", 
+    #     children =["a"] , 
+    #     style = {"margin-top": "0"}),
 
     #the pages
     html.Div(className = "text-container", children = [

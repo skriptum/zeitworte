@@ -54,7 +54,7 @@ app.layout = html.Div([
     #footer
     html.Div(className = "bare-container bottom", children = [
         "YOlo"
-    ], style = {"border-top": "1px solid #252525"}),
+    ]),
     
 ])
 

@@ -1,17 +1,24 @@
 # %%
 # all the import statements
-import zeit
+
+#general graphing and data manipulation
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
+#the dasch components
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
 
+#for html export
+import io
+from base64 import b64encode
+from flask import send_file
+
+#for working of app
 from app import app, db, engine
-
-
+#------------------------------------------------------------------------------------------------------------------------------
 
 # %%
 def plotter(dictionary):
@@ -177,7 +184,7 @@ def auswahler(index_list):
         )
     return html.Div(children)
 #%%
-
+#------------------------------------------------------------------------------------------------------------------------------
 #Postgres 
 con = engine.connect()
 metadata = db.MetaData()
@@ -191,11 +198,13 @@ startup_text = startup_df.to_json()
 
 # %%
 
-
+#------------------------------------------------------------------------------------------------------------------------------
 layout = html.Div(children = [
      
+
+     #search bar
     html.Div(className = "row", style = {"padding": "5%", "padding-bottom": "0"},children = [
-        #search bar
+        
         html.Div(className = "search-bar pretty-container", children = [
             html.P(id = "number-output1", className = "title", style = {"font-size": "9pt"}),
 
@@ -220,6 +229,9 @@ layout = html.Div(children = [
             children = startup_text,
             ),
 
+
+
+
     #the graphing
     dcc.Tabs(
         parent_className= "custom-tabs", className = "custom-tabs-container",
@@ -239,6 +251,19 @@ layout = html.Div(children = [
                     html.P("""Durchsuche die 16.000 Schlagworte der Zeit und vergleiche ihre 
                     Nutzung über die letzten Jahrzente. Voreingestellt sind
                     """),
+
+                    #download buttons for the figure
+                    html.A( #html
+                        html.Button(id = "download_button1", children = "Download HTML", className = "download-button"), 
+                        id="download_link1",
+                        download="grafik.html"
+                    ),
+
+                    html.A( #html
+                        html.Button(id = "download_button2", children = "Download PNG", className = "download-button"), 
+                        id="download_link2",
+                        download="grafik.png"
+                    ),
                 ]),
                 
                 #Graph
@@ -264,6 +289,8 @@ layout = html.Div(children = [
 
         
     ]),
+
+    #the text
     html.Hr(className = "vertical"),
     
     html.Div(className = "text-container", children = [
@@ -287,7 +314,7 @@ layout = html.Div(children = [
 
 ])
 
-
+#------------------------------------------------------------------------------------------------------------------------------
 @app.callback(
     dash.dependencies.Output("search-output1", "children"),
     dash.dependencies.Output("number-output1", "children"),
@@ -338,8 +365,8 @@ def search_database(value):
         anzeige = f"Die Top {count} Ergebnisse werden angezeigt"
     return html.Div(children = output), anzeige, df.to_json()
 
-
-
+#------------------------------------------------------------------------------------------------------------------------------
+#Choosing Ouptut and plotting
 
 @app.callback(
     dash.dependencies.Output("graph1", "figure"), #the figure
@@ -422,3 +449,49 @@ def get_data(data, selected, btn0, btn1, btn2, btn3, btn4, clear):
 
     return figure, selected_json, html.Div(children = articles), auswahl,  clear, btn0, btn1, btn2, btn3, btn4
     
+
+
+
+#------------------------------------------------------------------------------------------------------------------------------
+# Download the plots as html
+@app.callback(
+    dash.dependencies.Output("download_link1", "href"),
+
+    dash.dependencies.Input("download_button1", "n_clicks"),
+    dash.dependencies.Input("graph1", "figure")
+)
+
+def download_graph_html(button1, figure):
+
+    #figure is a dict, fix weird error with the _template
+    del figure["layout"]["xaxis"]["rangeslider"]["yaxis"]["_template"]
+    figure = go.Figure(figure)
+    
+    #doing the html downloader
+    buffer = io.StringIO()
+    figure.write_html(buffer, include_plotlyjs = "cdn")
+    html_bytes = buffer.getvalue().encode()
+    html_encoded = b64encode(html_bytes).decode()
+    href ="data:text/html;base64," + html_encoded
+    return href
+
+
+@app.callback(
+    dash.dependencies.Output("download_link2", "href"),
+
+    dash.dependencies.Input("download_button2", "n_clicks"),
+    dash.dependencies.Input("graph1", "figure")
+)
+
+def download_graph_png(button1, figure):
+    #figure is a dict, fix weird error with the _template
+    del figure["layout"]["xaxis"]["rangeslider"]["yaxis"]["_template"]
+    figure = go.Figure(figure)
+
+    #png downloader
+    img_bytes =  figure.to_image(format = "png", width = 1000, height = 600, scale = 2)
+    fig_encoded = b64encode(img_bytes).decode()
+    href ="data:image/png;base64," + fig_encoded
+    return href
+
+#------------------------------------------------------------------------------------------------------------------------------
