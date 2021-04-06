@@ -7,7 +7,7 @@ import plotly.express as px
 
 from app import app
 
-df = pd.read_csv("../data/names.csv", names = ["names", "count", "gender"], header = 0) #read in the data again
+df = pd.read_csv("data/names.csv", names = ["names", "count", "gender"], header = 0) #read in the data again
 
 
 #the figure
